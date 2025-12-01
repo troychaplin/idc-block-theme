@@ -1,0 +1,275 @@
+/**
+ * Custom Styles for TC Projects
+ */
+
+/* Background Gradient */
+/* html::before,
+.wp-block-navigation__responsive-container.is-menu-open::before {
+    --translate-x: -20%;
+    --translate-y: -20%;
+    --rotate: -25deg;
+    
+    content: '';
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 600px;
+    height: 600px;
+    background: radial-gradient(ellipse at 60% 35%, #214f83 0%, #5d9ad3 40%, #c7dbf0 60%, #ffffff 90%);
+    opacity: 0.17;
+    filter: blur(100px);
+    transform: translate(var(--translate-x), var(--translate-y)) rotate(var(--rotate));
+    transform-origin: top right;
+    pointer-events: none;
+    z-index: -1;
+}
+
+@media (max-width: 1024px) {
+    html::before,
+    .wp-block-navigation__responsive-container.is-menu-open::before {
+        --translate-x: -5%;
+    }
+}
+
+@media (max-width: 782px) {
+    html::before,
+    .wp-block-navigation__responsive-container.is-menu-open::before {
+        --translate-x: 5%;
+    }
+}
+
+@media (max-width: 599px) {
+    html::before,
+    .wp-block-navigation__responsive-container.is-menu-open::before {
+        --translate-x: 15%;
+    }
+} */
+
+/* Background Random Dot Pattern */
+/* body::before,
+.wp-block-navigation__responsive-close::before {
+    content: '';
+    position: fixed;
+    inset: 0;
+    z-index: -1;
+    pointer-events: none;
+    background-image: 
+        radial-gradient(circle, rgba(16, 185, 129, 0.4) 2px, transparent 2px),
+        radial-gradient(circle, rgba(20, 184, 166, 0.35) 2px, transparent 2px),
+        radial-gradient(circle, rgba(251, 191, 36, 0.2) 3px, transparent 3px),
+        radial-gradient(circle, rgba(16, 185, 129, 0.25) 1.5px, transparent 1.5px),
+        radial-gradient(circle, rgba(20, 184, 166, 0.3) 2px, transparent 2px),
+        radial-gradient(circle, rgba(16, 185, 129, 0.2) 1px, transparent 1px),
+        radial-gradient(circle, rgba(251, 191, 36, 0.25) 2px, transparent 2px),
+        radial-gradient(circle, rgba(20, 184, 166, 0.2) 1.5px, transparent 1.5px);
+    background-size: 60px 60px, 75px 75px, 90px 90px, 45px 45px, 70px 70px, 50px 50px, 80px 80px, 55px 55px;
+    background-position: 0 0, 30px 30px, 15px 45px, 40px 8px, 55px 22px, 20px 50px, 45px 15px, 10px 35px;
+    mask-image: radial-gradient(ellipse 85% 115% at top right, black 25%, transparent 78%);
+    -webkit-mask-image: radial-gradient(ellipse 85% 115% at top right, black 25%, transparent 78%);
+} */
+
+/* Background SVG Grid Pattern */
+body::after,
+.wp-block-navigation__responsive-close::after {
+    content: '';
+    position: fixed;
+    inset: 0;
+    z-index: -1;
+    pointer-events: none;
+    background-image: 
+        repeating-linear-gradient(85deg, transparent, transparent 48px, rgba(0,0,0, 0.035) 48px, rgba(0,0,0, 0.035) 49px),
+        repeating-linear-gradient(175deg, transparent, transparent 48px, rgba(0,0,0, 0.035) 48px, rgba(0,0,0, 0.035) 49px);
+    mask-image: radial-gradient(circle at top right, black 25%, transparent 55%);
+    -webkit-mask-image: radial-gradient(circle at top right, black 25%, transparent 55%);
+}
+
+/* Header Sticky Background Blur Effect */
+header.is-position-sticky {
+    backdrop-filter: blur(8px) saturate(180%);
+    -webkit-backdrop-filter: blur(8px) saturate(180%);
+}
+
+.wp-block-navigation__responsive-container.is-menu-open.is-menu-open {
+    height: 100vh;
+}
+
+/* ===========================
+Site Title Styles
+=========================== */
+
+.idc-site-title.wp-block-site-title {
+    max-width: 100px;
+}
+
+/* ===========================
+Navigation Styles
+=========================== */
+
+.wp-block-navigation .wp-block-navigation-item .wp-block-navigation-item__content:hover,
+.wp-block-navigation .wp-block-navigation-item.current-menu-item .wp-block-navigation-item__content,
+.wp-block-navigation .wp-block-navigation-item.current-menu-item .wp-block-navigation-item__content:hover {
+    color: var(--wp--preset--color--blue-600);
+    font-weight: 300;
+}
+
+/* ===========================
+Navigation Responsive Styles
+=========================== */
+
+/* @media (max-width: 599px) {
+    .wp-block-navigation__responsive-dialog {
+        margin: var(--wp--preset--spacing--lg) !important;
+        padding: 0;
+    }
+
+    .lumen-mobile-nav .wp-block-navigation__container {
+        max-width: 220px;
+        width: 100%;
+    }
+
+    .lumen-mobile-nav .wp-block-navigation-item {
+        width: 100%;
+    }
+
+    .lumen-mobile-nav .wp-block-navigation-item .wp-block-navigation-item__content {
+        display: block;
+        width: 100%;
+        text-align: center;
+        padding: var(--wp--preset--spacing--xs) var(--wp--preset--spacing--sm) !important;
+        background-color: var(--wp--preset--color--black-25);
+        border: 1px solid var(--wp--preset--color--white-80);
+        color: var(--wp--preset--color--gray-300);
+        border-radius: 8px;
+        margin: 0;
+    }
+
+    .lumen-mobile-nav .wp-block-navigation-item .wp-block-navigation-item__content:hover {
+        border-color: var(--wp--preset--color--emerald);
+        color: var(--wp--preset--color--emerald);
+    }
+
+    .wp-block-navigation__responsive-container-close {
+        background-color: var(--wp--preset--color--black-80);
+        padding: var(--wp--preset--spacing--xs);
+        border-radius: 50%;
+    }
+
+    .wp-block-navigation__responsive-container-close svg {
+        width: 20px;
+        height: 20px;
+    }
+} */
+
+/* ===========================
+Tag Cloud Button Style
+=========================== */
+
+.wp-block-x3p0-breadcrumbs a {
+    font-weight: 300;
+    font-style: italic;
+}
+
+/* ===========================
+Tag Cloud Button Style
+=========================== */
+
+.lumen-social-icons .wp-block-outermost-icon-block .icon-container.has-icon-color svg:hover {
+    fill: var(--wp--preset--color--lightning) !important;
+    color: var(--wp--preset--color--lightning) !important;
+}
+
+
+/* ===========================
+Tag Cloud Button Style
+=========================== */
+
+.wp-block-tag-cloud.is-style-button-style {
+    display: flex;
+    gap: var(--wp--preset--spacing--xs);
+    flex-wrap: wrap;
+}
+
+.wp-block-tag-cloud.is-style-button-style .tag-cloud-link {
+    padding: var(--wp--preset--spacing--xs) var(--wp--preset--spacing--sm);
+    background-color: var(--wp--preset--color--black-25);
+    border: 1px solid var(--wp--preset--color--white-10);
+    color: var(--wp--preset--color--gray-300);
+    border-radius: 8px;
+    margin: 0;
+}
+
+.wp-block-tag-cloud.is-style-button-style .tag-cloud-link:hover {
+    background-color: var(--wp--preset--color--black-80);
+    border-color: var(--wp--preset--color--emerald);
+    color: var(--wp--preset--color--emerald);
+}
+
+/* ===========================
+Blog Card Styles
+=========================== */
+
+.wp-block-group.blog-card {
+    display: flex;
+    flex-direction: column;
+}
+
+.wp-block-group.blog-card .meta {
+    width: 100%;
+    margin-top: auto;
+}
+
+/* ===========================
+Pagination Styles
+=========================== */
+
+.wp-block-query-pagination {
+    margin-top: var(--wp--preset--spacing--xl);
+}
+
+.wp-block-query-pagination-numbers {
+    display: flex;
+    gap: var(--wp--preset--spacing--xs);
+    flex-wrap: wrap;
+}
+
+.wp-block-query-pagination-numbers .page-numbers {
+    padding: var(--wp--preset--spacing--xs) var(--wp--preset--spacing--sm);
+    margin: 0;
+    background-color: var(--wp--preset--color--black-25);
+    border: 1px solid var(--wp--preset--color--white-10);
+    color: var(--wp--preset--color--gray-300);
+    border-radius: 8px;
+}
+
+.wp-block-query-pagination-numbers a.page-numbers:hover,
+.wp-block-query-pagination-numbers span.page-numbers.current {
+    border: 1px solid var(--wp--preset--color--emerald);
+    color: var(--wp--preset--color--emerald);
+}
+
+.wp-block-query-pagination-next-arrow:hover,
+.wp-block-query-pagination-previous-arrow:hover {
+    color: var(--wp--preset--color--emerald);
+}
+
+/* ===========================
+Comments Form Styles
+=========================== */
+
+.wp-block-post-comments-form .logged-in-as,
+.wp-block-post-comments-form .comment-form-comment {
+    font-size: var(--wp--preset--font-size--small);
+}
+
+.wp-block-post-comments-form .comment-form-comment textarea {
+    background-color: var(--wp--preset--color--black-25);
+    border: 1px solid var(--wp--preset--color--white-10);
+    color: var(--wp--preset--color--white);
+    margin-top: var(--wp--preset--spacing--sm);
+    padding: var(--wp--preset--spacing--md);
+    border-radius: 8px;
+}
+
+.wp-block-post-comments-form .comment-form-comment textarea:focus {
+    outline: 1px solid var(--wp--preset--color--emerald);
+}

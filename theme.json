@@ -1,0 +1,602 @@
+{
+	"customTemplates": [
+		{
+			"name": "page-no-title",
+			"postTypes": [
+				"page"
+			],
+			"title": "Page: No Title"
+		},
+		{
+			"name": "single-post-no-featured",
+			"postTypes": [
+				"post"
+			],
+			"title": "Single Post: No Featured"
+		}
+	],
+	"settings": {
+		"appearanceTools": true,
+		"color": {
+			"defaultPalette": false,
+			"palette": [
+				{
+					"color": "#000000",
+					"name": "Black",
+					"slug": "black"
+				},
+				{
+					"color": "#3d3d3d",
+					"name": "Gray 900",
+					"slug": "gray-900"
+				},
+				{
+					"color": "#454545",
+					"name": "Gray 800",
+					"slug": "gray-800"
+				},
+				{
+					"color": "#4f4f4f",
+					"name": "Gray 700",
+					"slug": "gray-700"
+				},
+				{
+					"color": "#5d5d5d",
+					"name": "Gray 600",
+					"slug": "gray-600"
+				},
+				{
+					"color": "#6d6d6d",
+					"name": "Gray 500",
+					"slug": "gray-500"
+				},
+				{
+					"color": "#888888",
+					"name": "Gray 400",
+					"slug": "gray-400"
+				},
+				{
+					"color": "#b0b0b0",
+					"name": "Gray 300",
+					"slug": "gray-300"
+				},
+				{
+					"color": "#d1d1d1",
+					"name": "Gray 200",
+					"slug": "gray-200"
+				},
+				{
+					"color": "#e7e7e7",
+					"name": "Gray 100",
+					"slug": "gray-100"
+				},
+				{
+					"color": "#f6f6f6",
+					"name": "Gray 50",
+					"slug": "gray-50"
+				},
+				{
+					"color": "#ffffff",
+					"name": "White",
+					"slug": "white"
+				},
+				{
+					"color": "#14263d",
+					"name": "Blue 950",
+					"slug": "blue-950"
+				},
+				{
+					"color": "#1f3a5b",
+					"name": "Blue 900",
+					"slug": "blue-900"
+				},
+				{
+					"color": "#1f446d",
+					"name": "Blue 800",
+					"slug": "blue-800"
+				},
+				{
+					"color": "#214f83",
+					"name": "Blue 700",
+					"slug": "blue-700"
+				},
+				{
+					"color": "#2863a1",
+					"name": "Blue 600",
+					"slug": "blue-600"
+				},
+				{
+					"color": "#387dbf",
+					"name": "Blue 500",
+					"slug": "blue-500"
+				},
+				{
+					"color": "#5d9ad3",
+					"name": "Blue 400",
+					"slug": "blue-400"
+				},
+				{
+					"color": "#95bce4",
+					"name": "Blue 300",
+					"slug": "blue-300"
+				},
+				{
+					"color": "#c7dbf0",
+					"name": "Blue 200",
+					"slug": "blue-200"
+				},
+				{
+					"color": "#e6eef8",
+					"name": "Blue 100",
+					"slug": "blue-100"
+				},
+				{
+					"color": "#f3f6fc",
+					"name": "Blue 50",
+					"slug": "blue-50"
+				},
+				{
+					"color": "#451405",
+					"name": "Orange 950",
+					"slug": "orange-950"
+				},
+				{
+					"color": "#7f2d0f",
+					"name": "Orange 900",
+					"slug": "orange-900"
+				},
+				{
+					"color": "#9e340e",
+					"name": "Orange 800",
+					"slug": "orange-800"
+				},
+				{
+					"color": "#b73c06",
+					"name": "Orange 700",
+					"slug": "orange-700"
+				},
+				{
+					"color": "#f15905",
+					"name": "Orange 600",
+					"slug": "orange-600"
+				},
+				{
+					"color": "#ff750f",
+					"name": "Orange 500",
+					"slug": "orange-500"
+				},
+				{
+					"color": "#ff9436",
+					"name": "Orange 400",
+					"slug": "orange-400"
+				},
+				{
+					"color": "#ffbc70",
+					"name": "Orange 300",
+					"slug": "orange-300"
+				},
+				{
+					"color": "#ffd8a7",
+					"name": "Orange 200",
+					"slug": "orange-200"
+				},
+				{
+					"color": "#ffeed4",
+					"name": "Orange 100",
+					"slug": "orange-100"
+				},
+				{
+					"color": "#fff7ec",
+					"name": "Orange 50",
+					"slug": "orange-50"
+				},
+				{
+					"color": "rgba(255, 255, 255, 0.8)",
+					"name": "White 80%",
+					"slug": "white-80"
+				}
+			]
+		},
+		"layout": {
+			"contentSize": "672px",
+			"wideSize": "976px"
+		},
+		"spacing": {
+			"customSpacingSize": false,
+			"defaultSpacingSizes": false,
+			"spacingSizes": [
+				{
+					"fluid": {
+						"max": "0.5rem",
+						"min": "0.375rem"
+					},
+					"name": "Extra Small",
+					"size": "0.5rem",
+					"slug": "xs"
+				},
+				{
+					"fluid": {
+						"max": "1rem",
+						"min": "0.75rem"
+					},
+					"name": "Small",
+					"size": "1rem",
+					"slug": "sm"
+				},
+				{
+					"fluid": {
+						"max": "1.5rem",
+						"min": "1.125rem"
+					},
+					"name": "Medium",
+					"size": "1.5rem",
+					"slug": "md"
+				},
+				{
+					"fluid": {
+						"max": "2rem",
+						"min": "1.5rem"
+					},
+					"name": "Large",
+					"size": "2rem",
+					"slug": "lg"
+				},
+				{
+					"fluid": {
+						"max": "3rem",
+						"min": "2rem"
+					},
+					"name": "Extra Large",
+					"size": "3rem",
+					"slug": "xl"
+				},
+				{
+					"fluid": {
+						"max": "4rem",
+						"min": "3rem"
+					},
+					"name": "2X Large",
+					"size": "4rem",
+					"slug": "2xl"
+				},
+				{
+					"fluid": {
+						"max": "6rem",
+						"min": "4rem"
+					},
+					"name": "3X Large",
+					"size": "6rem",
+					"slug": "3xl"
+				}
+			],
+			"units": [
+				"rem",
+				"em",
+				"%",
+				"ch",
+				"cqi",
+				"vh",
+				"vw",
+				"px"
+			]
+		},
+		"typography": {
+			"defaultFontSizes": false,
+			"fluid": true,
+			"fontFamilies": [
+				{
+					"fontFace": [
+						{
+							"fontFamily": "Inter",
+							"fontStyle": "normal",
+							"fontWeight": "200",
+							"src": [
+								"file:./assets/fonts/inter/inter-200-normal.woff2"
+							]
+						},
+						{
+							"fontFamily": "Inter",
+							"fontStyle": "normal",
+							"fontWeight": "300",
+							"src": [
+								"file:./assets/fonts/inter/inter-300-normal.woff2"
+							]
+						},
+						{
+							"fontFamily": "Inter",
+							"fontStyle": "normal",
+							"fontWeight": "500",
+							"src": [
+								"file:./assets/fonts/inter/inter-500-normal.woff2"
+							]
+						},
+						{
+							"fontFamily": "Inter",
+							"fontStyle": "italic",
+							"fontWeight": "200",
+							"src": [
+								"file:./assets/fonts/inter/inter-200-italic.woff2"
+							]
+						},
+						{
+							"fontFamily": "Inter",
+							"fontStyle": "italic",
+							"fontWeight": "300",
+							"src": [
+								"file:./assets/fonts/inter/inter-300-italic.woff2"
+							]
+						},
+						{
+							"fontFamily": "Inter",
+							"fontStyle": "italic",
+							"fontWeight": "500",
+							"src": [
+								"file:./assets/fonts/inter/inter-500-italic.woff2"
+							]
+						}
+					],
+					"fontFamily": "Inter, sans-serif",
+					"name": "Inter",
+					"slug": "inter"
+				}
+			],
+			"fontSizes": [
+				{
+					"fluid": {
+						"max": "0.875rem",
+						"min": "0.75rem"
+					},
+					"name": "X-Small",
+					"size": "0.875rem",
+					"slug": "x-small"
+				},
+				{
+					"fluid": {
+						"max": "1rem",
+						"min": "0.875rem"
+					},
+					"name": "Small",
+					"size": "1rem",
+					"slug": "small"
+				},
+				{
+					"fluid": {
+						"max": "1.125rem",
+						"min": "1rem"
+					},
+					"name": "Medium",
+					"size": "1.125rem",
+					"slug": "medium"
+				},
+				{
+					"fluid": {
+						"max": "1.25rem",
+						"min": "1.125rem"
+					},
+					"name": "Large",
+					"size": "1.25rem",
+					"slug": "large"
+				},
+				{
+					"fluid": {
+						"max": "1.5rem",
+						"min": "1.25rem"
+					},
+					"name": "X-Large",
+					"size": "1.5rem",
+					"slug": "x-large"
+				},
+				{
+					"fluid": {
+						"max": "1.875rem",
+						"min": "1.5rem"
+					},
+					"name": "2X-Large",
+					"size": "1.875rem",
+					"slug": "xx-large"
+				},
+				{
+					"fluid": {
+						"max": "2.25rem",
+						"min": "1.875rem"
+					},
+					"name": "3X-Large",
+					"size": "2.25rem",
+					"slug": "xxx-large"
+				},
+				{
+					"fluid": {
+						"max": "3rem",
+						"min": "2.25rem"
+					},
+					"name": "4X-Large",
+					"size": "3rem",
+					"slug": "custom-1"
+				},
+				{
+					"fluid": {
+						"max": "3.75rem",
+						"min": "2.5rem"
+					},
+					"name": "5X Large",
+					"size": "3.75rem",
+					"slug": "custom-2"
+				}
+			],
+			"writingMode": true
+		}
+	},
+	"styles": {
+		"blocks": {
+			"core/button": {
+				"border": {
+					"radius": {
+						"bottomLeft": "4px",
+						"bottomRight": "4px",
+						"topLeft": "4px",
+						"topRight": "4px"
+					}
+				},
+				"spacing": {
+					"padding": {
+						"bottom": "var(--wp--preset--spacing--sm)",
+						"left": "var(--wp--preset--spacing--md)",
+						"right": "var(--wp--preset--spacing--md)",
+						"top": "var(--wp--preset--spacing--sm)"
+					}
+				},
+				"typography": {
+					"fontFamily": "var(--wp--preset--font-family--work-sans)",
+					"fontSize": "var(--wp--preset--font-size--medium)"
+				}
+			},
+			"core/image": {
+				"border": {
+					"radius": {
+						"bottomLeft": "4px",
+						"bottomRight": "4px",
+						"topLeft": "4px",
+						"topRight": "4px"
+					}
+				},
+				"variations": {
+					"rounded": {
+						"border": {
+							"radius": {
+								"bottomLeft": "100%",
+								"bottomRight": "100%",
+								"topLeft": "100%",
+								"topRight": "100%"
+							}
+						}
+					}
+				}
+			},
+			"core/post-title": {
+				"spacing": {
+					"padding": {
+						"top": "var(--wp--preset--spacing--xs)"
+					}
+				},
+				"typography": {
+					"lineHeight": "1.2"
+				}
+			},
+			"core/pullquote": {
+				"border": {
+					"bottom": {
+						"color": "rgba(255, 255, 255, 0.1)",
+						"style": "solid",
+						"width": "1px"
+					},
+					"color": null,
+					"style": null,
+					"top": {
+						"color": "rgba(255, 255, 255, 0.1)",
+						"style": "solid",
+						"width": "1px"
+					},
+					"width": null
+				},
+				"color": {
+					"background": "var(--wp--preset--color--black-25)"
+				}
+			}
+		},
+		"color": {
+			"background": "var(--wp--preset--color--white)",
+			"text": "var(--wp--preset--color--gray-900)"
+		},
+		"elements": {
+			"button": {
+				"color": {
+					"background": "var(--wp--preset--color--blue-600)",
+					"text": "var(--wp--preset--color--white)"
+				}
+			},
+			"caption": {
+				"color": {
+					"text": "var(--wp--preset--color--gray-900)"
+				}
+			},
+			"h1": {
+				"typography": {
+					"fontFamily": "var(--wp--preset--font-family--space-grotesk)",
+					"fontSize": "var(--wp--preset--font-size--custom-2)",
+					"lineHeight": 1.4
+				}
+			},
+			"h2": {
+				"typography": {
+					"fontFamily": "var(--wp--preset--font-family--space-grotesk)",
+					"fontSize": "var(--wp--preset--font-size--xxx-large)",
+					"lineHeight": 1.4
+				}
+			},
+			"h3": {
+				"typography": {
+					"fontFamily": "var(--wp--preset--font-family--space-grotesk)",
+					"fontSize": "var(--wp--preset--font-size--xx-large)",
+					"lineHeight": 1.4
+				}
+			},
+			"h4": {
+				"typography": {
+					"fontFamily": "var(--wp--preset--font-family--space-grotesk)",
+					"fontSize": "var(--wp--preset--font-size--x-large)",
+					"lineHeight": 1.4
+				}
+			},
+			"h5": {
+				"typography": {
+					"fontFamily": "var(--wp--preset--font-family--space-grotesk)",
+					"fontSize": "var(--wp--preset--font-size--large)",
+					"lineHeight": 1.4
+				}
+			},
+			"h6": {
+				"typography": {
+					"fontFamily": "var(--wp--preset--font-family--space-grotesk)",
+					"fontSize": "var(--wp--preset--font-size--large)",
+					"lineHeight": 1.4
+				}
+			},
+			"heading": {
+				"color": {
+					"text": "var(--wp--preset--color--blue-600)"
+				},
+				"typography": {
+					"fontFamily": "var(--wp--preset--font-family--inter)",
+					"fontStyle": "normal",
+					"fontWeight": "500",
+					"lineHeight": 1.4
+				}
+			},
+			"link": {
+				":hover": {
+					"color": {
+						"text": "var(--wp--preset--color--blue-600)"
+					}
+				},
+				"color": {
+					"text": "var(--wp--preset--color--orange-700)"
+				},
+				"typography": {
+					"fontFamily": "var(--wp--preset--font-family--inter)",
+					"fontStyle": "normal",
+					"fontWeight": "500",
+					"textDecoration": "none"
+				}
+			}
+		},
+		"typography": {
+			"fontFamily": "var(--wp--preset--font-family--inter)",
+			"fontSize": "var(--wp--preset--font-size--medium)",
+			"fontStyle": "normal",
+			"fontWeight": "300",
+			"lineHeight": "1.6"
+		}
+	},
+	"version": 3,
+	"$schema": "https://schemas.wp.org/wp/6.9/theme.json"
+}
