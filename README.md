@@ -1,1 +1,1 @@
-# Lumen: A WordPress Block Theme
+# iDocs Block Theme
