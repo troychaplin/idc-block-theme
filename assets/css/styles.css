@@ -170,55 +170,6 @@ Breadcrumbs Styles
 }
 
 /* ===========================
-Tag Cloud Button Style
-=========================== */
-
-/* .lumen-social-icons .wp-block-outermost-icon-block .icon-container.has-icon-color svg:hover {
-    fill: var(--wp--preset--color--lightning) !important;
-    color: var(--wp--preset--color--lightning) !important;
-} */
-
-
-/* ===========================
-Tag Cloud Button Style
-=========================== */
-
-/* .wp-block-tag-cloud.is-style-button-style {
-    display: flex;
-    gap: var(--wp--preset--spacing--xs);
-    flex-wrap: wrap;
-}
-
-.wp-block-tag-cloud.is-style-button-style .tag-cloud-link {
-    padding: var(--wp--preset--spacing--xs) var(--wp--preset--spacing--sm);
-    background-color: var(--wp--preset--color--black-25);
-    border: 1px solid var(--wp--preset--color--white-10);
-    color: var(--wp--preset--color--gray-300);
-    border-radius: 8px;
-    margin: 0;
-}
-
-.wp-block-tag-cloud.is-style-button-style .tag-cloud-link:hover {
-    background-color: var(--wp--preset--color--black-80);
-    border-color: var(--wp--preset--color--emerald);
-    color: var(--wp--preset--color--emerald);
-} */
-
-/* ===========================
-Blog Card Styles
-=========================== */
-
-/* .wp-block-group.blog-card {
-    display: flex;
-    flex-direction: column;
-}
-
-.wp-block-group.blog-card .meta {
-    width: 100%;
-    margin-top: auto;
-} */
-
-/* ===========================
 Pagination Styles
 =========================== */
 
@@ -266,4 +217,13 @@ Comments Form Styles
 
 .wp-block-post-comments-form .comment-form-comment textarea:focus {
     outline: 1px solid var(--wp--preset--color--emerald);
+}
+
+/* ===========================
+Comments Form Styles
+=========================== */
+
+.idc-article-card .meta {
+    width: 100%;
+    margin-top: auto;
 }

@@ -201,6 +201,11 @@
 					"color": "rgba(255, 255, 255, 0.8)",
 					"name": "White 80%",
 					"slug": "white-80"
+				},
+				{
+					"color": "rgba(255, 255, 255, 0.1)",
+					"name": "White 10%",
+					"slug": "white-10"
 				}
 			]
 		},
@@ -348,6 +353,15 @@
 				}
 			],
 			"fontSizes": [
+				{
+					"fluid": {
+						"max": "0.75rem",
+						"min": "0.625rem"
+					},
+					"name": "2X-Small",
+					"size": "0.75rem",
+					"slug": "2x-small"
+				},
 				{
 					"fluid": {
 						"max": "0.875rem",
@@ -529,7 +543,7 @@
 			"h1": {
 				"typography": {
 					"fontFamily": "var(--wp--preset--font-family--space-grotesk)",
-					"fontSize": "var(--wp--preset--font-size--custom-2)",
+					"fontSize": "var(--wp--preset--font-size--custom-1)",
 					"lineHeight": 1.4
 				}
 			},
