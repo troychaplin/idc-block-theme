@@ -2,72 +2,6 @@
  * Custom Styles for TC Projects
  */
 
-/* Background Gradient */
-/* html::before,
-.wp-block-navigation__responsive-container.is-menu-open::before {
-    --translate-x: -20%;
-    --translate-y: -20%;
-    --rotate: -25deg;
-    
-    content: '';
-    position: fixed;
-    top: 0;
-    right: 0;
-    width: 600px;
-    height: 600px;
-    background: radial-gradient(ellipse at 60% 35%, #214f83 0%, #5d9ad3 40%, #c7dbf0 60%, #ffffff 90%);
-    opacity: 0.17;
-    filter: blur(100px);
-    transform: translate(var(--translate-x), var(--translate-y)) rotate(var(--rotate));
-    transform-origin: top right;
-    pointer-events: none;
-    z-index: -1;
-}
-
-@media (max-width: 1024px) {
-    html::before,
-    .wp-block-navigation__responsive-container.is-menu-open::before {
-        --translate-x: -5%;
-    }
-}
-
-@media (max-width: 782px) {
-    html::before,
-    .wp-block-navigation__responsive-container.is-menu-open::before {
-        --translate-x: 5%;
-    }
-}
-
-@media (max-width: 599px) {
-    html::before,
-    .wp-block-navigation__responsive-container.is-menu-open::before {
-        --translate-x: 15%;
-    }
-} */
-
-/* Background Random Dot Pattern */
-/* body::before,
-.wp-block-navigation__responsive-close::before {
-    content: '';
-    position: fixed;
-    inset: 0;
-    z-index: -1;
-    pointer-events: none;
-    background-image: 
-        radial-gradient(circle, rgba(16, 185, 129, 0.4) 2px, transparent 2px),
-        radial-gradient(circle, rgba(20, 184, 166, 0.35) 2px, transparent 2px),
-        radial-gradient(circle, rgba(251, 191, 36, 0.2) 3px, transparent 3px),
-        radial-gradient(circle, rgba(16, 185, 129, 0.25) 1.5px, transparent 1.5px),
-        radial-gradient(circle, rgba(20, 184, 166, 0.3) 2px, transparent 2px),
-        radial-gradient(circle, rgba(16, 185, 129, 0.2) 1px, transparent 1px),
-        radial-gradient(circle, rgba(251, 191, 36, 0.25) 2px, transparent 2px),
-        radial-gradient(circle, rgba(20, 184, 166, 0.2) 1.5px, transparent 1.5px);
-    background-size: 60px 60px, 75px 75px, 90px 90px, 45px 45px, 70px 70px, 50px 50px, 80px 80px, 55px 55px;
-    background-position: 0 0, 30px 30px, 15px 45px, 40px 8px, 55px 22px, 20px 50px, 45px 15px, 10px 35px;
-    mask-image: radial-gradient(ellipse 85% 115% at top right, black 25%, transparent 78%);
-    -webkit-mask-image: radial-gradient(ellipse 85% 115% at top right, black 25%, transparent 78%);
-} */
-
 /* Background SVG Grid Pattern */
 body::after,
 .wp-block-navigation__responsive-close::after {
@@ -105,12 +39,21 @@ Site Title Styles
 Navigation Styles
 =========================== */
 
-.wp-block-navigation .wp-block-navigation-item .wp-block-navigation-item__content:hover,
+.idc-header .wp-block-navigation-item__content {
+    font-weight: 300;
+    color: var(--wp--preset--color--black-800);
+
+    &:hover {
+        color: var(--wp--preset--color--orange-700);
+    }
+}
+
+/* .wp-block-navigation .wp-block-navigation-item .wp-block-navigation-item__content:hover,
 .wp-block-navigation .wp-block-navigation-item.current-menu-item .wp-block-navigation-item__content,
 .wp-block-navigation .wp-block-navigation-item.current-menu-item .wp-block-navigation-item__content:hover {
     color: var(--wp--preset--color--blue-600);
     font-weight: 300;
-}
+} */
 
 /* ===========================
 Navigation Responsive Styles
