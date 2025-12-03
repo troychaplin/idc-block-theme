@@ -39,6 +39,16 @@ Site Title Styles
 Navigation Styles
 =========================== */
 
+@media (max-width: 895px) {
+    .idc-header .idc-full-nav {
+        justify-content: end;
+
+        .wp-block-group:first-child {
+            margin-right: auto;
+        }
+    }
+}
+
 .idc-header .wp-block-navigation-item__content {
     font-weight: 300;
     color: var(--wp--preset--color--black-800);
@@ -47,13 +57,6 @@ Navigation Styles
         color: var(--wp--preset--color--orange-700);
     }
 }
-
-/* .wp-block-navigation .wp-block-navigation-item .wp-block-navigation-item__content:hover,
-.wp-block-navigation .wp-block-navigation-item.current-menu-item .wp-block-navigation-item__content,
-.wp-block-navigation .wp-block-navigation-item.current-menu-item .wp-block-navigation-item__content:hover {
-    color: var(--wp--preset--color--blue-600);
-    font-weight: 300;
-} */
 
 /* ===========================
 Navigation Responsive Styles
