@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "build:css": "postcss src/styles.css -o assets/css/styles.css",
+    "build:editor": "postcss src/editor.css -o assets/css/editor.css",
+    "build": "npm run build:css && npm run build:editor",
+    "watch": "postcss src/styles.css -o assets/css/styles.css --watch"
+  },
+  "devDependencies": {
+    "postcss": "^8.4.0",
+    "postcss-cli": "^11.0.0",
+    "postcss-import": "^16.0.0",
+    "cssnano": "^7.0.0"
+  }
+}
