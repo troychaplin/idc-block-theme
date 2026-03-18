@@ -3,7 +3,8 @@
     "build:css": "postcss src/styles.css -o assets/css/styles.css",
     "build:editor": "postcss src/editor.css -o assets/css/editor.css",
     "build:blocks": "postcss src/css/blocks/*.css --dir assets/css/blocks",
-    "build": "npm run build:css && npm run build:editor && npm run build:blocks",
+    "clean:css": "rm -rf assets/css",
+    "build": "npm run clean:css && npm run build:css && npm run build:editor && npm run build:blocks",
     "start": "postcss src/styles.css -o assets/css/styles.css --watch",
     "watch:css":    "postcss src/styles.css -o assets/css/styles.css --watch",
     "watch:blocks": "postcss src/css/blocks/*.css --dir assets/css/blocks --watch"
