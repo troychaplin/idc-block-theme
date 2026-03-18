@@ -1,0 +1,9 @@
+.idc-wp-group {
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+    padding: 1em;
+    border: 1px solid var(--color-border);
+    border-radius: 4px;
+    background-color: var(--color-background);
+}
