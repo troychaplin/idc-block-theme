@@ -23,7 +23,7 @@
 .idc-footer__details p,
 .idc-footer__details li {
     font-size: var(--idocs--font-size--x-small);
-    line-height: 1.4rem;
+    line-height: 1.6;
 }
 
 .idc-footer__details p a,
@@ -39,7 +39,7 @@
 
 .idc-footer__details p:not(:last-child),
 .idc-footer__details li:not(:last-child) {
-    padding-bottom: var(--idocs--spacing--10);
+    margin-bottom: var(--idocs--spacing--10);
 }
 
 @media (--bp-tablet) {
