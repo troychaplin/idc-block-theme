@@ -1,6 +1,5 @@
-.idc-base {
-    font-family: 'Inter', sans-serif;
-    line-height: 1.5;
-    color: var(--color-text);
-    background-color: var(--color-background);
+body {
+    background-color: var(--wp--preset--color--secondary-pale);
+    background-image: url("../images/grainy-bg-body.jpg");
+    background-repeat: repeat;
 }
