@@ -332,6 +332,16 @@
 		"useRootPaddingAwareAlignments": true
 	},
 	"styles": {
+		"blocks": {
+			"core/buttons": {
+				"spacing": {
+					"blockGap": {
+						"left": "var(--wp--preset--spacing--50)",
+						"top": "var(--wp--preset--spacing--30)"
+					}
+				}
+			}
+		},
 		"color": {
 			"background": "var(--wp--preset--color--secondary-pale)",
 			"text": "var(--wp--preset--color--black)"
@@ -418,7 +428,7 @@
 			}
 		},
 		"spacing": {
-			"blockGap": "var(--wp--preset--spacing--50)",
+			"blockGap": "0",
 			"padding": {
 				"bottom": "0",
 				"left": "var(--wp--preset--spacing--50)",

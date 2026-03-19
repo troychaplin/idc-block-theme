@@ -23,7 +23,7 @@
 .idc-footer__details p,
 .idc-footer__details li {
     font-size: var(--idocs--font-size--x-small);
-    line-height: 1.6;
+    line-height: 1.5;
 }
 
 .idc-footer__details p a,
@@ -39,7 +39,7 @@
 
 .idc-footer__details p:not(:last-child),
 .idc-footer__details li:not(:last-child) {
-    margin-bottom: var(--idocs--spacing--10);
+    margin-bottom: var(--wp--preset--spacing--20);
 }
 
 @media (--bp-tablet) {
@@ -56,6 +56,10 @@
 	.idc-footer .idc-footer__details {
         grid-template-columns: 1fr;
 	}
+
+    .idc-footer__details h2 {
+        font-size: var(--wp--preset--font-size--2-x-large);
+    }
 
 	.idc-footer .idc-footer__address {
         text-align: center;
