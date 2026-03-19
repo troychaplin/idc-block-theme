@@ -77,14 +77,19 @@
 					"slug": "grey-dark"
 				},
 				{
-					"color": "#6D6D6D",
+					"color": "#a3a3a3",
 					"name": "Grey",
 					"slug": "grey"
 				},
 				{
-					"color": "#D1D1D1",
+					"color": "#d3d3d3",
 					"name": "Grey Light",
 					"slug": "grey-light"
+				},
+				{
+					"color": "#f5f5f5",
+					"name": "Grey Pale",
+					"slug": "grey-pale"
 				},
 				{
 					"color": "#FFFFFF",

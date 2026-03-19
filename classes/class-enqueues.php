@@ -28,7 +28,7 @@ class Enqueues {
 	 */
 	public function setup(): void {
 		add_theme_support( 'editor-styles' );
-		add_editor_style( 'assets/css/main.css' );
+		add_editor_style( 'assets/css/styles.css' );
 		add_editor_style( 'assets/css/editor.css' );
 	}
 
@@ -36,12 +36,12 @@ class Enqueues {
 	 * Enqueue the frontend stylesheet with cache-busting.
 	 */
 	public function enqueue_styles(): void {
-		$path    = get_theme_file_path( 'assets/css/main.css' );
+		$path    = get_theme_file_path( 'assets/css/styles.css' );
 		$version = file_exists( $path ) ? filemtime( $path ) : wp_get_theme()->get( 'Version' );
 
 		wp_enqueue_style(
-			'idocs-main',
-			get_theme_file_uri( 'assets/css/main.css' ),
+			'idocs-styles',
+			get_theme_file_uri( 'assets/css/styles.css' ),
 			array(),
 			$version
 		);
