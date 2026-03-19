@@ -57,6 +57,10 @@
         grid-template-columns: 1fr;
 	}
 
+	.idc-footer .idc-footer__address {
+        text-align: center;
+    }
+
 	.idc-footer .idc-footer__services {
         display: none;
     }
