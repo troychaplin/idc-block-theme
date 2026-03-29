@@ -2,7 +2,6 @@
 
 .idc-footer .idc-footer__details {
 	display: grid;
-	/* grid-template-columns: 1.5fr 2fr 1fr; */
 	grid-template-columns: minmax(220px, 1.75fr) 2fr 1fr;
 	gap: var(--wp--preset--spacing--60);
 }

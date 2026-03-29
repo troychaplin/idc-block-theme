@@ -175,12 +175,6 @@
 			"fluid": true,
 			"fontFamilies": [
 				{
-					"fontFace": [],
-					"fontFamily": "\"Playfair Display\", serif",
-					"name": "Playfair Display",
-					"slug": "playfair-display"
-				},
-				{
 					"fontFace": [
 						{
 							"fontFamily": "Inter",
@@ -234,6 +228,77 @@
 					"fontFamily": "Inter, sans-serif",
 					"name": "Inter",
 					"slug": "inter"
+				},
+				{
+					"fontFace": [
+						{
+							"fontFamily": "\"Playfair Display\"",
+							"fontStyle": "normal",
+							"fontWeight": "400",
+							"src": [
+								"file:./assets/fonts/playfair-display/playfair-display-400-normal.woff2"
+							]
+						},
+						{
+							"fontFamily": "\"Playfair Display\"",
+							"fontStyle": "normal",
+							"fontWeight": "500",
+							"src": [
+								"file:./assets/fonts/playfair-display/playfair-display-500-normal.woff2"
+							]
+						},
+						{
+							"fontFamily": "\"Playfair Display\"",
+							"fontStyle": "italic",
+							"fontWeight": "400",
+							"src": [
+								"file:./assets/fonts/playfair-display/playfair-display-400-italic.woff2"
+							]
+						},
+						{
+							"fontFamily": "\"Playfair Display\"",
+							"fontStyle": "italic",
+							"fontWeight": "500",
+							"src": [
+								"file:./assets/fonts/playfair-display/playfair-display-500-italic.woff2"
+							]
+						},
+						{
+							"fontFamily": "\"Playfair Display\"",
+							"fontStyle": "normal",
+							"fontWeight": "600",
+							"src": [
+								"file:./assets/fonts/playfair-display/playfair-display-600-normal.woff2"
+							]
+						},
+						{
+							"fontFamily": "\"Playfair Display\"",
+							"fontStyle": "normal",
+							"fontWeight": "700",
+							"src": [
+								"file:./assets/fonts/playfair-display/playfair-display-700-normal.woff2"
+							]
+						},
+						{
+							"fontFamily": "\"Playfair Display\"",
+							"fontStyle": "italic",
+							"fontWeight": "600",
+							"src": [
+								"file:./assets/fonts/playfair-display/playfair-display-600-italic.woff2"
+							]
+						},
+						{
+							"fontFamily": "\"Playfair Display\"",
+							"fontStyle": "italic",
+							"fontWeight": "700",
+							"src": [
+								"file:./assets/fonts/playfair-display/playfair-display-700-italic.woff2"
+							]
+						}
+					],
+					"fontFamily": "\"Playfair Display\", serif",
+					"name": "Playfair Display",
+					"slug": "playfair-display"
 				}
 			],
 			"fontSizes": [
@@ -398,42 +463,42 @@
 					"fontFamily": "var(--wp--preset--font-family--playfair-display)",
 					"fontSize": "var(--wp--preset--font-size--heading-primary)",
 					"fontStyle": "normal",
-					"fontWeight": "600"
+					"fontWeight": "500"
 				}
 			},
 			"h2": {
 				"typography": {
 					"fontSize": "3rem",
 					"fontStyle": "normal",
-					"fontWeight": "600"
+					"fontWeight": "500"
 				}
 			},
 			"h3": {
 				"typography": {
 					"fontSize": "2.5rem",
 					"fontStyle": "normal",
-					"fontWeight": "600"
+					"fontWeight": "500"
 				}
 			},
 			"h4": {
 				"typography": {
 					"fontSize": "2rem",
 					"fontStyle": "normal",
-					"fontWeight": "600"
+					"fontWeight": "500"
 				}
 			},
 			"h5": {
 				"typography": {
 					"fontSize": "var(--wp--preset--font-size--heading-small)",
 					"fontStyle": "normal",
-					"fontWeight": "600"
+					"fontWeight": "500"
 				}
 			},
 			"h6": {
 				"typography": {
 					"fontSize": "var(--wp--preset--font-size--x-large)",
 					"fontStyle": "italic",
-					"fontWeight": "600"
+					"fontWeight": "500"
 				}
 			},
 			"heading": {
@@ -443,7 +508,7 @@
 				"typography": {
 					"fontFamily": "var(--wp--preset--font-family--playfair-display)",
 					"fontStyle": "normal",
-					"fontWeight": "600",
+					"fontWeight": "500",
 					"lineHeight": "1.2"
 				}
 			},
