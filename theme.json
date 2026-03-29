@@ -12,15 +12,21 @@
 			"gradients": [
 				{
 					"color": "#C6BAAB",
-					"gradient": "linear-gradient(90deg,rgba(198,186,171,0) 0%,rgb(198,186,171) 100%)",
+					"gradient": "linear-gradient(90deg,rgba(255,255,255,0) 0%,rgb(198,186,171) 100%)",
 					"name": "Secondary Medium: Fade In",
 					"slug": "custom-secondary-medium-fade-in"
 				},
 				{
 					"color": "#C6BAAB",
-					"gradient": "linear-gradient(90deg,rgb(198,186,171) 0%,rgba(198,186,171,0) 100%)",
+					"gradient": "linear-gradient(90deg,rgb(198,186,171) 0%,rgba(255,255,255,0) 100%)",
 					"name": "Secondary Medium: Fade Out",
 					"slug": "custom-secondary-medium-fade-out"
+				},
+				{
+					"color": "#EEEBE6",
+					"gradient": "linear-gradient(165deg,rgba(255,255,255,0) 50%,rgb(245,243,240) 100%)",
+					"name": "Secondary Pale: Fade In",
+					"slug": "custom-secondary-pale-fade-in"
 				}
 			],
 			"palette": [

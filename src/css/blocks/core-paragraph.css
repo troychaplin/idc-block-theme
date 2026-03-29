@@ -5,20 +5,61 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 1em; /* space between text and lines */
+  gap: 1em;
 }
 
-.wp-block-paragraph.is-style-thin-lines::before,
-.wp-block-paragraph.is-style-thin-lines::after {
+.wp-block-paragraph[class*="is-style-thin-lines"]::before,
+.wp-block-paragraph[class*="is-style-thin-lines"]::after {
   content: "";
   flex: 1 1 0;
   height: 1px;
-  background: var(--wp--preset--gradient--custom-secondary-medium-fade-in);
   max-width: 10rem;
   opacity: 0.6;
   border-radius: 1px;
 }
 
+/* Double Brown Lines */
+
+.wp-block-paragraph.is-style-thin-lines::before {
+    background: var(--wp--preset--gradient--custom-secondary-medium-fade-in);
+}
+
 .wp-block-paragraph.is-style-thin-lines::after {
     background: var(--wp--preset--gradient--custom-secondary-medium-fade-out);
+}
+
+/* Brown Line Right */
+
+.wp-block-paragraph.is-style-thin-lines-right {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.wp-block-paragraph.is-style-thin-lines-right::before {
+  display: none;
+}
+
+.wp-block-paragraph.is-style-thin-lines-right::after {
+    background: var(--wp--preset--gradient--custom-secondary-medium-fade-out);
+    margin-left: 1em;
+}
+
+/* Circular Square */
+
+.wp-block-paragraph.is-style-circle-bg {
+    width: fit-content;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+@media (max-width: 768px) {
+    .wp-block-paragraph.is-style-circle-bg {
+        width: 36px;
+        height: 36px;
+        font-size: var(--wp--preset--font-size--medium);
+    }
 }

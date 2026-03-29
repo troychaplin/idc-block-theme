@@ -1,8 +1,8 @@
 {
 	"$schema": "https://schemas.wp.org/trunk/theme.json",
 	"version": 3,
-	"title": "Thin Lines",
-	"slug": "thin-lines",
+	"title": "Thin Lines Right",
+	"slug": "thin-lines-right",
 	"blockTypes": ["core/paragraph"],
 	"styles": {
 		"typography": {
@@ -16,7 +16,7 @@
         },
         "spacing": {
             "margin": {
-                "bottom": "var(--wp--preset--spacing--70)"
+                "bottom": "var(--wp--preset--spacing--50)"
             }
         }
 	}

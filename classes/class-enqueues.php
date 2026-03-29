@@ -95,7 +95,7 @@ class Enqueues {
 	public function register_pattern_categories(): void {
 		register_block_pattern_category(
 			'idocs-patterns',
-			array( 'label' => __( 'iDocs Patterns', 'idocs' ) )
+			array( 'label' => __( 'IDC Patterns', 'idocs' ) )
 		);
 	}
 }

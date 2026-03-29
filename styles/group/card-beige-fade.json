@@ -1,0 +1,28 @@
+{
+    "$schema": "https://schemas.wp.org/trunk/theme.json",
+    "version": 3,
+    "title": "Card: Beige Fade",
+    "slug": "card-beige-fade",
+    "blockTypes": ["core/group"],
+    "styles": {
+        "color": {
+            "gradient": "var(--wp--preset--gradient--custom-secondary-pale-fade-in)",
+            "text": "var(--wp--preset--color--black)"
+        },
+        "spacing": {
+            "padding": "var(--wp--preset--spacing--50)",
+            "blockGap": "var(--wp--preset--spacing--30)"
+        },
+        "border": {
+            "width": "1px",
+            "style": "solid",
+            "color": "var(--wp--preset--color--secondary)",
+            "radius": {
+                "bottomLeft": "7px",
+                "bottomRight": "7px",
+                "topLeft": "7px",
+                "topRight": "7px"
+            }
+        }
+    }
+}
