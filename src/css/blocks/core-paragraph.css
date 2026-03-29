@@ -1,11 +1,15 @@
 /* Group Block Spacing */
 
-.wp-block-paragraph.is-style-thin-lines {
+.wp-block-paragraph[class*="is-style-thin-lines"] {
   position: relative;
   display: flex;
   align-items: center;
   justify-content: center;
   gap: 1em;
+}
+
+.wp-block-paragraph.is-style-thin-lines-right {
+  justify-content: flex-start;
 }
 
 .wp-block-paragraph[class*="is-style-thin-lines"]::before,
@@ -28,13 +32,19 @@
     background: var(--wp--preset--gradient--custom-secondary-medium-fade-out);
 }
 
-/* Brown Line Right */
+/* Double Blue Lines */
 
-.wp-block-paragraph.is-style-thin-lines-right {
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
+.wp-block-paragraph.is-style-thin-lines-blue::before {
+    background: var(--wp--preset--gradient--custom-primary-pale-fade-in);
+    opacity: 0.2;
 }
+
+.wp-block-paragraph.is-style-thin-lines-blue::after {
+    background: var(--wp--preset--gradient--custom-primary-pale-fade-out);
+    opacity: 0.2;
+}
+
+/* Brown Line Right */
 
 .wp-block-paragraph.is-style-thin-lines-right::before {
   display: none;
@@ -42,7 +52,6 @@
 
 .wp-block-paragraph.is-style-thin-lines-right::after {
     background: var(--wp--preset--gradient--custom-secondary-medium-fade-out);
-    margin-left: 1em;
 }
 
 /* Circular Square */

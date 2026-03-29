@@ -27,6 +27,24 @@
 					"gradient": "linear-gradient(165deg,rgba(255,255,255,0) 50%,rgb(245,243,240) 100%)",
 					"name": "Secondary Pale: Fade In",
 					"slug": "custom-secondary-pale-fade-in"
+				},
+				{
+					"color": "#C7DAF0",
+					"gradient": "linear-gradient(90deg,rgba(255,255,255,0) 0%,rgb(199,218,240) 100%)",
+					"name": "Primary Pale: Fade In",
+					"slug": "custom-primary-pale-fade-in"
+				},
+				{
+					"color": "#C7DAF0",
+					"gradient": "linear-gradient(90deg,rgb(199,218,240) 0%,rgba(255,255,255,0) 100%)",
+					"name": "Primary Pale: Fade Out",
+					"slug": "custom-primary-pale-fade-out"
+				},
+				{
+					"color": "#14253D",
+					"gradient": "linear-gradient(180deg,rgb(20,37,61) 0%,rgba(20,37,61,0) 80%)",
+					"name": "Primary: Fade Out",
+					"slug": "custom-primary-dark-fade-out"
 				}
 			],
 			"palette": [
@@ -104,6 +122,16 @@
 					"color": "#FFFFFF",
 					"name": "White",
 					"slug": "white"
+				},
+				{
+					"color": "#ffffff1a",
+					"name": "White 10%",
+					"slug": "custom-white-10"
+				},
+				{
+					"color": "#ffffff33",
+					"name": "White 20%",
+					"slug": "custom-white-20"
 				}
 			]
 		},

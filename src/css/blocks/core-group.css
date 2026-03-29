@@ -1,3 +1,8 @@
+@import './core-group/card-grid.css';
+@import './core-group/cards.css';
+@import './core-group/testimonials.css';
+@import './core-group/two-columns.css';
+
 /* Group Block Spacing */
 
 .wp-block-group.alignfull[class*="is-style-"] {
@@ -26,65 +31,7 @@
 
 .wp-block-group.alignfull.is-style-blue {
     color: var(--wp--preset--color--white);
-}
-
-/* Card Group */
-
-.wp-block-group.is-style-card-grid {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: var(--wp--preset--spacing--50);
-}
-
-.wp-block-group.is-style-card-grid > [class*="is-style-card-"] {
-    margin-block-start: 0;
-    max-width: initial;
-    margin: 0 !important;
-}
-
-[class*="is-style-card-"] a {
-    color: var(--wp--preset--color--primary-light);
-    font-weight: 700;
-}
-
-[class*="is-style-card-"] a:hover {
-    color: var(--wp--preset--color--secondary-dark);
-    font-weight: 700;
-}
-
-@media (--bp-tablet) {
-    .wp-block-group.is-style-card-grid {
-        display: grid;
-        grid-template-columns: repeat(2, 1fr);
-    }
-
-	.wp-block-group.is-style-card-grid > [class*="is-style-card-"]:first-child {
-        grid-column: span 2;
-    }
-}
-
-@media (--bp-mobile) {
-    .wp-block-group.is-style-card-grid {
-        display: grid;
-        grid-template-columns: repeat(1, 1fr);
-    }
-
-	.wp-block-group.is-style-card-grid > [class*="is-style-card-"]:first-child {
-        grid-column: span 1;
-    }
-}
-
-/* Two Columns */
-
-.wp-block-group.is-style-two-columns {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: var(--wp--preset--spacing--60);
-}
-
-@media (--bp-tablet) {
-    .wp-block-group.is-style-two-columns {
-        grid-template-columns: repeat(1, 1fr);
-        gap: var(--wp--preset--spacing--30);
-    }
+    background-color: var(--wp--preset--color--primary);
+    background-image: url("../images/grainy-bg-primary.jpg");
+    background-repeat: repeat;
 }

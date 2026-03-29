@@ -1,0 +1,14 @@
+/* Two Columns */
+
+.wp-block-group.idc-two-columns {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: var(--wp--preset--spacing--60);
+}
+
+@media (--bp-tablet) {
+    .wp-block-group.idc-two-columns {
+        grid-template-columns: repeat(1, 1fr);
+        gap: var(--wp--preset--spacing--30);
+    }
+}

@@ -1,0 +1,17 @@
+/* Card Group */
+
+.wp-block-group.idc-testimonials {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 0;
+}
+
+@media (--bp-tablet) {
+    .wp-block-group.idc-testimonials {
+        display: block;
+    }
+}
+
+@media (--bp-mobile) {
+    /*  */
+}

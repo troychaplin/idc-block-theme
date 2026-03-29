@@ -1,0 +1,48 @@
+/* Card Group */
+
+.wp-block-group.idc-card {
+    background: var(--wp--preset--color--white);
+    color: var(--wp--preset--color--black);
+    padding: var(--wp--preset--spacing--50);
+    gap: var(--wp--preset--spacing--30);
+    border: 1px solid var(--wp--preset--color--secondary);
+    border-radius: 7px;
+    margin-block-start: 0;
+    max-width: initial;
+}
+
+.wp-block-group.idc-card a {
+    color: var(--wp--preset--color--primary-light);
+    font-weight: 700;
+}
+
+.wp-block-group.idc-card a:hover {
+    color: var(--wp--preset--color--secondary-dark);
+}
+
+@media (--bp-tablet) {
+    .wp-block-group.idc-card:first-child {
+        grid-column: span 2;
+    }
+}
+
+@media (--bp-mobile) {
+    .wp-block-group.idc-card:first-child {
+        grid-column: span 1;
+    }
+}
+
+/* Blue Card Modifier */
+
+.wp-block-group.idc-card--blue {
+    background: var(--wp--preset--gradient--custom-primary-dark-fade-out);
+    color: var(--wp--preset--color--white);
+    padding: var(--wp--preset--spacing--60);
+    border-color: var(--wp--preset--color--custom-white-20);
+}
+
+/* Beige Fade In Modifier */
+
+.wp-block-group.idc-card--beige-fade-in {
+    background: var(--wp--preset--gradient--custom-secondary-pale-fade-in);
+}
