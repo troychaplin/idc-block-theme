@@ -9,12 +9,6 @@
       "background": "var(--wp--preset--color--secondary-pale)"
     },
     "spacing": {
-      "padding": {
-        "top": "var(--wp--preset--spacing--70)",
-        "bottom": "var(--wp--preset--spacing--70)",
-        "left": "var(--wp--preset--spacing--50)",
-        "right": "var(--wp--preset--spacing--50)"
-      },
       "blockGap": "var(--wp--preset--spacing--50)"
     }
   }

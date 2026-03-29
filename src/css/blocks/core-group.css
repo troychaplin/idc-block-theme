@@ -1,9 +1,7 @@
-.wp-block-group.alignfull.is-style-white + .wp-block-group.alignfull.is-style-white,
-.wp-block-group.alignfull.is-style-beige + .wp-block-group.alignfull.is-style-beige {
-    padding-top: 0;
-    margin-top: calc(var(--wp--preset--spacing--50) * -1);
+/* Group Block Spacing */
 
-
+.wp-block-group.alignfull[class*="is-style-"] {
+    padding: var(--wp--preset--spacing--70) var(--wp--preset--spacing--50);
 }
 
 .wp-block-group.alignfull[class*="is-style-"] + :not(.wp-block-group.alignfull[class*="is-style-"]),
@@ -13,4 +11,19 @@
 
 .wp-block-group.alignfull + .wp-block-group.alignfull {
     margin-block-start: 0;
+}
+
+/* Consecutive Same Style Groups */
+
+.wp-block-group.alignfull.is-style-white + .wp-block-group.alignfull.is-style-white,
+.wp-block-group.alignfull.is-style-beige + .wp-block-group.alignfull.is-style-beige,
+.wp-block-group.alignfull.is-style-blue + .wp-block-group.alignfull.is-style-blue {
+    padding-top: 0;
+    margin-top: calc(var(--wp--preset--spacing--50) * -1);
+}
+
+/* Blue Group */
+
+.wp-block-group.alignfull.is-style-blue {
+    color: var(--wp--preset--color--white);
 }

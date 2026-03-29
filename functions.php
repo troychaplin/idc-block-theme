@@ -21,16 +21,3 @@ $idocs_modules = array(
 foreach ( $idocs_modules as $idocs_module ) {
 	$idocs_module->init();
 }
-
-/**
- * Enqueue custom styles
- */
-// function idocs_enqueue_styles() {
-// 	wp_enqueue_style(
-// 		'idocs-styles',
-// 		get_template_directory_uri() . '/assets/css/styles.css',
-// 		array(),
-// 		wp_get_theme()->get( 'Version' )
-// 	);
-// }
-// add_action( 'wp_enqueue_scripts', 'idocs_enqueue_styles' );
