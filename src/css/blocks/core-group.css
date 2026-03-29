@@ -27,3 +27,39 @@
 .wp-block-group.alignfull.is-style-blue {
     color: var(--wp--preset--color--white);
 }
+
+/* Card Group */
+
+.wp-block-group.is-style-cards {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: var(--wp--preset--spacing--50);
+}
+
+.wp-block-group.is-style-cards .idc-card {
+    margin-block-start: 0;
+    max-width: initial;
+    margin: 0 !important;
+}
+
+@media (--bp-tablet) {
+    .wp-block-group.is-style-cards {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+	.wp-block-group.is-style-cards .idc-card:first-child {
+        grid-column: span 2;
+    }
+}
+
+@media (--bp-mobile) {
+    .wp-block-group.is-style-cards {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+	.wp-block-group.is-style-cards .idc-card:first-child {
+        grid-column: span 1;
+    }
+}

@@ -7,17 +7,20 @@
 			"custom": false,
 			"customDuotone": false,
 			"customGradient": false,
+			"defaultGradients": false,
 			"defaultPalette": false,
 			"gradients": [
 				{
-					"gradient": "linear-gradient(135deg,rgb(40,98,161) 0%,rgb(20,37,61) 100%)",
-					"name": "Fade Out",
-					"slug": "custom-fade-out"
+					"color": "#C6BAAB",
+					"gradient": "linear-gradient(90deg,rgba(198,186,171,0) 0%,rgb(198,186,171) 100%)",
+					"name": "Secondary Medium: Fade In",
+					"slug": "custom-secondary-medium-fade-in"
 				},
 				{
-					"gradient": "linear-gradient(135deg,rgb(198,186,171) 0%,rgb(121,97,85) 100%)",
-					"name": "Fade In",
-					"slug": "custom-fade-in"
+					"color": "#C6BAAB",
+					"gradient": "linear-gradient(90deg,rgb(198,186,171) 0%,rgba(198,186,171,0) 100%)",
+					"name": "Secondary Medium: Fade Out",
+					"slug": "custom-secondary-medium-fade-out"
 				}
 			],
 			"palette": [

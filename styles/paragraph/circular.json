@@ -1,0 +1,19 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/theme.json",
+	"version": 3,
+	"title": "Circle Bg",
+	"slug": "circle-bg",
+	"blockTypes": ["core/paragraph"],
+	"styles": {
+		"css": "width: fit-content; width: 50px; height: 50px; border-radius: 50%; display: flex; align-items: center; justify-content: center;",
+		"typography": {
+            "fontFamily": "var(--wp--preset--font-family--playfair-display)",
+			"fontSize": "var(--wp--preset--font-size--x-large)",
+            "fontStyle": "italic"
+		},
+		"color": {
+            "background": "var(--wp--preset--color--secondary-pale)",
+            "text": "var(--wp--preset--color--secondary-dark)"
+        }
+	}
+}
