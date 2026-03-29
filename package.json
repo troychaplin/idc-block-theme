@@ -1,6 +1,6 @@
 {
   "type": "module",
-  "packageManager": "pnpm@9.15.4",
+  "packageManager": "pnpm@10.33.0",
   "scripts": {
     "build:css": "postcss src/styles.css -o assets/css/styles.css",
     "build:editor": "postcss src/editor.css -o assets/css/editor.css",
@@ -13,6 +13,9 @@
     "start:blocks": "postcss src/css/blocks/*.css --dir assets/css/blocks --watch",
     "start:js": "esbuild src/script.js --bundle --watch --outfile=assets/js/script.js",
     "start": "pnpm run --parallel /^start:/"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": ["esbuild"]
   },
   "devDependencies": {
     "cssnano": "^7.1.3",
