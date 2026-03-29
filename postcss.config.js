@@ -1,9 +1,11 @@
-module.exports = {
+import postcssImport from 'postcss-import';
+import postcssCustomMedia from 'postcss-custom-media';
+import cssnano from 'cssnano';
+
+export default {
   plugins: [
-    require('postcss-import'),  // must be first — resolves @imports before anything else
-    require('postcss-custom-media'),
-    require('cssnano')({
-      preset: 'default',
-    }),
+    postcssImport(),  // must be first — resolves @imports before anything else
+    postcssCustomMedia(),
+    cssnano({ preset: 'default' }),
   ],
 };
