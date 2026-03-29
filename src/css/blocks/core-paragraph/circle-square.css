@@ -1,0 +1,24 @@
+/* Circle Square */
+
+.wp-block-paragraph.has-circle-square {
+    width: fit-content;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: var(--wp--preset--font-family--playfair-display);
+    font-size: var(--wp--preset--font-size--x-large);
+    font-style: italic;
+    background-color: var(--wp--preset--color--secondary-pale);
+    color: var(--wp--preset--color--secondary-dark);
+    border-radius: 50%;
+}
+
+@media (max-width: 768px) {
+    .wp-block-paragraph.has-circle-square {
+        width: 36px;
+        height: 36px;
+        font-size: var(--wp--preset--font-size--medium);
+    }
+}
