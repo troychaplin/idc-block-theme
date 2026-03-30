@@ -1,8 +1,3 @@
-@import './core-group/card-grid.css';
-@import './core-group/cards.css';
-@import './core-group/testimonials.css';
-@import './core-group/two-columns.css';
-
 /* Group Block Spacing */
 
 .wp-block-group.alignfull[class*="is-style-"] {

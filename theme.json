@@ -506,6 +506,18 @@
 						"topLeft": "7px",
 						"topRight": "7px"
 					}
+				},
+				"variations": {
+					"rounded": {
+						"border": {
+							"radius": {
+								"bottomLeft": "10rem",
+								"bottomRight": "10rem",
+								"topLeft": "10rem",
+								"topRight": "10rem"
+							}
+						}
+					}
 				}
 			},
 			"core/navigation": {

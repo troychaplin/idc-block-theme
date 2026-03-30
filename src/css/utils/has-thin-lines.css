@@ -1,6 +1,6 @@
 /* Group Block Spacing */
 
-.wp-block-paragraph.has-thin-lines {
+.has-thin-lines {
   position: relative;
   display: flex;
   align-items: center;
@@ -13,8 +13,8 @@
   margin-bottom: var(--wp--preset--spacing--60);
 }
 
-.wp-block-paragraph.has-thin-lines::before,
-.wp-block-paragraph.has-thin-lines::after {
+.has-thin-lines::before,
+.has-thin-lines::after {
   content: "";
   flex: 1 1 0;
   height: 1px;
@@ -24,36 +24,36 @@
   background: var(--wp--preset--gradient--custom-secondary-medium-fade-in);
 }
 
-.wp-block-paragraph.has-thin-lines::after {
+.has-thin-lines::after {
     background: var(--wp--preset--gradient--custom-secondary-medium-fade-out);
 }
 
 /* Double Blue Lines */
 
-.wp-block-paragraph.has-thin-lines--blue {
+.has-thin-lines--blue {
     color: var(--wp--preset--color--primary-pale);
 }
 
-.wp-block-paragraph.has-thin-lines--blue::before {
+.has-thin-lines--blue::before {
     background: var(--wp--preset--gradient--custom-primary-pale-fade-in);
     opacity: 0.2;
 }
 
-.wp-block-paragraph.has-thin-lines--blue::after {
+.has-thin-lines--blue::after {
     background: var(--wp--preset--gradient--custom-primary-pale-fade-out);
     opacity: 0.2;
 }
 
 /* Brown Line Right */
 
-.wp-block-paragraph.has-thin-lines--right {
+.has-thin-lines--right {
     justify-content: flex-start;
 }
 
-.wp-block-paragraph.has-thin-lines--right::before {
+.has-thin-lines--right::before {
   display: none;
 }
 
-.wp-block-paragraph.has-thin-lines--right::after {
+.has-thin-lines--right::after {
     background: var(--wp--preset--gradient--custom-secondary-medium-fade-out);
 }

@@ -1,28 +1,28 @@
 /* Card Group */
 
-.wp-block-group.idc-card-grid {
+.wp-block-group.is-card-grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: var(--wp--preset--spacing--50);
 }
 
-.wp-block-group.idc-card-grid--vertical {
+.wp-block-group.is-card-grid--vertical {
     grid-template-columns: repeat(1, 1fr);
 }
 
-.wp-block-group.idc-card-grid--no-gap {
+.wp-block-group.is-card-grid--no-gap {
     gap: 0;
 }
 
 @media (--bp-tablet) {
-    .wp-block-group.idc-card-grid {
+    .wp-block-group.is-card-grid {
         display: grid;
         grid-template-columns: repeat(2, 1fr);
     }
 }
 
 @media (--bp-mobile) {
-    .wp-block-group.idc-card-grid {
+    .wp-block-group.is-card-grid {
         display: grid;
         grid-template-columns: repeat(1, 1fr);
     }
