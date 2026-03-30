@@ -6,9 +6,17 @@
     gap: var(--wp--preset--spacing--60);
 }
 
+.wp-block-group.is-two-columns--large-gap {
+    gap: var(--wp--preset--spacing--80);
+}
+
 @media (--bp-tablet) {
     .wp-block-group.is-two-columns {
         grid-template-columns: repeat(1, 1fr);
         gap: var(--wp--preset--spacing--30);
+    }
+
+    .wp-block-group.is-two-columns--large-gap {
+        gap: var(--wp--preset--spacing--60);
     }
 }
