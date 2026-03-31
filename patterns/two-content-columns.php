@@ -2,7 +2,7 @@
 /**
  * Title: Two Content Columns
  * Slug: idocs-block-theme/two-content-columns
- * Categories: IDC Patterns
+ * Categories: idocs-patterns
  */
 ?>
 <!-- wp:group {"metadata":{"name":"Two Columns"},"align":"wide","className":"idc-two-columns is-style-two-columns","layout":{"type":"constrained"}} -->

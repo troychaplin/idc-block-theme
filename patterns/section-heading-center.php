@@ -2,7 +2,7 @@
 /**
  * Title: Section Heading: Center
  * Slug: idocs-block-theme/section-heading-center
- * Categories: IDC Patterns
+ * Categories: idocs-headings
  */
 ?>
 <!-- wp:group {"tagName":"header","metadata":{"name":"Heading"},"align":"wide","className":"idc-section__header","layout":{"type":"constrained"}} -->

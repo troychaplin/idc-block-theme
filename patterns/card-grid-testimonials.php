@@ -2,7 +2,7 @@
 /**
  * Title: Card Grid: Testimonials
  * Slug: idocs-block-theme/card-grid-testimonials
- * Categories: IDC Patterns
+ * Categories: idocs-patterns
  */
 ?>
 <!-- wp:group {"metadata":{"name":"Card Grid: Testimonials"},"align":"wide","className":"is-testimonial-grid","style":{"spacing":{"blockGap":"0"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->

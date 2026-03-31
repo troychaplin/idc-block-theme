@@ -2,7 +2,7 @@
 /**
  * Title: Card Grid: Numbered Cards
  * Slug: idocs-block-theme/card-grid-numbered-cards
- * Categories: IDC Patterns
+ * Categories: idocs-patterns
  */
 ?>
 <!-- wp:group {"metadata":{"name":"Card Grid"},"align":"wide","className":"idc-card-grid is-style-card-grid","layout":{"type":"constrained"}} -->

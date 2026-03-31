@@ -2,7 +2,7 @@
 /**
  * Title: Section Heading: White
  * Slug: idocs-block-theme/section-heading-white
- * Categories: IDC Patterns
+ * Categories: idocs-headings
  */
 ?>
 <!-- wp:group {"tagName":"header","metadata":{"name":"Section Heading: White"},"align":"wide","className":"idc-section__header","layout":{"type":"constrained"}} -->

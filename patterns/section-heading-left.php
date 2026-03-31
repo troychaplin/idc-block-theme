@@ -2,7 +2,7 @@
 /**
  * Title: Section Heading: Left
  * Slug: idocs-block-theme/section-heading-left
- * Categories: IDC Patterns
+ * Categories: idocs-headings
  */
 ?>
 <!-- wp:group {"tagName":"header","metadata":{"name":"Section Heading: Left"},"align":"wide","className":"idc-section__header","style":{"spacing":{"margin":{"bottom":"var:preset|spacing|50"}}},"layout":{"type":"constrained","justifyContent":"left"}} -->

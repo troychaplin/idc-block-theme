@@ -2,7 +2,7 @@
 /**
  * Title: Statistics Grid
  * Slug: idocs-block-theme/statistics-grid
- * Categories: IDC Patterns
+ * Categories: idocs-patterns
  */
 ?>
 <!-- wp:group {"metadata":{"name":"Stats Grid"},"align":"wide","className":"idc-stats-grid","style":{"spacing":{"blockGap":"var:preset|spacing|50","margin":{"top":"-1rem"}}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"space-between"}} -->

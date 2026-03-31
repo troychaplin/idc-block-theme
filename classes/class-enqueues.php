@@ -93,9 +93,17 @@ class Enqueues {
 	 * Register a custom block pattern category for the theme.
 	 */
 	public function register_pattern_categories(): void {
+        register_block_pattern_category(
+            'idocs-sections',
+            array( 'label' => __( 'IDC Sections', 'idocs-block-theme' ) )
+        );
+        register_block_pattern_category(
+            'idocs-headings',
+            array( 'label' => __( 'IDC Headings', 'idocs-block-theme' ) )
+        );
 		register_block_pattern_category(
 			'idocs-patterns',
-			array( 'label' => __( 'IDC Patterns', 'idocs' ) )
+			array( 'label' => __( 'IDC Patterns', 'idocs-block-theme' ) )
 		);
 	}
 }
