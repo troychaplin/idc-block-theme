@@ -1,0 +1,19 @@
+name: General submission
+description: Questions, discussions, or anything that doesn't fit the other templates
+title: "[General]: "
+labels: ["triage"]
+body:
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: Describe your question, idea, or submission.
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context
+      description: Any other information that would be helpful.
+    validations:
+      required: false

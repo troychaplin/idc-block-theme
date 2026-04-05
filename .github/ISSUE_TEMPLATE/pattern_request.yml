@@ -1,0 +1,47 @@
+name: Pattern request
+description: Request a new block pattern for the theme
+title: "[Pattern]: "
+labels: ["pattern", "triage"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Pattern name
+      description: A short, descriptive name for the pattern.
+      placeholder: e.g. Hero with image and CTA
+    validations:
+      required: true
+  - type: textarea
+    id: purpose
+    attributes:
+      label: Purpose
+      description: What is this pattern used for? Where would it appear on the site?
+    validations:
+      required: true
+  - type: textarea
+    id: content
+    attributes:
+      label: Content and structure
+      description: What blocks should the pattern contain? Include headings, text, images, buttons, etc.
+    validations:
+      required: true
+  - type: textarea
+    id: reference
+    attributes:
+      label: Reference or inspiration
+      description: Links, screenshots, or mockups of similar designs.
+    validations:
+      required: false
+  - type: dropdown
+    id: category
+    attributes:
+      label: Pattern category
+      options:
+        - Header
+        - Hero
+        - Content
+        - Call to action
+        - Footer
+        - Other
+    validations:
+      required: false
