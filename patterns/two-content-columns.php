@@ -2,14 +2,15 @@
 /**
  * Title: Two Content Columns
  * Slug: idocs-block-theme/two-content-columns
- * Categories: idocs-patterns
+ * Categories: idocs-sections
  */
 ?>
-<!-- wp:group {"metadata":{"name":"Two Columns"},"align":"wide","className":"idc-two-columns is-style-two-columns","layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignwide idc-two-columns is-style-two-columns"><!-- wp:group {"metadata":{"name":"Content Column"},"style":{"spacing":{"blockGap":"var:preset|spacing|40"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:group {"tagName":"header","metadata":{"name":"Section Heading: Left","patternName":"core/block/39656"},"align":"wide","className":"idc-section__header","style":{"spacing":{"margin":{"bottom":"var:preset|spacing|50"}}},"layout":{"type":"constrained","justifyContent":"left"}} -->
-<header class="wp-block-group alignwide idc-section__header" style="margin-bottom:var(--wp--preset--spacing--50)"><!-- wp:paragraph {"className":"is-style-thin-lines-right","style":{"typography":{"textAlign":"left"}}} -->
-<p class="has-text-align-left is-style-thin-lines-right">Complete Solution</p>
+<!-- wp:group {"tagName":"section","metadata":{"name":"Complete Solution"},"align":"full","className":"is-style-white idc-section","layout":{"type":"constrained"}} -->
+<section class="wp-block-group alignfull is-style-white idc-section"><!-- wp:group {"metadata":{"name":"Two Content Columns"},"align":"wide","className":"is-two-columns","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignwide is-two-columns"><!-- wp:group {"metadata":{"name":"Content Column"},"style":{"spacing":{"blockGap":"var:preset|spacing|40"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"tagName":"header","metadata":{"name":"Section Heading: Left","patternName":"core/block/39656"},"align":"wide","style":{"spacing":{"margin":{"bottom":"var:preset|spacing|50"}}},"layout":{"type":"constrained","justifyContent":"left"}} -->
+<header class="wp-block-group alignwide" style="margin-bottom:var(--wp--preset--spacing--50)"><!-- wp:paragraph {"className":"has-thin-lines has-thin-lines\u002d\u002dright","style":{"typography":{"textAlign":"left"}}} -->
+<p class="has-text-align-left has-thin-lines has-thin-lines--right">Complete Solution</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"className":"has-gray-400-color has-text-color has-link-color","style":{"elements":{"link":{"color":{"text":"var:preset|color|grey-dark"}}},"typography":{"fontStyle":"normal","fontWeight":"400","textAlign":"left"}},"textColor":"grey-dark","fontSize":"heading-large"} -->
@@ -26,9 +27,9 @@
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
-<!-- wp:group {"metadata":{"name":"Card Column"},"style":{"spacing":{"blockGap":"var:preset|spacing|50"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:group {"metadata":{"name":"Card Item"},"className":"is-style-card-white-beige is-style-card-beige-fade","layout":{"type":"constrained"}} -->
-<div class="wp-block-group is-style-card-white-beige is-style-card-beige-fade"><!-- wp:heading {"fontSize":"x-large"} -->
+<!-- wp:group {"metadata":{"name":"Card Column"},"className":"is-card-grid is-card-grid\u002d\u002dvertical","layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-card-grid is-card-grid--vertical"><!-- wp:group {"metadata":{"name":"Card Item"},"className":"is-card is-card\u002d\u002dbeige-fade-in","layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-card is-card--beige-fade-in"><!-- wp:heading {"fontSize":"x-large"} -->
 <h2 class="wp-block-heading has-x-large-font-size">Services</h2>
 <!-- /wp:heading -->
 
@@ -37,8 +38,8 @@
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
-<!-- wp:group {"metadata":{"name":"Card Item"},"className":"is-style-card-white-beige is-style-card-beige-fade","layout":{"type":"constrained"}} -->
-<div class="wp-block-group is-style-card-white-beige is-style-card-beige-fade"><!-- wp:heading {"fontSize":"x-large"} -->
+<!-- wp:group {"metadata":{"name":"Card Item"},"className":"is-card is-card\u002d\u002dbeige-fade-in","layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-card is-card--beige-fade-in"><!-- wp:heading {"fontSize":"x-large"} -->
 <h2 class="wp-block-heading has-x-large-font-size">Documents</h2>
 <!-- /wp:heading -->
 
@@ -47,8 +48,8 @@
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
-<!-- wp:group {"metadata":{"name":"Card Item"},"className":"is-style-card-white-beige is-style-card-beige-fade","layout":{"type":"constrained"}} -->
-<div class="wp-block-group is-style-card-white-beige is-style-card-beige-fade"><!-- wp:heading {"fontSize":"x-large"} -->
+<!-- wp:group {"metadata":{"name":"Card Item"},"className":"is-card is-card\u002d\u002dbeige-fade-in","layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-card is-card--beige-fade-in"><!-- wp:heading {"fontSize":"x-large"} -->
 <h2 class="wp-block-heading has-x-large-font-size">Pricing</h2>
 <!-- /wp:heading -->
 
@@ -57,4 +58,5 @@
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group --></div>
+<!-- /wp:group --></section>
 <!-- /wp:group -->

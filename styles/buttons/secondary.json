@@ -6,8 +6,14 @@
   "blockTypes": ["core/button"],
   "styles": {
     "color": {
-      "background": "var:preset|color|secondary-dark",
-      "text": "var:preset|color|white"
+      "background": "var(--wp--preset--color--custom-white-20)",
+      "text": "var(--wp--preset--color--white)"
+    },
+    ":hover": {
+        "color": {
+            "background": "var(--wp--preset--color--secondary-pale)",
+            "text": "white"
+        }
     }
   }
 }
