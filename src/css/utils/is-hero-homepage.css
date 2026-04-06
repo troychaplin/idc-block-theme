@@ -1,12 +1,12 @@
 /* Hero Banner */
 
-.wp-block-group.alignfull.is-style-hero.is-hero--homepage {
-    background: var(--wp--preset--gradient--custom-primary-dark-cut-to-beige);
+.wp-block-group.alignfull.is-style-hero-blue.is-hero--homepage {
+    background: var(--wp--preset--gradient--custom-primary-hero-blue);
     padding: 0 var(--wp--preset--spacing--50);
 }
 
 @media (--bp-tablet) {
-    .wp-block-group.alignfull.is-style-hero.is-hero--homepage {
+    .wp-block-group.alignfull.is-style-hero-blue.is-hero--homepage {
         grid-template-columns: repeat(1, 1fr);
         background: var(--wp--preset--color--secondary-pale);
         padding: 0;
@@ -29,7 +29,7 @@
 
 .is-hero--homepage .wp-block-group.is-hero__columns .is-hero__content {
     color: var(--wp--preset--color--white);
-    background-image: url("../images/hero-bg.jpg");
+    background-image: url("../images/hero-bg-blue.jpg");
     background-size: cover;
     background-position: center;
     padding-right: var(--wp--preset--spacing--70);

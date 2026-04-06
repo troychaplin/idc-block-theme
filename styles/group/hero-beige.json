@@ -1,8 +1,8 @@
 {
   "$schema": "https://schemas.wp.org/trunk/theme.json",
   "version": 3,
-  "slug": "hero",
-  "title": "Hero",
+  "slug": "hero-beige",
+  "title": "Hero: Beige",
   "blockTypes": ["core/group"],
   "styles": {
     "spacing": {

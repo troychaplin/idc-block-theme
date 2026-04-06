@@ -102,8 +102,8 @@ class Enqueues {
             array( 'label' => __( 'IDC Headings', 'idocs-block-theme' ) )
         );
 		register_block_pattern_category(
-			'idocs-patterns',
-			array( 'label' => __( 'IDC Patterns', 'idocs-block-theme' ) )
+			'idocs-layouts',
+			array( 'label' => __( 'IDC Layouts', 'idocs-block-theme' ) )
 		);
 	}
 }

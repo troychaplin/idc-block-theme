@@ -5,8 +5,8 @@
  * Categories: idocs-sections
  */
 ?>
-<!-- wp:group {"tagName":"section","metadata":{"name":"Hero with Form"},"align":"full","className":"is-style-hero is-hero is-hero\u002d\u002dhomepage","layout":{"type":"constrained"},"anchor":"your-pathway"} -->
-<section class="wp-block-group alignfull is-style-hero is-hero is-hero--homepage" id="your-pathway"><!-- wp:group {"metadata":{"name":"Columns"},"align":"wide","className":"is-hero__columns","layout":{"type":"constrained"}} -->
+<!-- wp:group {"tagName":"section","metadata":{"name":"Hero with Form"},"align":"full","className":"is-style-hero-blue is-hero is-hero\u002d\u002dhomepage","layout":{"type":"constrained"},"anchor":"your-pathway"} -->
+<section class="wp-block-group alignfull is-style-hero-blue is-hero is-hero--homepage" id="your-pathway"><!-- wp:group {"metadata":{"name":"Columns"},"align":"wide","className":"is-hero__columns","layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignwide is-hero__columns"><!-- wp:group {"metadata":{"name":"Content Column"},"align":"full","className":"is-hero__content","style":{"spacing":{"blockGap":"var:preset|spacing|40"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignfull is-hero__content"><!-- wp:group {"tagName":"header","metadata":{"name":"Hero Heading"},"align":"wide","style":{"spacing":{"margin":{"bottom":"var:preset|spacing|50"}}},"layout":{"type":"constrained","justifyContent":"left"}} -->
 <header class="wp-block-group alignwide" style="margin-bottom:var(--wp--preset--spacing--50)"><!-- wp:paragraph {"className":"has-thin-lines has-thin-lines\u002d\u002dblue has-thin-lines\u002d\u002dright","style":{"typography":{"textAlign":"left"}}} -->
