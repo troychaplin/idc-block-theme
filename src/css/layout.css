@@ -1,9 +1,0 @@
-/* .idc-main,
-.idc-main.wp-block,
-.idc-main + div {
-    margin-block-start: 0;
-} */
-
-.idc-main {
-    margin-block-start: 0;
-}
