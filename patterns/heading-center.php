@@ -1,11 +1,11 @@
 <?php
 /**
- * Title: Section Heading: Center
- * Slug: idocs-block-theme/section-heading-center
+ * Title: Heading: Center
+ * Slug: idocs-block-theme/heading-center
  * Categories: idocs-headings
  */
 ?>
-<!-- wp:group {"tagName":"header","metadata":{"name":"Section Heading: Center"},"align":"wide","layout":{"type":"constrained"}} -->
+<!-- wp:group {"tagName":"header","metadata":{"name":"Heading: Center"},"align":"wide","layout":{"type":"constrained"}} -->
 <header class="wp-block-group alignwide"><!-- wp:paragraph {"className":"has-thin-lines","style":{"typography":{"textAlign":"center"}}} -->
 <p class="has-text-align-center has-thin-lines">Fast-Track Authentication</p>
 <!-- /wp:paragraph -->

@@ -1,6 +1,7 @@
 /* Card Group */
 
 .wp-block-group.is-card {
+    width: 100%;
     background: var(--wp--preset--color--white);
     color: var(--wp--preset--color--black);
     padding: var(--wp--preset--spacing--50);
@@ -9,15 +10,6 @@
     border-radius: 7px;
     margin-block-start: 0;
     max-width: initial;
-}
-
-.wp-block-group.is-card a {
-    color: var(--wp--preset--color--primary-light);
-    font-weight: 700;
-}
-
-.wp-block-group.is-card a:hover {
-    color: var(--wp--preset--color--secondary-dark);
 }
 
 .wp-block-group.is-card h2 {

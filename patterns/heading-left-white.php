@@ -1,11 +1,11 @@
 <?php
 /**
- * Title: Section Heading: Left White
- * Slug: idocs-block-theme/section-heading-left-white
+ * Title: Heading: Left White
+ * Slug: idocs-block-theme/heading-left-white
  * Categories: idocs-headings
  */
 ?>
-<!-- wp:group {"tagName":"header","metadata":{"name":"Hero Heading"},"align":"wide","style":{"spacing":{"margin":{"bottom":"var:preset|spacing|50"}}},"layout":{"type":"constrained","justifyContent":"left"}} -->
+<!-- wp:group {"tagName":"header","metadata":{"name":"Heading: Left White"},"align":"wide","style":{"spacing":{"margin":{"bottom":"var:preset|spacing|50"}}},"layout":{"type":"constrained","justifyContent":"left"}} -->
 <header class="wp-block-group alignwide" style="margin-bottom:var(--wp--preset--spacing--50)"><!-- wp:paragraph {"className":"has-thin-lines has-thin-lines\u002d\u002dblue has-thin-lines\u002d\u002dright","style":{"typography":{"textAlign":"left"}}} -->
 <p class="has-text-align-left has-thin-lines has-thin-lines--blue has-thin-lines--right">Document Apostille &amp; Authentication</p>
 <!-- /wp:paragraph -->

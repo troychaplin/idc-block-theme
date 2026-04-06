@@ -1,11 +1,11 @@
 <?php
 /**
- * Title: Section Heading: Center White
- * Slug: idocs-block-theme/section-heading-center-white
+ * Title: Heading: Center White
+ * Slug: idocs-block-theme/heading-center-white
  * Categories: idocs-headings
  */
 ?>
-<!-- wp:group {"tagName":"header","metadata":{"name":"Section Heading: Center White"},"align":"wide","layout":{"type":"constrained"}} -->
+<!-- wp:group {"tagName":"header","metadata":{"name":"Heading: Center White"},"align":"wide","layout":{"type":"constrained"}} -->
 <header class="wp-block-group alignwide"><!-- wp:paragraph {"className":"has-thin-lines has-thin-lines\u002d\u002dblue","style":{"typography":{"textAlign":"center"}}} -->
 <p class="has-text-align-center has-thin-lines has-thin-lines--blue">Client Experiences</p>
 <!-- /wp:paragraph -->

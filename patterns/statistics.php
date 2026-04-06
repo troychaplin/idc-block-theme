@@ -1,12 +1,12 @@
 <?php
 /**
- * Title: Statistics Grid
- * Slug: idocs-block-theme/statistics-grid
+ * Title: Statistics
+ * Slug: idocs-block-theme/statistics
  * Categories: idocs-sections
  */
 ?>
 <!-- wp:group {"tagName":"section","metadata":{"name":"Statistics","categories":["idocs-sections"]},"align":"full","className":"is-style-white","layout":{"type":"constrained"}} -->
-<section class="wp-block-group alignfull is-style-white"><!-- wp:group {"metadata":{"name":"Statistics Grid"},"align":"wide","style":{"spacing":{"blockGap":"var:preset|spacing|50","margin":{"top":"-1rem"}}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"space-between"}} -->
+<section class="wp-block-group alignfull is-style-white"><!-- wp:group {"metadata":{"name":"Statistics"},"align":"wide","style":{"spacing":{"blockGap":"var:preset|spacing|50","margin":{"top":"-1rem"}}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"space-between"}} -->
 <div class="wp-block-group alignwide" style="margin-top:-1rem"><!-- wp:group {"tagName":"article","metadata":{"name":"Stats Item"},"style":{"layout":{"selfStretch":"fill","flexSize":null},"spacing":{"blockGap":"0"}},"layout":{"type":"constrained"}} -->
 <article class="wp-block-group"><!-- wp:paragraph {"style":{"typography":{"textAlign":"center"}},"fontSize":"heading-medium","fontFamily":"playfair-display"} -->
 <p class="has-text-align-center has-playfair-display-font-family has-heading-medium-font-size">12,000+</p>
