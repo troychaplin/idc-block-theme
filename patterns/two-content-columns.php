@@ -5,10 +5,10 @@
  * Categories: idocs-sections
  */
 ?>
-<!-- wp:group {"tagName":"section","metadata":{"name":"Complete Solution"},"align":"full","className":"is-style-white idc-section","layout":{"type":"constrained"}} -->
-<section class="wp-block-group alignfull is-style-white idc-section"><!-- wp:group {"metadata":{"name":"Two Content Columns"},"align":"wide","className":"is-two-columns","layout":{"type":"constrained"}} -->
+<!-- wp:group {"tagName":"section","metadata":{"name":"Complete Solution","categories":["idocs-sections"]},"align":"full","className":"is-style-white","layout":{"type":"constrained"}} -->
+<section class="wp-block-group alignfull is-style-white"><!-- wp:group {"metadata":{"name":"Two Content Columns"},"align":"wide","className":"is-two-columns","layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignwide is-two-columns"><!-- wp:group {"metadata":{"name":"Content Column"},"style":{"spacing":{"blockGap":"var:preset|spacing|40"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:group {"tagName":"header","metadata":{"name":"Section Heading: Left","patternName":"core/block/39656"},"align":"wide","style":{"spacing":{"margin":{"bottom":"var:preset|spacing|50"}}},"layout":{"type":"constrained","justifyContent":"left"}} -->
+<div class="wp-block-group"><!-- wp:group {"tagName":"header","metadata":{"name":"Section Heading: Left"},"align":"wide","style":{"spacing":{"margin":{"bottom":"var:preset|spacing|50"}}},"layout":{"type":"constrained","justifyContent":"left"}} -->
 <header class="wp-block-group alignwide" style="margin-bottom:var(--wp--preset--spacing--50)"><!-- wp:paragraph {"className":"has-thin-lines has-thin-lines\u002d\u002dright","style":{"typography":{"textAlign":"left"}}} -->
 <p class="has-text-align-left has-thin-lines has-thin-lines--right">Complete Solution</p>
 <!-- /wp:paragraph -->
@@ -28,34 +28,34 @@
 <!-- /wp:group -->
 
 <!-- wp:group {"metadata":{"name":"Card Column"},"className":"is-card-grid is-card-grid\u002d\u002dvertical","layout":{"type":"constrained"}} -->
-<div class="wp-block-group is-card-grid is-card-grid--vertical"><!-- wp:group {"metadata":{"name":"Card Item"},"className":"is-card is-card\u002d\u002dbeige-fade-in","layout":{"type":"constrained"}} -->
-<div class="wp-block-group is-card is-card--beige-fade-in"><!-- wp:heading {"fontSize":"x-large"} -->
+<div class="wp-block-group is-card-grid is-card-grid--vertical"><!-- wp:group {"tagName":"article","metadata":{"name":"Card Item"},"className":"is-card is-card\u002d\u002dbeige-fade-in","layout":{"type":"constrained"}} -->
+<article class="wp-block-group is-card is-card--beige-fade-in"><!-- wp:heading {"fontSize":"x-large"} -->
 <h2 class="wp-block-heading has-x-large-font-size">Services</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"fontSize":"small"} -->
 <p class="has-small-font-size">From professional notarization to certified translation, we handle every administrative detail of the entire apostille lifecycle and legalization process so you don't have to. <strong><em><a href="#">View our services</a></em></strong></p>
-<!-- /wp:paragraph --></div>
+<!-- /wp:paragraph --></article>
 <!-- /wp:group -->
 
-<!-- wp:group {"metadata":{"name":"Card Item"},"className":"is-card is-card\u002d\u002dbeige-fade-in","layout":{"type":"constrained"}} -->
-<div class="wp-block-group is-card is-card--beige-fade-in"><!-- wp:heading {"fontSize":"x-large"} -->
+<!-- wp:group {"tagName":"article","metadata":{"name":"Card Item"},"className":"is-card is-card\u002d\u002dbeige-fade-in","layout":{"type":"constrained"}} -->
+<article class="wp-block-group is-card is-card--beige-fade-in"><!-- wp:heading {"fontSize":"x-large"} -->
 <h2 class="wp-block-heading has-x-large-font-size">Documents</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"fontSize":"small"} -->
 <p class="has-small-font-size">Whether for personal milestones or corporate expansion, we ensure your Canadian documents meet strict international compliance standards. <strong><em><a href="#">View common documents</a></em></strong></p>
-<!-- /wp:paragraph --></div>
+<!-- /wp:paragraph --></article>
 <!-- /wp:group -->
 
-<!-- wp:group {"metadata":{"name":"Card Item"},"className":"is-card is-card\u002d\u002dbeige-fade-in","layout":{"type":"constrained"}} -->
-<div class="wp-block-group is-card is-card--beige-fade-in"><!-- wp:heading {"fontSize":"x-large"} -->
+<!-- wp:group {"tagName":"article","metadata":{"name":"Card Item"},"className":"is-card is-card\u002d\u002dbeige-fade-in","layout":{"type":"constrained"}} -->
+<article class="wp-block-group is-card is-card--beige-fade-in"><!-- wp:heading {"fontSize":"x-large"} -->
 <h2 class="wp-block-heading has-x-large-font-size">Pricing</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"fontSize":"small"} -->
 <p class="has-small-font-size">We believe in clarity over complexity. Our fees are structured around your specific destination and timeline—no hidden costs, no surprises. <strong><em><a href="#">View our prices</a></em></strong></p>
-<!-- /wp:paragraph --></div>
+<!-- /wp:paragraph --></article>
 <!-- /wp:group --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group --></section>

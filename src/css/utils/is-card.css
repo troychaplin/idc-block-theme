@@ -20,16 +20,12 @@
     color: var(--wp--preset--color--secondary-dark);
 }
 
-@media (--bp-tablet) {
-    .wp-block-group.is-card:first-child {
-        grid-column: span 2;
-    }
+.wp-block-group.is-card h2 {
+    font-size: var(--wp--preset--font-size--x-large);
 }
 
-@media (--bp-mobile) {
-    .wp-block-group.is-card:first-child {
-        grid-column: span 1;
-    }
+.wp-block-group.is-card p {
+    font-size: var(--wp--preset--font-size--small);
 }
 
 /* Card Footer */

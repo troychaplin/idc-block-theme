@@ -8,10 +8,10 @@
  * Inserter: yes
  */
 ?>
-<!-- wp:group {"tagName":"section","metadata":{"name":"Hero Homepage","patternName":"core/block/39981"},"align":"full","className":"is-style-hero-blue is-hero is-hero\u002d\u002dhomepage","layout":{"type":"constrained"},"anchor":"your-pathway"} -->
-<section class="wp-block-group alignfull is-style-hero-blue is-hero is-hero--homepage" id="your-pathway"><!-- wp:group {"metadata":{"name":"Columns"},"align":"wide","className":"is-hero__columns","layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignwide is-hero__columns"><!-- wp:group {"metadata":{"name":"Content Column"},"align":"full","className":"is-hero__content","style":{"spacing":{"blockGap":"var:preset|spacing|40"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignfull is-hero__content"><!-- wp:group {"tagName":"header","metadata":{"name":"Hero Heading"},"align":"wide","style":{"spacing":{"margin":{"bottom":"var:preset|spacing|50"}}},"layout":{"type":"constrained","justifyContent":"left"}} -->
+<!-- wp:group {"tagName":"section","metadata":{"name":"Hero Homepage","categories":["idocs-sections"],"patternName":"idocs-block-theme/hero-homepage"},"align":"full","className":"is-style-hero-blue is-hero is-hero\u002d\u002dhomepage","layout":{"type":"constrained"}} -->
+<section class="wp-block-group alignfull is-style-hero-blue is-hero is-hero--homepage"><!-- wp:group {"metadata":{"name":"Columns"},"align":"wide","className":"is-hero__columns","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignwide is-hero__columns"><!-- wp:group {"tagName":"article","metadata":{"name":"Content Column"},"align":"full","className":"is-hero__content","style":{"spacing":{"blockGap":"var:preset|spacing|40"}},"layout":{"type":"constrained"}} -->
+<article class="wp-block-group alignfull is-hero__content"><!-- wp:group {"tagName":"header","metadata":{"name":"Hero Heading"},"align":"wide","style":{"spacing":{"margin":{"bottom":"var:preset|spacing|50"}}},"layout":{"type":"constrained","justifyContent":"left"}} -->
 <header class="wp-block-group alignwide" style="margin-bottom:var(--wp--preset--spacing--50)"><!-- wp:paragraph {"className":"has-thin-lines has-thin-lines\u002d\u002dblue has-thin-lines\u002d\u002dright","style":{"typography":{"textAlign":"left"}}} -->
 <p class="has-text-align-left has-thin-lines has-thin-lines--blue has-thin-lines--right">Document Apostille &amp; Authentication</p>
 <!-- /wp:paragraph -->
@@ -27,11 +27,11 @@
 
 <!-- wp:paragraph -->
 <p>Our responsive team offers free consultations and expert advice for any situation. We go above and beyond to answer your questions and ensure your documents are processed successfully.</p>
-<!-- /wp:paragraph --></div>
+<!-- /wp:paragraph --></article>
 <!-- /wp:group -->
 
-<!-- wp:group {"metadata":{"name":"Form Column"},"align":"full","className":"is-hero__form","layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignfull is-hero__form"><!-- wp:group {"metadata":{"name":"Form"},"style":{"spacing":{"blockGap":"var:preset|spacing|40"}},"layout":{"type":"constrained"}} -->
+<!-- wp:group {"tagName":"aside","metadata":{"name":"Form Column"},"align":"full","className":"is-hero__form","layout":{"type":"constrained"}} -->
+<aside class="wp-block-group alignfull is-hero__form"><!-- wp:group {"metadata":{"name":"Form"},"style":{"spacing":{"blockGap":"var:preset|spacing|40"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:heading {"className":"has-gray-400-color has-text-color has-link-color","style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}},"typography":{"fontStyle":"normal","fontWeight":"400","textAlign":"left"},"spacing":{"margin":{"bottom":"var:preset|spacing|30"}}},"textColor":"primary","fontSize":"heading-medium"} -->
 <h2 class="wp-block-heading has-text-align-left has-gray-400-color has-text-color has-link-color has-primary-color has-heading-medium-font-size" style="margin-bottom:var(--wp--preset--spacing--30);font-style:normal;font-weight:400">Get Your Free Quote</h2>
 <!-- /wp:heading -->
@@ -111,48 +111,48 @@
 <div class="wp-block-button is-style-primary is-style-primary-light"><a class="wp-block-button__link wp-element-button" href="#">Request a Quote</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
-<!-- /wp:group --></div>
+<!-- /wp:group --></aside>
 <!-- /wp:group --></div>
 <!-- /wp:group --></section>
 <!-- /wp:group -->
 
-<!-- wp:group {"tagName":"section","metadata":{"name":"Statistics","categories":["idocs-sections"],"patternName":"idocs-block-theme/statistics-grid"},"align":"full","className":"idc-section is-style-white","layout":{"type":"constrained"}} -->
-<section class="wp-block-group alignfull idc-section is-style-white"><!-- wp:group {"metadata":{"name":"Statistics Grid"},"align":"wide","className":"idc-stats-grid","style":{"spacing":{"blockGap":"var:preset|spacing|50","margin":{"top":"-1rem"}}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"space-between"}} -->
-<div class="wp-block-group alignwide idc-stats-grid" style="margin-top:-1rem"><!-- wp:group {"metadata":{"name":"Stats Item"},"style":{"layout":{"selfStretch":"fill","flexSize":null},"spacing":{"blockGap":"0"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:paragraph {"style":{"typography":{"textAlign":"center"}},"fontSize":"heading-medium","fontFamily":"playfair-display"} -->
+<!-- wp:group {"tagName":"section","metadata":{"name":"Statistics","categories":["idocs-sections"],"patternName":"idocs-block-theme/statistics-grid"},"align":"full","className":"is-style-white","layout":{"type":"constrained"}} -->
+<section class="wp-block-group alignfull is-style-white"><!-- wp:group {"metadata":{"name":"Statistics Grid"},"align":"wide","style":{"spacing":{"blockGap":"var:preset|spacing|50","margin":{"top":"-1rem"}}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"space-between"}} -->
+<div class="wp-block-group alignwide" style="margin-top:-1rem"><!-- wp:group {"tagName":"article","metadata":{"name":"Stats Item"},"style":{"layout":{"selfStretch":"fill","flexSize":null},"spacing":{"blockGap":"0"}},"layout":{"type":"constrained"}} -->
+<article class="wp-block-group"><!-- wp:paragraph {"style":{"typography":{"textAlign":"center"}},"fontSize":"heading-medium","fontFamily":"playfair-display"} -->
 <p class="has-text-align-center has-playfair-display-font-family has-heading-medium-font-size">12,000+</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"style":{"typography":{"textAlign":"center","fontStyle":"normal","fontWeight":"400"}},"fontSize":"small"} -->
 <p class="has-text-align-center has-small-font-size" style="font-style:normal;font-weight:400">Application Processed</p>
-<!-- /wp:paragraph --></div>
+<!-- /wp:paragraph --></article>
 <!-- /wp:group -->
 
-<!-- wp:group {"metadata":{"name":"Stats Item"},"style":{"layout":{"selfStretch":"fill","flexSize":null},"spacing":{"blockGap":"0"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:paragraph {"style":{"typography":{"textAlign":"center"}},"fontSize":"heading-medium","fontFamily":"playfair-display"} -->
+<!-- wp:group {"tagName":"article","metadata":{"name":"Stats Item"},"style":{"layout":{"selfStretch":"fill","flexSize":null},"spacing":{"blockGap":"0"}},"layout":{"type":"constrained"}} -->
+<article class="wp-block-group"><!-- wp:paragraph {"style":{"typography":{"textAlign":"center"}},"fontSize":"heading-medium","fontFamily":"playfair-display"} -->
 <p class="has-text-align-center has-playfair-display-font-family has-heading-medium-font-size">85+</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"style":{"typography":{"textAlign":"center","fontStyle":"normal","fontWeight":"400"}},"fontSize":"small"} -->
 <p class="has-text-align-center has-small-font-size" style="font-style:normal;font-weight:400">Countries Served</p>
-<!-- /wp:paragraph --></div>
+<!-- /wp:paragraph --></article>
 <!-- /wp:group -->
 
-<!-- wp:group {"metadata":{"name":"Stats Item"},"style":{"layout":{"selfStretch":"fill","flexSize":null},"spacing":{"blockGap":"0"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:paragraph {"style":{"typography":{"textAlign":"center"}},"fontSize":"heading-medium","fontFamily":"playfair-display"} -->
+<!-- wp:group {"tagName":"article","metadata":{"name":"Stats Item"},"style":{"layout":{"selfStretch":"fill","flexSize":null},"spacing":{"blockGap":"0"}},"layout":{"type":"constrained"}} -->
+<article class="wp-block-group"><!-- wp:paragraph {"style":{"typography":{"textAlign":"center"}},"fontSize":"heading-medium","fontFamily":"playfair-display"} -->
 <p class="has-text-align-center has-playfair-display-font-family has-heading-medium-font-size">20+</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"style":{"typography":{"textAlign":"center","fontStyle":"normal","fontWeight":"400"}},"fontSize":"small"} -->
 <p class="has-text-align-center has-small-font-size" style="font-style:normal;font-weight:400">Years of Experience</p>
-<!-- /wp:paragraph --></div>
+<!-- /wp:paragraph --></article>
 <!-- /wp:group --></div>
 <!-- /wp:group --></section>
 <!-- /wp:group -->
 
-<!-- wp:group {"tagName":"section","metadata":{"name":"Three Simple Steps","categories":["idocs-sections"],"patternName":"idocs-block-theme/three-simple-steps"},"align":"full","className":"is-style-beige idc-section","layout":{"type":"constrained"}} -->
-<section class="wp-block-group alignfull is-style-beige idc-section"><!-- wp:group {"tagName":"header","metadata":{"name":"Section Heading: Center"},"align":"wide","className":"idc-section__header","layout":{"type":"constrained"}} -->
-<header class="wp-block-group alignwide idc-section__header"><!-- wp:paragraph {"className":"has-thin-lines","style":{"typography":{"textAlign":"center"}}} -->
+<!-- wp:group {"tagName":"section","metadata":{"name":"Three Simple Steps","categories":["idocs-sections"],"patternName":"idocs-block-theme/three-simple-steps"},"align":"full","className":"is-style-beige","layout":{"type":"constrained"}} -->
+<section class="wp-block-group alignfull is-style-beige"><!-- wp:group {"tagName":"header","metadata":{"name":"Section Heading: Center"},"align":"wide","layout":{"type":"constrained"}} -->
+<header class="wp-block-group alignwide"><!-- wp:paragraph {"className":"has-thin-lines","style":{"typography":{"textAlign":"center"}}} -->
 <p class="has-text-align-center has-thin-lines">Fast-Track Authentication</p>
 <!-- /wp:paragraph -->
 
@@ -166,8 +166,8 @@
 <!-- /wp:group -->
 
 <!-- wp:group {"metadata":{"name":"Card Grid: Numbered Cards"},"align":"wide","className":"is-card-grid","style":{"spacing":{"blockGap":"0"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignwide is-card-grid"><!-- wp:group {"metadata":{"name":"Card Item"},"className":"is-card","layout":{"type":"constrained"}} -->
-<div class="wp-block-group is-card"><!-- wp:group {"metadata":{"name":"Step Number"},"className":"is-style-square","style":{"spacing":{"margin":{"bottom":"var:preset|spacing|40"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignwide is-card-grid"><!-- wp:group {"tagName":"article","metadata":{"name":"Card Item"},"className":"is-card","layout":{"type":"constrained"}} -->
+<article class="wp-block-group is-card"><!-- wp:group {"metadata":{"name":"Step Number"},"className":"is-style-square","style":{"spacing":{"margin":{"bottom":"var:preset|spacing|40"}}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group is-style-square" style="margin-bottom:var(--wp--preset--spacing--40)"><!-- wp:paragraph {"align":"full","className":"has-circle-square"} -->
 <p class="alignfull has-circle-square">01</p>
 <!-- /wp:paragraph --></div>
@@ -179,11 +179,11 @@
 
 <!-- wp:paragraph {"fontSize":"small"} -->
 <p class="has-small-font-size">Let us help you gather and prepare the required documents for use globally. No matter the situation, we are prepared to help you achieve success.</p>
-<!-- /wp:paragraph --></div>
+<!-- /wp:paragraph --></article>
 <!-- /wp:group -->
 
-<!-- wp:group {"metadata":{"name":"Card Item"},"className":"is-card","layout":{"type":"constrained"}} -->
-<div class="wp-block-group is-card"><!-- wp:group {"metadata":{"name":"Step Number"},"className":"is-style-square","style":{"spacing":{"margin":{"bottom":"var:preset|spacing|40"}}},"layout":{"type":"constrained"}} -->
+<!-- wp:group {"tagName":"article","metadata":{"name":"Card Item"},"className":"is-card","layout":{"type":"constrained"}} -->
+<article class="wp-block-group is-card"><!-- wp:group {"metadata":{"name":"Step Number"},"className":"is-style-square","style":{"spacing":{"margin":{"bottom":"var:preset|spacing|40"}}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group is-style-square" style="margin-bottom:var(--wp--preset--spacing--40)"><!-- wp:paragraph {"align":"full","className":"has-circle-square"} -->
 <p class="alignfull has-circle-square">02</p>
 <!-- /wp:paragraph --></div>
@@ -195,11 +195,11 @@
 
 <!-- wp:paragraph {"fontSize":"small"} -->
 <p class="has-small-font-size">Send us your documents for secure and reliable services. We will manage the required steps and ensure your documents are processed properly.</p>
-<!-- /wp:paragraph --></div>
+<!-- /wp:paragraph --></article>
 <!-- /wp:group -->
 
-<!-- wp:group {"metadata":{"name":"Card Item"},"className":"is-card","layout":{"type":"constrained"}} -->
-<div class="wp-block-group is-card"><!-- wp:group {"metadata":{"name":"Step Number"},"className":"is-style-square","style":{"spacing":{"margin":{"bottom":"var:preset|spacing|40"}}},"layout":{"type":"constrained"}} -->
+<!-- wp:group {"tagName":"article","metadata":{"name":"Card Item"},"className":"is-card","layout":{"type":"constrained"}} -->
+<article class="wp-block-group is-card"><!-- wp:group {"metadata":{"name":"Step Number"},"className":"is-style-square","style":{"spacing":{"margin":{"bottom":"var:preset|spacing|40"}}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group is-style-square" style="margin-bottom:var(--wp--preset--spacing--40)"><!-- wp:paragraph {"align":"full","className":"has-circle-square"} -->
 <p class="alignfull has-circle-square">03</p>
 <!-- /wp:paragraph --></div>
@@ -211,7 +211,7 @@
 
 <!-- wp:paragraph {"fontSize":"small"} -->
 <p class="has-small-font-size">Now you can sit back and trust the experts to handle the process. Once your documents have been completed, they are ready to use globally.</p>
-<!-- /wp:paragraph --></div>
+<!-- /wp:paragraph --></article>
 <!-- /wp:group --></div>
 <!-- /wp:group -->
 
@@ -222,10 +222,10 @@
 <!-- /wp:buttons --></section>
 <!-- /wp:group -->
 
-<!-- wp:group {"tagName":"section","metadata":{"name":"Complete Solution","categories":["idocs-sections"],"patternName":"idocs-block-theme/two-content-columns"},"align":"full","className":"is-style-white idc-section","layout":{"type":"constrained"}} -->
-<section class="wp-block-group alignfull is-style-white idc-section"><!-- wp:group {"metadata":{"name":"Two Content Columns"},"align":"wide","className":"is-two-columns","layout":{"type":"constrained"}} -->
+<!-- wp:group {"tagName":"section","metadata":{"name":"Complete Solution","categories":["idocs-sections"],"patternName":"idocs-block-theme/two-content-columns"},"align":"full","className":"is-style-white","layout":{"type":"constrained"}} -->
+<section class="wp-block-group alignfull is-style-white"><!-- wp:group {"metadata":{"name":"Two Content Columns"},"align":"wide","className":"is-two-columns","layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignwide is-two-columns"><!-- wp:group {"metadata":{"name":"Content Column"},"style":{"spacing":{"blockGap":"var:preset|spacing|40"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:group {"tagName":"header","metadata":{"name":"Section Heading: Left","patternName":"core/block/39656"},"align":"wide","style":{"spacing":{"margin":{"bottom":"var:preset|spacing|50"}}},"layout":{"type":"constrained","justifyContent":"left"}} -->
+<div class="wp-block-group"><!-- wp:group {"tagName":"header","metadata":{"name":"Section Heading: Left"},"align":"wide","style":{"spacing":{"margin":{"bottom":"var:preset|spacing|50"}}},"layout":{"type":"constrained","justifyContent":"left"}} -->
 <header class="wp-block-group alignwide" style="margin-bottom:var(--wp--preset--spacing--50)"><!-- wp:paragraph {"className":"has-thin-lines has-thin-lines\u002d\u002dright","style":{"typography":{"textAlign":"left"}}} -->
 <p class="has-text-align-left has-thin-lines has-thin-lines--right">Complete Solution</p>
 <!-- /wp:paragraph -->
@@ -245,42 +245,42 @@
 <!-- /wp:group -->
 
 <!-- wp:group {"metadata":{"name":"Card Column"},"className":"is-card-grid is-card-grid\u002d\u002dvertical","layout":{"type":"constrained"}} -->
-<div class="wp-block-group is-card-grid is-card-grid--vertical"><!-- wp:group {"metadata":{"name":"Card Item"},"className":"is-card is-card\u002d\u002dbeige-fade-in","layout":{"type":"constrained"}} -->
-<div class="wp-block-group is-card is-card--beige-fade-in"><!-- wp:heading {"fontSize":"x-large"} -->
+<div class="wp-block-group is-card-grid is-card-grid--vertical"><!-- wp:group {"tagName":"article","metadata":{"name":"Card Item"},"className":"is-card is-card\u002d\u002dbeige-fade-in","layout":{"type":"constrained"}} -->
+<article class="wp-block-group is-card is-card--beige-fade-in"><!-- wp:heading {"fontSize":"x-large"} -->
 <h2 class="wp-block-heading has-x-large-font-size">Services</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"fontSize":"small"} -->
 <p class="has-small-font-size">From professional notarization to certified translation, we handle every administrative detail of the entire apostille lifecycle and legalization process so you don't have to. <strong><em><a href="#">View our services</a></em></strong></p>
-<!-- /wp:paragraph --></div>
+<!-- /wp:paragraph --></article>
 <!-- /wp:group -->
 
-<!-- wp:group {"metadata":{"name":"Card Item"},"className":"is-card is-card\u002d\u002dbeige-fade-in","layout":{"type":"constrained"}} -->
-<div class="wp-block-group is-card is-card--beige-fade-in"><!-- wp:heading {"fontSize":"x-large"} -->
+<!-- wp:group {"tagName":"article","metadata":{"name":"Card Item"},"className":"is-card is-card\u002d\u002dbeige-fade-in","layout":{"type":"constrained"}} -->
+<article class="wp-block-group is-card is-card--beige-fade-in"><!-- wp:heading {"fontSize":"x-large"} -->
 <h2 class="wp-block-heading has-x-large-font-size">Documents</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"fontSize":"small"} -->
 <p class="has-small-font-size">Whether for personal milestones or corporate expansion, we ensure your Canadian documents meet strict international compliance standards. <strong><em><a href="#">View common documents</a></em></strong></p>
-<!-- /wp:paragraph --></div>
+<!-- /wp:paragraph --></article>
 <!-- /wp:group -->
 
-<!-- wp:group {"metadata":{"name":"Card Item"},"className":"is-card is-card\u002d\u002dbeige-fade-in","layout":{"type":"constrained"}} -->
-<div class="wp-block-group is-card is-card--beige-fade-in"><!-- wp:heading {"fontSize":"x-large"} -->
+<!-- wp:group {"tagName":"article","metadata":{"name":"Card Item"},"className":"is-card is-card\u002d\u002dbeige-fade-in","layout":{"type":"constrained"}} -->
+<article class="wp-block-group is-card is-card--beige-fade-in"><!-- wp:heading {"fontSize":"x-large"} -->
 <h2 class="wp-block-heading has-x-large-font-size">Pricing</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"fontSize":"small"} -->
 <p class="has-small-font-size">We believe in clarity over complexity. Our fees are structured around your specific destination and timeline—no hidden costs, no surprises. <strong><em><a href="#">View our prices</a></em></strong></p>
-<!-- /wp:paragraph --></div>
+<!-- /wp:paragraph --></article>
 <!-- /wp:group --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group --></section>
 <!-- /wp:group -->
 
-<!-- wp:group {"tagName":"section","metadata":{"name":"Testimonials","categories":["idocs-sections"],"patternName":"idocs-block-theme/testimonial-cards"},"align":"full","className":"idc-section is-style-blue","layout":{"type":"constrained"}} -->
-<section class="wp-block-group alignfull idc-section is-style-blue"><!-- wp:group {"tagName":"header","metadata":{"name":"Section Heading: White"},"align":"wide","className":"idc-section__header","layout":{"type":"constrained"}} -->
-<header class="wp-block-group alignwide idc-section__header"><!-- wp:paragraph {"className":"has-thin-lines has-thin-lines\u002d\u002dblue","style":{"typography":{"textAlign":"center"}}} -->
+<!-- wp:group {"tagName":"section","metadata":{"name":"Testimonials","categories":["idocs-sections"],"patternName":"idocs-block-theme/testimonials"},"align":"full","className":"is-style-blue","layout":{"type":"constrained"}} -->
+<section class="wp-block-group alignfull is-style-blue"><!-- wp:group {"tagName":"header","metadata":{"name":"Section Heading: White"},"align":"wide","layout":{"type":"constrained"}} -->
+<header class="wp-block-group alignwide"><!-- wp:paragraph {"className":"has-thin-lines has-thin-lines\u002d\u002dblue","style":{"typography":{"textAlign":"center"}}} -->
 <p class="has-text-align-center has-thin-lines has-thin-lines--blue">Client Experiences</p>
 <!-- /wp:paragraph -->
 
@@ -294,52 +294,52 @@
 <!-- /wp:group -->
 
 <!-- wp:group {"metadata":{"name":"Card Grid: Testimonials"},"align":"wide","className":"is-testimonial-grid","style":{"spacing":{"blockGap":"0"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
-<div class="wp-block-group alignwide is-testimonial-grid"><!-- wp:group {"metadata":{"name":"Card Item"},"className":"is-card is-card\u002d\u002dtestimonial","layout":{"type":"constrained"}} -->
-<div class="wp-block-group is-card is-card--testimonial"><!-- wp:paragraph -->
+<div class="wp-block-group alignwide is-testimonial-grid"><!-- wp:group {"tagName":"article","metadata":{"name":"Card Item"},"className":"is-card is-card\u002d\u002dtestimonial","layout":{"type":"constrained"}} -->
+<article class="wp-block-group is-card is-card--testimonial"><!-- wp:paragraph -->
 <p>I was pleased to find that the processing time was quite short. The documents were all processed and returned quickly and correctly. As well, a representative replied to each of my questions in a reasonable time frame. I would use this service again. You get what you pay for here.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:group {"align":"full","className":"is-card__footer","layout":{"type":"flex","flexWrap":"nowrap"}} -->
-<div class="wp-block-group alignfull is-card__footer"><!-- wp:image {"id":31399,"aspectRatio":"1","scale":"cover","sizeSlug":"large","linkDestination":"none","className":"is-style-rounded","style":{"layout":{"selfStretch":"fixed","flexSize":"60px"},"border":{"width":"1px"}},"borderColor":"grey-light"} -->
-<figure class="wp-block-image size-large has-custom-border is-style-rounded"><img src="http://localhost:8894/wp-content/uploads/2024/10/Children-happy-Oct-9-2024-min-scaled-1-1024x644.jpg" alt="" class="has-border-color has-grey-light-border-color wp-image-31399" style="border-width:1px;aspect-ratio:1;object-fit:cover"/></figure>
+<div class="wp-block-group alignfull is-card__footer"><!-- wp:image {"aspectRatio":"1","scale":"cover","sizeSlug":"large","linkDestination":"none","className":"is-style-rounded","style":{"layout":{"selfStretch":"fixed","flexSize":"60px"},"border":{"width":"1px"}},"borderColor":"grey-light"} -->
+<figure class="wp-block-image size-large has-custom-border is-style-rounded"><img src="/wp-content/themes/idc-block-theme/assets/images/testimonial-placeholder.jpg" alt="" class="has-border-color has-grey-light-border-color" style="border-width:1px;aspect-ratio:1;object-fit:cover"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"style":{"typography":{"fontStyle":"italic","fontWeight":"400"}}} -->
 <p style="font-style:italic;font-weight:400">Persons Name</p>
 <!-- /wp:paragraph --></div>
-<!-- /wp:group --></div>
+<!-- /wp:group --></article>
 <!-- /wp:group -->
 
-<!-- wp:group {"metadata":{"name":"Card Item"},"className":"is-card is-card\u002d\u002dtestimonial","layout":{"type":"constrained"}} -->
-<div class="wp-block-group is-card is-card--testimonial"><!-- wp:paragraph -->
+<!-- wp:group {"tagName":"article","metadata":{"name":"Card Item"},"className":"is-card is-card\u002d\u002dtestimonial","layout":{"type":"constrained"}} -->
+<article class="wp-block-group is-card is-card--testimonial"><!-- wp:paragraph -->
 <p>I was pleased to find that the processing time was quite short. The documents were all processed and returned quickly and correctly. As well, a representative replied to each of my questions in a reasonable time frame. I would use this service again. You get what you pay for here.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:group {"align":"full","className":"is-card__footer","layout":{"type":"flex","flexWrap":"nowrap"}} -->
-<div class="wp-block-group alignfull is-card__footer"><!-- wp:image {"id":31399,"aspectRatio":"1","scale":"cover","sizeSlug":"large","linkDestination":"none","className":"is-style-rounded","style":{"layout":{"selfStretch":"fixed","flexSize":"60px"},"border":{"width":"1px"}},"borderColor":"grey-light"} -->
-<figure class="wp-block-image size-large has-custom-border is-style-rounded"><img src="http://localhost:8894/wp-content/uploads/2024/10/Children-happy-Oct-9-2024-min-scaled-1-1024x644.jpg" alt="" class="has-border-color has-grey-light-border-color wp-image-31399" style="border-width:1px;aspect-ratio:1;object-fit:cover"/></figure>
+<div class="wp-block-group alignfull is-card__footer"><!-- wp:image {"aspectRatio":"1","scale":"cover","sizeSlug":"large","linkDestination":"none","className":"is-style-rounded","style":{"layout":{"selfStretch":"fixed","flexSize":"60px"},"border":{"width":"1px"}},"borderColor":"grey-light"} -->
+<figure class="wp-block-image size-large has-custom-border is-style-rounded"><img src="/wp-content/themes/idc-block-theme/assets/images/testimonial-placeholder.jpg" alt="" class="has-border-color has-grey-light-border-color" style="border-width:1px;aspect-ratio:1;object-fit:cover"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"style":{"typography":{"fontStyle":"italic","fontWeight":"400"}}} -->
 <p style="font-style:italic;font-weight:400">Persons Name</p>
 <!-- /wp:paragraph --></div>
-<!-- /wp:group --></div>
+<!-- /wp:group --></article>
 <!-- /wp:group -->
 
-<!-- wp:group {"metadata":{"name":"Card Item"},"className":"is-card is-card\u002d\u002dtestimonial","layout":{"type":"constrained"}} -->
-<div class="wp-block-group is-card is-card--testimonial"><!-- wp:paragraph -->
+<!-- wp:group {"tagName":"article","metadata":{"name":"Card Item"},"className":"is-card is-card\u002d\u002dtestimonial","layout":{"type":"constrained"}} -->
+<article class="wp-block-group is-card is-card--testimonial"><!-- wp:paragraph -->
 <p>I was pleased to find that the processing time was quite short. The documents were all processed and returned quickly and correctly. As well, a representative replied to each of my questions in a reasonable time frame. I would use this service again. You get what you pay for here.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:group {"align":"full","className":"is-card__footer","layout":{"type":"flex","flexWrap":"nowrap"}} -->
-<div class="wp-block-group alignfull is-card__footer"><!-- wp:image {"id":31399,"aspectRatio":"1","scale":"cover","sizeSlug":"large","linkDestination":"none","className":"is-style-rounded","style":{"layout":{"selfStretch":"fixed","flexSize":"60px"},"border":{"width":"1px"}},"borderColor":"grey-light"} -->
-<figure class="wp-block-image size-large has-custom-border is-style-rounded"><img src="http://localhost:8894/wp-content/uploads/2024/10/Children-happy-Oct-9-2024-min-scaled-1-1024x644.jpg" alt="" class="has-border-color has-grey-light-border-color wp-image-31399" style="border-width:1px;aspect-ratio:1;object-fit:cover"/></figure>
+<div class="wp-block-group alignfull is-card__footer"><!-- wp:image {"aspectRatio":"1","scale":"cover","sizeSlug":"large","linkDestination":"none","className":"is-style-rounded","style":{"layout":{"selfStretch":"fixed","flexSize":"60px"},"border":{"width":"1px"}},"borderColor":"grey-light"} -->
+<figure class="wp-block-image size-large has-custom-border is-style-rounded"><img src="/wp-content/themes/idc-block-theme/assets/images/testimonial-placeholder.jpg" alt="" class="has-border-color has-grey-light-border-color" style="border-width:1px;aspect-ratio:1;object-fit:cover"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"style":{"typography":{"fontStyle":"italic","fontWeight":"400"}}} -->
 <p style="font-style:italic;font-weight:400">Persons Name</p>
 <!-- /wp:paragraph --></div>
-<!-- /wp:group --></div>
+<!-- /wp:group --></article>
 <!-- /wp:group --></div>
 <!-- /wp:group --></section>
 <!-- /wp:group -->

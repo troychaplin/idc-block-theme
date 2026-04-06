@@ -5,9 +5,9 @@
  * Categories: idocs-headings
  */
 ?>
-<!-- wp:group {"tagName":"header","metadata":{"name":"Heading"},"align":"wide","className":"idc-section__header","layout":{"type":"constrained"}} -->
-<header class="wp-block-group alignwide idc-section__header"><!-- wp:paragraph {"className":"is-style-thin-lines","style":{"typography":{"textAlign":"center"}}} -->
-<p class="has-text-align-center is-style-thin-lines">Fast-Track Authentication</p>
+<!-- wp:group {"tagName":"header","metadata":{"name":"Section Heading: Center"},"align":"wide","layout":{"type":"constrained"}} -->
+<header class="wp-block-group alignwide"><!-- wp:paragraph {"className":"has-thin-lines","style":{"typography":{"textAlign":"center"}}} -->
+<p class="has-text-align-center has-thin-lines">Fast-Track Authentication</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"className":"has-gray-400-color has-text-color has-link-color","style":{"elements":{"link":{"color":{"text":"var:preset|color|grey-dark"}}},"typography":{"fontStyle":"normal","fontWeight":"400","textAlign":"center"}},"textColor":"grey-dark"} -->

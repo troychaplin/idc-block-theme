@@ -5,10 +5,10 @@
  * Categories: idocs-sections
  */
 ?>
-<!-- wp:group {"tagName":"section","metadata":{"name":"Hero with Form"},"align":"full","className":"is-style-hero-blue is-hero is-hero\u002d\u002dhomepage","layout":{"type":"constrained"},"anchor":"your-pathway"} -->
-<section class="wp-block-group alignfull is-style-hero-blue is-hero is-hero--homepage" id="your-pathway"><!-- wp:group {"metadata":{"name":"Columns"},"align":"wide","className":"is-hero__columns","layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignwide is-hero__columns"><!-- wp:group {"metadata":{"name":"Content Column"},"align":"full","className":"is-hero__content","style":{"spacing":{"blockGap":"var:preset|spacing|40"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignfull is-hero__content"><!-- wp:group {"tagName":"header","metadata":{"name":"Hero Heading"},"align":"wide","style":{"spacing":{"margin":{"bottom":"var:preset|spacing|50"}}},"layout":{"type":"constrained","justifyContent":"left"}} -->
+<!-- wp:group {"tagName":"section","metadata":{"name":"Hero Homepage"},"align":"full","className":"is-style-hero-blue is-hero is-hero\u002d\u002dhomepage","layout":{"type":"constrained"}} -->
+<section class="wp-block-group alignfull is-style-hero-blue is-hero is-hero--homepage"><!-- wp:group {"metadata":{"name":"Columns"},"align":"wide","className":"is-hero__columns","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignwide is-hero__columns"><!-- wp:group {"tagName":"article","metadata":{"name":"Content Column"},"align":"full","className":"is-hero__content","style":{"spacing":{"blockGap":"var:preset|spacing|40"}},"layout":{"type":"constrained"}} -->
+<article class="wp-block-group alignfull is-hero__content"><!-- wp:group {"tagName":"header","metadata":{"name":"Hero Heading"},"align":"wide","style":{"spacing":{"margin":{"bottom":"var:preset|spacing|50"}}},"layout":{"type":"constrained","justifyContent":"left"}} -->
 <header class="wp-block-group alignwide" style="margin-bottom:var(--wp--preset--spacing--50)"><!-- wp:paragraph {"className":"has-thin-lines has-thin-lines\u002d\u002dblue has-thin-lines\u002d\u002dright","style":{"typography":{"textAlign":"left"}}} -->
 <p class="has-text-align-left has-thin-lines has-thin-lines--blue has-thin-lines--right">Document Apostille &amp; Authentication</p>
 <!-- /wp:paragraph -->
@@ -24,12 +24,12 @@
 
 <!-- wp:paragraph -->
 <p>Our responsive team offers free consultations and expert advice for any situation. We go above and beyond to answer your questions and ensure your documents are processed successfully.</p>
-<!-- /wp:paragraph --></div>
+<!-- /wp:paragraph --></article>
 <!-- /wp:group -->
 
-<!-- wp:group {"metadata":{"name":"Form Column"},"align":"full","className":"is-hero__form","layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignfull is-hero__form"><!-- wp:group {"metadata":{"name":"Form"},"style":{"spacing":{"blockGap":"var:preset|spacing|40"}},"backgroundColor":"custom-white-20","layout":{"type":"constrained"}} -->
-<div class="wp-block-group has-custom-white-20-background-color has-background"><!-- wp:heading {"className":"has-gray-400-color has-text-color has-link-color","style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}},"typography":{"fontStyle":"normal","fontWeight":"400","textAlign":"left"},"spacing":{"margin":{"bottom":"var:preset|spacing|30"}}},"textColor":"primary","fontSize":"heading-medium"} -->
+<!-- wp:group {"tagName":"aside","metadata":{"name":"Form Column"},"align":"full","className":"is-hero__form","layout":{"type":"constrained"}} -->
+<aside class="wp-block-group alignfull is-hero__form"><!-- wp:group {"metadata":{"name":"Form"},"style":{"spacing":{"blockGap":"var:preset|spacing|40"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"className":"has-gray-400-color has-text-color has-link-color","style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}},"typography":{"fontStyle":"normal","fontWeight":"400","textAlign":"left"},"spacing":{"margin":{"bottom":"var:preset|spacing|30"}}},"textColor":"primary","fontSize":"heading-medium"} -->
 <h2 class="wp-block-heading has-text-align-left has-gray-400-color has-text-color has-link-color has-primary-color has-heading-medium-font-size" style="margin-bottom:var(--wp--preset--spacing--30);font-style:normal;font-weight:400">Get Your Free Quote</h2>
 <!-- /wp:heading -->
 
@@ -108,7 +108,7 @@
 <div class="wp-block-button is-style-primary is-style-primary-light"><a class="wp-block-button__link wp-element-button" href="#">Request a Quote</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
-<!-- /wp:group --></div>
+<!-- /wp:group --></aside>
 <!-- /wp:group --></div>
 <!-- /wp:group --></section>
 <!-- /wp:group -->

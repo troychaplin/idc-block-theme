@@ -5,9 +5,9 @@
  * Categories: idocs-sections
  */
 ?>
-<!-- wp:group {"tagName":"section","metadata":{"name":"Three Simple Steps","categories":["idocs-sections"]},"align":"full","className":"is-style-beige idc-section","layout":{"type":"constrained"}} -->
-<section class="wp-block-group alignfull is-style-beige idc-section"><!-- wp:group {"tagName":"header","metadata":{"name":"Section Heading: Center"},"align":"wide","className":"idc-section__header","layout":{"type":"constrained"}} -->
-<header class="wp-block-group alignwide idc-section__header"><!-- wp:paragraph {"className":"has-thin-lines","style":{"typography":{"textAlign":"center"}}} -->
+<!-- wp:group {"tagName":"section","metadata":{"name":"Three Simple Steps","categories":["idocs-sections"]},"align":"full","className":"is-style-beige","layout":{"type":"constrained"}} -->
+<section class="wp-block-group alignfull is-style-beige"><!-- wp:group {"tagName":"header","metadata":{"name":"Section Heading: Center"},"align":"wide","layout":{"type":"constrained"}} -->
+<header class="wp-block-group alignwide"><!-- wp:paragraph {"className":"has-thin-lines","style":{"typography":{"textAlign":"center"}}} -->
 <p class="has-text-align-center has-thin-lines">Fast-Track Authentication</p>
 <!-- /wp:paragraph -->
 
@@ -21,8 +21,8 @@
 <!-- /wp:group -->
 
 <!-- wp:group {"metadata":{"name":"Card Grid: Numbered Cards"},"align":"wide","className":"is-card-grid","style":{"spacing":{"blockGap":"0"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignwide is-card-grid"><!-- wp:group {"metadata":{"name":"Card Item"},"className":"is-card","layout":{"type":"constrained"}} -->
-<div class="wp-block-group is-card"><!-- wp:group {"metadata":{"name":"Step Number"},"className":"is-style-square","style":{"spacing":{"margin":{"bottom":"var:preset|spacing|40"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignwide is-card-grid"><!-- wp:group {"tagName":"article","metadata":{"name":"Card Item"},"className":"is-card","layout":{"type":"constrained"}} -->
+<article class="wp-block-group is-card"><!-- wp:group {"metadata":{"name":"Step Number"},"className":"is-style-square","style":{"spacing":{"margin":{"bottom":"var:preset|spacing|40"}}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group is-style-square" style="margin-bottom:var(--wp--preset--spacing--40)"><!-- wp:paragraph {"align":"full","className":"has-circle-square"} -->
 <p class="alignfull has-circle-square">01</p>
 <!-- /wp:paragraph --></div>
@@ -34,11 +34,11 @@
 
 <!-- wp:paragraph {"fontSize":"small"} -->
 <p class="has-small-font-size">Let us help you gather and prepare the required documents for use globally. No matter the situation, we are prepared to help you achieve success.</p>
-<!-- /wp:paragraph --></div>
+<!-- /wp:paragraph --></article>
 <!-- /wp:group -->
 
-<!-- wp:group {"metadata":{"name":"Card Item"},"className":"is-card","layout":{"type":"constrained"}} -->
-<div class="wp-block-group is-card"><!-- wp:group {"metadata":{"name":"Step Number"},"className":"is-style-square","style":{"spacing":{"margin":{"bottom":"var:preset|spacing|40"}}},"layout":{"type":"constrained"}} -->
+<!-- wp:group {"tagName":"article","metadata":{"name":"Card Item"},"className":"is-card","layout":{"type":"constrained"}} -->
+<article class="wp-block-group is-card"><!-- wp:group {"metadata":{"name":"Step Number"},"className":"is-style-square","style":{"spacing":{"margin":{"bottom":"var:preset|spacing|40"}}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group is-style-square" style="margin-bottom:var(--wp--preset--spacing--40)"><!-- wp:paragraph {"align":"full","className":"has-circle-square"} -->
 <p class="alignfull has-circle-square">02</p>
 <!-- /wp:paragraph --></div>
@@ -50,11 +50,11 @@
 
 <!-- wp:paragraph {"fontSize":"small"} -->
 <p class="has-small-font-size">Send us your documents for secure and reliable services. We will manage the required steps and ensure your documents are processed properly.</p>
-<!-- /wp:paragraph --></div>
+<!-- /wp:paragraph --></article>
 <!-- /wp:group -->
 
-<!-- wp:group {"metadata":{"name":"Card Item"},"className":"is-card","layout":{"type":"constrained"}} -->
-<div class="wp-block-group is-card"><!-- wp:group {"metadata":{"name":"Step Number"},"className":"is-style-square","style":{"spacing":{"margin":{"bottom":"var:preset|spacing|40"}}},"layout":{"type":"constrained"}} -->
+<!-- wp:group {"tagName":"article","metadata":{"name":"Card Item"},"className":"is-card","layout":{"type":"constrained"}} -->
+<article class="wp-block-group is-card"><!-- wp:group {"metadata":{"name":"Step Number"},"className":"is-style-square","style":{"spacing":{"margin":{"bottom":"var:preset|spacing|40"}}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group is-style-square" style="margin-bottom:var(--wp--preset--spacing--40)"><!-- wp:paragraph {"align":"full","className":"has-circle-square"} -->
 <p class="alignfull has-circle-square">03</p>
 <!-- /wp:paragraph --></div>
@@ -66,7 +66,7 @@
 
 <!-- wp:paragraph {"fontSize":"small"} -->
 <p class="has-small-font-size">Now you can sit back and trust the experts to handle the process. Once your documents have been completed, they are ready to use globally.</p>
-<!-- /wp:paragraph --></div>
+<!-- /wp:paragraph --></article>
 <!-- /wp:group --></div>
 <!-- /wp:group -->
 

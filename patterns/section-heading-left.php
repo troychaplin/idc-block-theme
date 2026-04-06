@@ -5,9 +5,9 @@
  * Categories: idocs-headings
  */
 ?>
-<!-- wp:group {"tagName":"header","metadata":{"name":"Section Heading: Left"},"align":"wide","className":"idc-section__header","style":{"spacing":{"margin":{"bottom":"var:preset|spacing|50"}}},"layout":{"type":"constrained","justifyContent":"left"}} -->
-<header class="wp-block-group alignwide idc-section__header" style="margin-bottom:var(--wp--preset--spacing--50)"><!-- wp:paragraph {"className":"is-style-thin-lines-right","style":{"typography":{"textAlign":"left"}}} -->
-<p class="has-text-align-left is-style-thin-lines-right">Complete Solution</p>
+<!-- wp:group {"tagName":"header","metadata":{"name":"Section Heading: Left"},"align":"wide","style":{"spacing":{"margin":{"bottom":"var:preset|spacing|50"}}},"layout":{"type":"constrained","justifyContent":"left"}} -->
+<header class="wp-block-group alignwide" style="margin-bottom:var(--wp--preset--spacing--50)"><!-- wp:paragraph {"className":"has-thin-lines has-thin-lines\u002d\u002dright","style":{"typography":{"textAlign":"left"}}} -->
+<p class="has-text-align-left has-thin-lines has-thin-lines--right">Complete Solution</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"className":"has-gray-400-color has-text-color has-link-color","style":{"elements":{"link":{"color":{"text":"var:preset|color|grey-dark"}}},"typography":{"fontStyle":"normal","fontWeight":"400","textAlign":"left"}},"textColor":"grey-dark","fontSize":"heading-large"} -->
