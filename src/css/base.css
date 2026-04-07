@@ -4,6 +4,10 @@ body {
     background-repeat: repeat;
 }
 
-/* .idc-main {
-    margin-block-start: 0;
-} */
+.idc-main a {
+    text-decoration: none;
+}
+
+.idc-main a:hover {
+    text-decoration: underline;
+}

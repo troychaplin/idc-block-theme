@@ -126,11 +126,6 @@
 					"slug": "tertiary"
 				},
 				{
-					"color": "#d46b3b",
-					"name": "Tertiary Medium",
-					"slug": "tertiary-medium"
-				},
-				{
 					"color": "#191919",
 					"name": "Black",
 					"slug": "black"
@@ -659,7 +654,7 @@
 					}
 				},
 				"color": {
-					"text": "var(--wp--preset--color--tertiary-medium)"
+					"text": "var(--wp--preset--color--tertiary)"
 				},
 				"typography": {
 					"fontStyle": "normal",
