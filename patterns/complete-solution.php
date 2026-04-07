@@ -1,7 +1,7 @@
 <?php
 /**
- * Title: Two Content Columns
- * Slug: idocs-block-theme/two-content-columns
+ * Title: Complete Solution
+ * Slug: idocs-block-theme/complete-solution
  * Categories: idocs-sections
  */
 ?>
