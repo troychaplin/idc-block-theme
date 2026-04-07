@@ -1,11 +1,21 @@
 /* Breakpoints (WordPress core defaults) */
 @custom-media --bp-mobile (max-width: 599px);
 @custom-media --bp-tablet (max-width: 781px);
+@custom-media --above-bp-mobile (min-width: 600px);
+@custom-media --above-bp-tablet (min-width: 782px);
 
 :root {
-    /* Font Sizes */
     --idocs--font-size--x-small: clamp(0.825rem, 0.825rem + ((0.125) * ((100vw - 320px) / 1280)), 1rem);
-    
-    /* Spacing */
-    --idocs--spacing--10: 0.3rem;
+}
+
+/* External Plugin */
+
+.tidbits {
+    --tidbits-term-font-size: var(--wp--preset--font-size--small);
+    --tidbits-content-font-size: var(--wp--preset--font-size--small);
+    --tidbits-term-font-weight: 400;
+    --tidbits-term-color: var(--wp--preset--color--secondary-dark);
+    --tidbits-border-color: var(--wp--preset--color--secondary-light);
+    --tidbits-padding-block: 1rem;
+    --tidbits-accordion-speed: 0.2s;
 }

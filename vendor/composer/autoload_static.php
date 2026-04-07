@@ -23,6 +23,7 @@ class ComposerStaticInit54421d75c2c79028332951ea18376abd
     public static $classMap = array (
         'Composer\\InstalledVersions' => __DIR__ . '/..' . '/composer/InstalledVersions.php',
         'IDOCS\\Enqueues' => __DIR__ . '/../..' . '/classes/class-enqueues.php',
+        'IDOCS\\Register_Testimonials_Post_Type' => __DIR__ . '/../..' . '/classes/class-register-testimonials-post-type.php',
         'PHPCSUtils\\AbstractSniffs\\AbstractArrayDeclarationSniff' => __DIR__ . '/..' . '/phpcsstandards/phpcsutils/PHPCSUtils/AbstractSniffs/AbstractArrayDeclarationSniff.php',
         'PHPCSUtils\\BackCompat\\BCFile' => __DIR__ . '/..' . '/phpcsstandards/phpcsutils/PHPCSUtils/BackCompat/BCFile.php',
         'PHPCSUtils\\BackCompat\\BCTokens' => __DIR__ . '/..' . '/phpcsstandards/phpcsutils/PHPCSUtils/BackCompat/BCTokens.php',

@@ -18,9 +18,11 @@
 }
 
 /* Modify font on second child */
-.wp-block-group.is-card--testimonial:nth-child(2) p {
-    font-family: var(--wp--preset--font-family--playfair-display);
-    font-size: var(--wp--preset--font-size--large);
+@media (--above-bp-tablet) {
+    .wp-block-group.is-card--testimonial:nth-child(2) p {
+        font-family: var(--wp--preset--font-family--playfair-display);
+        font-size: var(--wp--preset--font-size--large);
+    }
 }
 
 /* Modify border on first child */
