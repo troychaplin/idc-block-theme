@@ -1,3 +1,12 @@
+<?php
+/**
+ * Title: Footer English
+ * Slug: idocs-block-theme/footer-en
+ * Categories: idocs-footers
+ * Inserter: no
+ */
+?>
+
 <!-- wp:group {"tagName":"footer","metadata":{"name":"Footer","categories":["idocs-footers"],"patternName":"idocs-block-theme/footer-en"},"className":"idc-footer","style":{"position":{"type":""},"border":{"top":{"color":"var:preset|color|primary-dark","width":"5px"},"bottom":{"color":"var:preset|color|white-10","width":"1px"}},"spacing":{"padding":{"top":"var:preset|spacing|70","bottom":"var:preset|spacing|70"},"blockGap":"var:preset|spacing|70"}},"backgroundColor":"black","layout":{"type":"constrained"},"anchor":"site-footer"} -->
 <footer id="site-footer" class="wp-block-group idc-footer has-black-background-color has-background" style="border-top-color:var(--wp--preset--color--primary-dark);border-top-width:5px;border-bottom-color:var(--wp--preset--color--white-10);border-bottom-width:1px;padding-top:var(--wp--preset--spacing--70);padding-bottom:var(--wp--preset--spacing--70)"><!-- wp:group {"tagName":"section","metadata":{"name":"Free Consultation"},"align":"full","className":"idc-footer__consultation","style":{"spacing":{"padding":{"top":"var:preset|spacing|lg","bottom":"var:preset|spacing|70"}},"border":{"top":{"color":"var:preset|color|white-10"},"bottom":{"color":"#ffffff1a","width":"1px"},"right":[],"left":[]}},"layout":{"type":"constrained"}} -->
 <section class="wp-block-group alignfull idc-footer__consultation" style="border-top-color:var(--wp--preset--color--white-10);border-bottom-color:#ffffff1a;border-bottom-width:1px;padding-top:var(--wp--preset--spacing--lg);padding-bottom:var(--wp--preset--spacing--70)"><!-- wp:group {"layout":{"type":"constrained"}} -->
