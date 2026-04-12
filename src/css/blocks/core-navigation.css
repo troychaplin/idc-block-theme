@@ -1,5 +1,9 @@
 /* Site Navigation */
 
-.wp-block-navigation {
-    /* background: red; */
+/* .wp-block-navigation {
+    background-color: black;
+} */
+
+.wp-block-navigation .wp-block-navigation-item a {
+    font-weight: 400;
 }
