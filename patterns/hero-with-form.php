@@ -18,12 +18,12 @@
 <!-- /wp:heading --></header>
 <!-- /wp:group -->
 
-<!-- wp:paragraph -->
-<p>If you need to have a Canadian document officially recognized in a non-apostille country, it must go through authentication and legalization in Canada. We will expertly handle this process on your behalf, supporting you from start to finish. Get in touch with us to discuss your documents and find out more about the authentication and legalization process.</p>
+<!-- wp:paragraph {"fontSize":"medium"} -->
+<p class="has-medium-font-size">If you need to have a Canadian document officially recognized in a non-apostille country, it must go through authentication and legalization in Canada. We will expertly handle this process on your behalf, supporting you from start to finish. Get in touch with us to discuss your documents and find out more about the authentication and legalization process.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
-<p>Contact us for your free consultation. Our friendly experts will explain your options and answer your questions.</p>
+<!-- wp:paragraph {"fontSize":"medium"} -->
+<p class="has-medium-font-size">Contact us for your free consultation. Our friendly experts will explain your options and answer your questions.</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 

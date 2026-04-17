@@ -10,8 +10,8 @@
 ?>
 <!-- wp:group {"tagName":"section","metadata":{"name":"Hero Homepage","categories":["idocs-sections"],"patternName":"idocs-block-theme/hero-homepage"},"align":"full","className":"is-style-hero-blue is-hero is-hero\u002d\u002dhomepage","layout":{"type":"constrained"}} -->
 <section class="wp-block-group alignfull is-style-hero-blue is-hero is-hero--homepage"><!-- wp:group {"metadata":{"name":"Columns"},"align":"wide","className":"is-hero__columns","layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignwide is-hero__columns"><!-- wp:group {"tagName":"article","metadata":{"name":"Content Column"},"align":"full","className":"is-hero__content","style":{"spacing":{"blockGap":"var:preset|spacing|40"}},"layout":{"type":"constrained"}} -->
-<article class="wp-block-group alignfull is-hero__content"><!-- wp:group {"tagName":"header","metadata":{"name":"Hero Heading"},"align":"wide","style":{"spacing":{"margin":{"bottom":"var:preset|spacing|50"}}},"layout":{"type":"constrained","justifyContent":"left"}} -->
+<div class="wp-block-group alignwide is-hero__columns"><!-- wp:group {"tagName":"article","metadata":{"name":"Content Column"},"align":"full","className":"is-hero__content","style":{"spacing":{"blockGap":"var:preset|spacing|40"}},"fontSize":"medium","layout":{"type":"constrained"}} -->
+<article class="wp-block-group alignfull is-hero__content has-medium-font-size"><!-- wp:group {"tagName":"header","metadata":{"name":"Hero Heading"},"align":"wide","style":{"spacing":{"margin":{"bottom":"var:preset|spacing|50"}}},"layout":{"type":"constrained","justifyContent":"left"}} -->
 <header class="wp-block-group alignwide" style="margin-bottom:var(--wp--preset--spacing--50)"><!-- wp:paragraph {"className":"has-thin-lines has-thin-lines\u002d\u002dblue has-thin-lines\u002d\u002dright","style":{"typography":{"textAlign":"left"}}} -->
 <p class="has-text-align-left has-thin-lines has-thin-lines--blue has-thin-lines--right">Document Apostille &amp; Authentication</p>
 <!-- /wp:paragraph -->
@@ -116,8 +116,8 @@
 <!-- /wp:group --></section>
 <!-- /wp:group -->
 
-<!-- wp:group {"tagName":"section","metadata":{"name":"Statistics","categories":["idocs-sections"],"patternName":"idocs-block-theme/statistics-grid"},"align":"full","className":"is-style-white","layout":{"type":"constrained"}} -->
-<section class="wp-block-group alignfull is-style-white"><!-- wp:group {"metadata":{"name":"Statistics Grid"},"align":"wide","style":{"spacing":{"blockGap":"var:preset|spacing|50","margin":{"top":"-1rem"}}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"space-between"}} -->
+<!-- wp:group {"tagName":"section","metadata":{"name":"Statistics","categories":["idocs-sections"],"patternName":"idocs-block-theme/statistics"},"align":"full","className":"is-style-white","layout":{"type":"constrained"}} -->
+<section class="wp-block-group alignfull is-style-white"><!-- wp:group {"metadata":{"name":"Statistics"},"align":"wide","style":{"spacing":{"blockGap":"var:preset|spacing|50","margin":{"top":"-1rem"}}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"space-between"}} -->
 <div class="wp-block-group alignwide" style="margin-top:-1rem"><!-- wp:group {"tagName":"article","metadata":{"name":"Stats Item"},"style":{"layout":{"selfStretch":"fill","flexSize":null},"spacing":{"blockGap":"0"}},"layout":{"type":"constrained"}} -->
 <article class="wp-block-group"><!-- wp:paragraph {"style":{"typography":{"textAlign":"center"}},"fontSize":"heading-medium","fontFamily":"playfair-display"} -->
 <p class="has-text-align-center has-playfair-display-font-family has-heading-medium-font-size">12,000+</p>
@@ -160,8 +160,8 @@
 <h2 class="wp-block-heading has-text-align-center has-gray-400-color has-text-color has-link-color has-grey-dark-color" style="font-style:normal;font-weight:400">Three Simple Steps<br><em><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-primary-light-color"><em>No Uncertainty</em></mark></em></h2>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|black"}}},"typography":{"textAlign":"center"},"spacing":{"margin":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|60"}}},"textColor":"black"} -->
-<p class="has-text-align-center has-black-color has-text-color has-link-color" style="margin-top:var(--wp--preset--spacing--50);margin-bottom:var(--wp--preset--spacing--60)">When you need your documents officially recognized in another country, our document apostille services make the process simple and stress-free.</p>
+<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|black"}}},"typography":{"textAlign":"center"},"spacing":{"margin":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|60"}}},"textColor":"black","fontSize":"medium"} -->
+<p class="has-text-align-center has-black-color has-text-color has-link-color has-medium-font-size" style="margin-top:var(--wp--preset--spacing--50);margin-bottom:var(--wp--preset--spacing--60)">When you need your documents officially recognized in another country, our document apostille services make the process simple and stress-free.</p>
 <!-- /wp:paragraph --></header>
 <!-- /wp:group -->
 
@@ -222,7 +222,7 @@
 <!-- /wp:buttons --></section>
 <!-- /wp:group -->
 
-<!-- wp:group {"tagName":"section","metadata":{"name":"Complete Solution","categories":["idocs-sections"],"patternName":"idocs-block-theme/two-content-columns"},"align":"full","className":"is-style-white","layout":{"type":"constrained"}} -->
+<!-- wp:group {"tagName":"section","metadata":{"name":"Complete Solution","categories":["idocs-sections"],"patternName":"idocs-block-theme/complete-solution"},"align":"full","className":"is-style-white","layout":{"type":"constrained"}} -->
 <section class="wp-block-group alignfull is-style-white"><!-- wp:group {"metadata":{"name":"Two Content Columns"},"align":"wide","className":"is-two-columns","layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignwide is-two-columns"><!-- wp:group {"metadata":{"name":"Content Column"},"style":{"spacing":{"blockGap":"var:preset|spacing|40"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:group {"tagName":"header","metadata":{"name":"Section Heading: Left"},"align":"wide","style":{"spacing":{"margin":{"bottom":"var:preset|spacing|50"}}},"layout":{"type":"constrained","justifyContent":"left"}} -->
@@ -235,12 +235,12 @@
 <!-- /wp:heading --></header>
 <!-- /wp:group -->
 
-<!-- wp:paragraph -->
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer iaculis tempor est, eget congue orci molestie id. Mauris mollis vulputate risus, in aliquet ligula pharetra non. Praesent pharetra sem at venenatis ultricies. In pharetra tortor at aliquet auctor. Pellentesque non dui porttitor, sollicitudin lacus quis, laoreet libero. Maecenas quis turpis erat. Pellentesque facilisis ac odio ut hendrerit.</p>
+<!-- wp:paragraph {"fontSize":"medium"} -->
+<p class="has-medium-font-size">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer iaculis tempor est, eget congue orci molestie id. Mauris mollis vulputate risus, in aliquet ligula pharetra non. Praesent pharetra sem at venenatis ultricies. In pharetra tortor at aliquet auctor. Pellentesque non dui porttitor, sollicitudin lacus quis, laoreet libero. Maecenas quis turpis erat. Pellentesque facilisis ac odio ut hendrerit.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer iaculis tempor est, eget congue orci molestie id. Mauris mollis vulputate risus, in aliquet ligula pharetra non. Praesent pharetra sem at venenatis ultricies. In pharetra tortor at aliquet auctor. Pellentesque non dui porttitor, sollicitudin lacus quis, laoreet libero. Maecenas quis turpis erat. Pellentesque facilisis ac odio ut hendrerit.</p>
+<!-- wp:paragraph {"fontSize":"medium"} -->
+<p class="has-medium-font-size">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer iaculis tempor est, eget congue orci molestie id. Mauris mollis vulputate risus, in aliquet ligula pharetra non. Praesent pharetra sem at venenatis ultricies. In pharetra tortor at aliquet auctor. Pellentesque non dui porttitor, sollicitudin lacus quis, laoreet libero. Maecenas quis turpis erat. Pellentesque facilisis ac odio ut hendrerit.</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 

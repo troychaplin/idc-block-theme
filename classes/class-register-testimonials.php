@@ -10,7 +10,7 @@ namespace IDOCS;
 /**
  * Registers the `testimonial` post type with WordPress.
  */
-class Register_Testimonials_Post_Type {
+class Register_Testimonials {
 
 	/**
 	 * Post type slug.
@@ -51,8 +51,8 @@ class Register_Testimonials_Post_Type {
 
 		$args = array(
 			'labels'             => $labels,
-			'public'             => false,
-			'publicly_queryable' => false,
+			'public'             => true,
+			'publicly_queryable' => true,
 			'show_ui'            => true,
 			'show_in_menu'       => true,
 			'show_in_rest'       => true,

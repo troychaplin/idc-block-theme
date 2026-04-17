@@ -15,8 +15,8 @@
 <h2 class="wp-block-heading has-text-align-center has-gray-400-color has-text-color has-link-color has-grey-dark-color" style="font-style:normal;font-weight:400">Authentication<br><em><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-primary-light-color"><em>&amp; Legalization</em></mark></em></h2>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|black"}}},"typography":{"textAlign":"center"},"spacing":{"margin":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|60"}}},"textColor":"black"} -->
-<p class="has-text-align-center has-black-color has-text-color has-link-color" style="margin-top:var(--wp--preset--spacing--50);margin-bottom:var(--wp--preset--spacing--60)">To have a Canadian document recognized abroad, it must go through the authentication &amp; legalization process. This allows acceptance in countries that do not follow the Apostille Convention. For such destinations, the process involves the following three steps.</p>
+<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|black"}}},"typography":{"textAlign":"center"},"spacing":{"margin":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|60"}}},"textColor":"black","fontSize":"medium"} -->
+<p class="has-text-align-center has-black-color has-text-color has-link-color has-medium-font-size" style="margin-top:var(--wp--preset--spacing--50);margin-bottom:var(--wp--preset--spacing--60)">To have a Canadian document recognized abroad, it must go through the authentication &amp; legalization process. This allows acceptance in countries that do not follow the Apostille Convention. For such destinations, the process involves the following three steps.</p>
 <!-- /wp:paragraph --></header>
 <!-- /wp:group -->
 

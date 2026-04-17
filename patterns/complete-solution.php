@@ -18,12 +18,12 @@
 <!-- /wp:heading --></header>
 <!-- /wp:group -->
 
-<!-- wp:paragraph -->
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer iaculis tempor est, eget congue orci molestie id. Mauris mollis vulputate risus, in aliquet ligula pharetra non. Praesent pharetra sem at venenatis ultricies. In pharetra tortor at aliquet auctor. Pellentesque non dui porttitor, sollicitudin lacus quis, laoreet libero. Maecenas quis turpis erat. Pellentesque facilisis ac odio ut hendrerit.</p>
+<!-- wp:paragraph {"fontSize":"medium"} -->
+<p class="has-medium-font-size">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer iaculis tempor est, eget congue orci molestie id. Mauris mollis vulputate risus, in aliquet ligula pharetra non. Praesent pharetra sem at venenatis ultricies. In pharetra tortor at aliquet auctor. Pellentesque non dui porttitor, sollicitudin lacus quis, laoreet libero. Maecenas quis turpis erat. Pellentesque facilisis ac odio ut hendrerit.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer iaculis tempor est, eget congue orci molestie id. Mauris mollis vulputate risus, in aliquet ligula pharetra non. Praesent pharetra sem at venenatis ultricies. In pharetra tortor at aliquet auctor. Pellentesque non dui porttitor, sollicitudin lacus quis, laoreet libero. Maecenas quis turpis erat. Pellentesque facilisis ac odio ut hendrerit.</p>
+<!-- wp:paragraph {"fontSize":"medium"} -->
+<p class="has-medium-font-size">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer iaculis tempor est, eget congue orci molestie id. Mauris mollis vulputate risus, in aliquet ligula pharetra non. Praesent pharetra sem at venenatis ultricies. In pharetra tortor at aliquet auctor. Pellentesque non dui porttitor, sollicitudin lacus quis, laoreet libero. Maecenas quis turpis erat. Pellentesque facilisis ac odio ut hendrerit.</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 

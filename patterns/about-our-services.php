@@ -1,7 +1,7 @@
 <?php
 /**
- * Title: About Our Service
- * Slug: idocs-block-theme/about-our-service
+ * Title: About Our Services
+ * Slug: idocs-block-theme/about-our-services
  * Categories: idocs-sections
  */
 ?>
@@ -18,12 +18,12 @@
 <!-- /wp:heading --></header>
 <!-- /wp:group -->
 
-<!-- wp:paragraph -->
-<p>Document authentication and legalization is a process that allows a document to be officially recognized in a foreign country that is not a signatory to the Hague Apostille Convention. This process involves authentication by the appropriate government authority in the country where the document originated. Then, the document is legalized by the diplomatic mission of the destination country.</p>
+<!-- wp:paragraph {"fontSize":"medium"} -->
+<p class="has-medium-font-size">Document authentication and legalization is a process that allows a document to be officially recognized in a foreign country that is not a signatory to the Hague Apostille Convention. This process involves authentication by the appropriate government authority in the country where the document originated. Then, the document is legalized by the diplomatic mission of the destination country.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
-<p>If your document is destined for another apostille country, take a look at our page about <a href="https://idocs.local/services/document-apostille/">Document Apostille</a>.</p>
+<!-- wp:paragraph {"fontSize":"medium"} -->
+<p class="has-medium-font-size">If your document is destined for another apostille country, take a look at our page about <a href="https://idocs.local/services/document-apostille/">Document Apostille</a>.</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
