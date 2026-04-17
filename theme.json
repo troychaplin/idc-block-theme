@@ -72,6 +72,12 @@
 					"gradient": "linear-gradient(158deg,rgb(238,235,230) 0%,rgba(238,235,230,0) 100%)",
 					"name": "Secondary Light: Fade to Bottom",
 					"slug": "custom-secondary-light-fade-to-bottom"
+				},
+				{
+					"color": "#000",
+					"gradient": "linear-gradient(90deg,rgb(31,58,91) 0%,rgba(31,58,91,0.85) 48%,rgb(31,58,91) 100%)",
+					"name": "Blue Outer Edges",
+					"slug": "custom-blue-outer-edges"
 				}
 			],
 			"palette": [
