@@ -23,8 +23,8 @@
 <!-- wp:group {"metadata":{"name":"Card Grid: Numbered Cards"},"align":"wide","className":"is-card-grid","style":{"spacing":{"blockGap":"0"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignwide is-card-grid"><!-- wp:group {"tagName":"article","metadata":{"name":"Card Item"},"className":"is-card","layout":{"type":"constrained"}} -->
 <article class="wp-block-group is-card"><!-- wp:group {"metadata":{"name":"Step Number"},"className":"is-style-square","style":{"spacing":{"margin":{"bottom":"var:preset|spacing|40"}}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group is-style-square" style="margin-bottom:var(--wp--preset--spacing--40)"><!-- wp:paragraph {"align":"full","className":"has-circle-square"} -->
-<p class="alignfull has-circle-square">01</p>
+<div class="wp-block-group is-style-square" style="margin-bottom:var(--wp--preset--spacing--40)"><!-- wp:paragraph {"align":"full","className":"has-circle-square","fontSize":"x-large"} -->
+<p class="alignfull has-circle-square has-x-large-font-size">01</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
@@ -39,8 +39,8 @@
 
 <!-- wp:group {"tagName":"article","metadata":{"name":"Card Item"},"className":"is-card","layout":{"type":"constrained"}} -->
 <article class="wp-block-group is-card"><!-- wp:group {"metadata":{"name":"Step Number"},"className":"is-style-square","style":{"spacing":{"margin":{"bottom":"var:preset|spacing|40"}}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group is-style-square" style="margin-bottom:var(--wp--preset--spacing--40)"><!-- wp:paragraph {"align":"full","className":"has-circle-square"} -->
-<p class="alignfull has-circle-square">02</p>
+<div class="wp-block-group is-style-square" style="margin-bottom:var(--wp--preset--spacing--40)"><!-- wp:paragraph {"align":"full","className":"has-circle-square","fontSize":"x-large"} -->
+<p class="alignfull has-circle-square has-x-large-font-size">02</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
@@ -55,8 +55,8 @@
 
 <!-- wp:group {"tagName":"article","metadata":{"name":"Card Item"},"className":"is-card","layout":{"type":"constrained"}} -->
 <article class="wp-block-group is-card"><!-- wp:group {"metadata":{"name":"Step Number"},"className":"is-style-square","style":{"spacing":{"margin":{"bottom":"var:preset|spacing|40"}}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group is-style-square" style="margin-bottom:var(--wp--preset--spacing--40)"><!-- wp:paragraph {"align":"full","className":"has-circle-square"} -->
-<p class="alignfull has-circle-square">03</p>
+<div class="wp-block-group is-style-square" style="margin-bottom:var(--wp--preset--spacing--40)"><!-- wp:paragraph {"align":"full","className":"has-circle-square","fontSize":"x-large"} -->
+<p class="alignfull has-circle-square has-x-large-font-size">03</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
