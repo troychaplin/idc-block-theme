@@ -1,11 +1,11 @@
 <?php
 /**
- * Title: Hero with Form
- * Slug: idocs-block-theme/hero-with-form
- * Categories: idocs-sections
+ * Title: Hero with Form (EN)
+ * Slug: idocs-block-theme/hero-with-form-en
+ * Categories: idocs-sections-en
  */
 ?>
-<!-- wp:group {"tagName":"section","metadata":{"name":"Hero with Form","categories":["idocs-sections"]},"align":"full","className":"is-style-hero-beige is-hero","layout":{"type":"constrained"}} -->
+<!-- wp:group {"tagName":"section","metadata":{"name":"Hero with Form","categories":["idocs-sections-en"]},"align":"full","className":"is-style-hero-beige is-hero","layout":{"type":"constrained"}} -->
 <section class="wp-block-group alignfull is-style-hero-beige is-hero"><!-- wp:group {"metadata":{"name":"Columns"},"align":"wide","className":"is-hero__columns","layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignwide is-hero__columns"><!-- wp:group {"metadata":{"name":"Content Column"},"align":"full","className":"is-hero__content","style":{"spacing":{"blockGap":"var:preset|spacing|40"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignfull is-hero__content"><!-- wp:group {"tagName":"header","metadata":{"name":"Hero Heading"},"align":"wide","style":{"spacing":{"margin":{"bottom":"var:preset|spacing|50"}}},"layout":{"type":"constrained","justifyContent":"left"}} -->

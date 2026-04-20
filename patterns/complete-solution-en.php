@@ -1,11 +1,11 @@
 <?php
 /**
- * Title: Complete Solution
- * Slug: idocs-block-theme/complete-solution
- * Categories: idocs-sections
+ * Title: Complete Solution (EN)
+ * Slug: idocs-block-theme/complete-solution-en
+ * Categories: idocs-sections-en
  */
 ?>
-<!-- wp:group {"tagName":"section","metadata":{"name":"Complete Solution","categories":["idocs-sections"]},"align":"full","className":"is-style-white","layout":{"type":"constrained"}} -->
+<!-- wp:group {"tagName":"section","metadata":{"name":"Complete Solution","categories":["idocs-sections-en"]},"align":"full","className":"is-style-white","layout":{"type":"constrained"}} -->
 <section class="wp-block-group alignfull is-style-white"><!-- wp:group {"metadata":{"name":"Two Content Columns"},"align":"wide","className":"is-two-columns","layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignwide is-two-columns"><!-- wp:group {"metadata":{"name":"Content Column"},"style":{"spacing":{"blockGap":"var:preset|spacing|40"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:group {"tagName":"header","metadata":{"name":"Section Heading: Left"},"align":"wide","style":{"spacing":{"margin":{"bottom":"var:preset|spacing|50"}}},"layout":{"type":"constrained","justifyContent":"left"}} -->

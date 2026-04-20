@@ -1,8 +1,8 @@
 <?php
 /**
- * Title: Heading: Hero Left
- * Slug: idocs-block-theme/heading-hero-left
- * Categories: idocs-headings
+ * Title: Heading: Hero Left (EN)
+ * Slug: idocs-block-theme/heading-hero-left-en
+ * Categories: idocs-headings-en
  */
 ?>
 <!-- wp:group {"tagName":"header","metadata":{"name":"Heading: Hero Left"},"align":"wide","style":{"spacing":{"margin":{"bottom":"var:preset|spacing|50"}}},"layout":{"type":"constrained","justifyContent":"left"}} -->

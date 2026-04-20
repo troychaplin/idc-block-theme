@@ -1,11 +1,11 @@
 <?php
 /**
- * Title: Testimonials
- * Slug: idocs-block-theme/testimonials
- * Categories: idocs-sections
+ * Title: Testimonials (EN)
+ * Slug: idocs-block-theme/testimonials-en
+ * Categories: idocs-sections-en
  */
 ?>
-<!-- wp:group {"tagName":"section","metadata":{"name":"Testimonials","categories":["idocs-sections"]},"align":"full","className":"is-style-blue","layout":{"type":"constrained"}} -->
+<!-- wp:group {"tagName":"section","metadata":{"name":"Testimonials","categories":["idocs-sections-en"]},"align":"full","className":"is-style-blue","layout":{"type":"constrained"}} -->
 <section class="wp-block-group alignfull is-style-blue"><!-- wp:group {"tagName":"header","metadata":{"name":"Section Heading: White"},"align":"wide","layout":{"type":"constrained"}} -->
 <header class="wp-block-group alignwide"><!-- wp:paragraph {"className":"has-thin-lines has-thin-lines\u002d\u002dblue","style":{"typography":{"textAlign":"center"}}} -->
 <p class="has-text-align-center has-thin-lines has-thin-lines--blue">Client Experiences</p>

@@ -1,11 +1,11 @@
 <?php
 /**
- * Title: Hero Homepage
- * Slug: idocs-block-theme/hero-homepage
- * Categories: idocs-sections
+ * Title: Hero Homepage (EN)
+ * Slug: idocs-block-theme/hero-homepage-en
+ * Categories: idocs-sections-en
  */
 ?>
-<!-- wp:group {"tagName":"section","metadata":{"name":"Hero Homepage","categories":["idocs-sections"]},"align":"full","className":"is-style-hero-blue is-hero is-hero\u002d\u002dhomepage","layout":{"type":"constrained"}} -->
+<!-- wp:group {"tagName":"section","metadata":{"name":"Hero Homepage","categories":["idocs-sections-en"]},"align":"full","className":"is-style-hero-blue is-hero is-hero\u002d\u002dhomepage","layout":{"type":"constrained"}} -->
 <section class="wp-block-group alignfull is-style-hero-blue is-hero is-hero--homepage"><!-- wp:group {"metadata":{"name":"Columns"},"align":"wide","className":"is-hero__columns","layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignwide is-hero__columns"><!-- wp:group {"tagName":"article","metadata":{"name":"Content Column"},"align":"full","className":"is-hero__content","style":{"spacing":{"blockGap":"var:preset|spacing|40"}},"fontSize":"medium","layout":{"type":"constrained"}} -->
 <article class="wp-block-group alignfull is-hero__content has-medium-font-size"><!-- wp:group {"tagName":"header","metadata":{"name":"Hero Heading"},"align":"wide","style":{"spacing":{"margin":{"bottom":"var:preset|spacing|50"}}},"layout":{"type":"constrained","justifyContent":"left"}} -->

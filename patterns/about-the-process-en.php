@@ -1,11 +1,11 @@
 <?php
 /**
- * Title: About the Process
- * Slug: idocs-block-theme/about-the-process
- * Categories: idocs-sections
+ * Title: About the Process (EN)
+ * Slug: idocs-block-theme/about-the-process-en
+ * Categories: idocs-sections-en
  */
 ?>
-<!-- wp:group {"tagName":"section","metadata":{"name":"About the Process","categories":["idocs-sections"]},"align":"full","className":"is-style-beige","layout":{"type":"constrained"}} -->
+<!-- wp:group {"tagName":"section","metadata":{"name":"About the Process","categories":["idocs-sections-en"]},"align":"full","className":"is-style-beige","layout":{"type":"constrained"}} -->
 <section class="wp-block-group alignfull is-style-beige"><!-- wp:group {"tagName":"header","metadata":{"name":"Section Heading: Center"},"align":"wide","layout":{"type":"constrained"}} -->
 <header class="wp-block-group alignwide"><!-- wp:paragraph {"className":"has-thin-lines","style":{"typography":{"textAlign":"center"}}} -->
 <p class="has-text-align-center has-thin-lines">The Process</p>

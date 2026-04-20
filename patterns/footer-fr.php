@@ -1,6 +1,6 @@
 <?php
 /**
- * Title: Footer French
+ * Title: Footer (FR)
  * Slug: idocs-block-theme/footer-fr
  * Categories: idocs-footers
  * Inserter: no

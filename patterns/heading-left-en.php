@@ -1,8 +1,8 @@
 <?php
 /**
- * Title: Heading: Left
- * Slug: idocs-block-theme/heading-left
- * Categories: idocs-headings
+ * Title: Heading: Left (EN)
+ * Slug: idocs-block-theme/heading-left-en
+ * Categories: idocs-headings-en
  */
 ?>
 <!-- wp:group {"tagName":"header","metadata":{"name":"Heading: Left"},"align":"wide","style":{"spacing":{"margin":{"bottom":"var:preset|spacing|50"}}},"layout":{"type":"constrained","justifyContent":"left"}} -->
