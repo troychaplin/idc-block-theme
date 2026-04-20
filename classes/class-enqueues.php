@@ -94,20 +94,20 @@ class Enqueues {
 	 */
 	public function register_pattern_categories(): void {
         register_block_pattern_category(
-            'idocs-sections',
-            array( 'label' => __( 'IDC Sections', 'idocs-block-theme' ) )
+            'idocs-sections-en',
+            array( 'label' => __( 'IDC Sections (EN)', 'idocs-block-theme' ) )
         );
         register_block_pattern_category(
-            'idocs-headings',
-            array( 'label' => __( 'IDC Headings', 'idocs-block-theme' ) )
+            'idocs-headings-en',
+            array( 'label' => __( 'IDC Headings (EN)', 'idocs-block-theme' ) )
         );
+		register_block_pattern_category(
+            'idocs-layouts-en',
+			array( 'label' => __( 'IDC Layouts (EN)', 'idocs-block-theme' ) )
+            );
         register_block_pattern_category(
             'idocs-footers',
             array( 'label' => __( 'IDC Footers', 'idocs-block-theme' ) )
         );
-		register_block_pattern_category(
-			'idocs-layouts',
-			array( 'label' => __( 'IDC Layouts', 'idocs-block-theme' ) )
-		);
-	}
+    }
 }

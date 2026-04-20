@@ -8,7 +8,7 @@
  * Inserter: yes
  */
 ?>
-<!-- wp:group {"tagName":"section","metadata":{"name":"Hero with Form","categories":["idocs-sections-en"],"patternName":"idocs-block-theme/hero-with-form"},"align":"full","className":"is-style-hero-beige is-hero","layout":{"type":"constrained"}} -->
+<!-- wp:group {"tagName":"section","metadata":{"name":"Hero with Form","categories":["idocs-sections-en"],"patternName":"idocs-block-theme/hero-with-form-en"},"align":"full","className":"is-style-hero-beige is-hero","layout":{"type":"constrained"}} -->
 <section class="wp-block-group alignfull is-style-hero-beige is-hero"><!-- wp:group {"metadata":{"name":"Columns"},"align":"wide","className":"is-hero__columns","layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignwide is-hero__columns"><!-- wp:group {"metadata":{"name":"Content Column"},"align":"full","className":"is-hero__content","style":{"spacing":{"blockGap":"var:preset|spacing|40"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignfull is-hero__content"><!-- wp:group {"tagName":"header","metadata":{"name":"Hero Heading"},"align":"wide","style":{"spacing":{"margin":{"bottom":"var:preset|spacing|50"}}},"layout":{"type":"constrained","justifyContent":"left"}} -->
@@ -116,53 +116,63 @@
 <!-- /wp:group --></section>
 <!-- /wp:group -->
 
-<!-- wp:group {"tagName":"section","metadata":{"name":"About Our Services","categories":["idocs-sections-en"],"patternName":"idocs-block-theme/about-our-services"},"align":"full","className":"is-style-white idc-section","layout":{"type":"constrained"}} -->
-<section class="wp-block-group alignfull is-style-white idc-section"><!-- wp:group {"metadata":{"name":"Two Content Columns"},"align":"wide","className":"is-two-columns","layout":{"type":"constrained"}} -->
+<!-- wp:group {"tagName":"section","metadata":{"name":"Complete Solution","categories":["idocs-sections-en"],"patternName":"idocs-block-theme/complete-solution-en"},"align":"full","className":"is-style-white","layout":{"type":"constrained"}} -->
+<section class="wp-block-group alignfull is-style-white"><!-- wp:group {"metadata":{"name":"Two Content Columns"},"align":"wide","className":"is-two-columns","layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignwide is-two-columns"><!-- wp:group {"metadata":{"name":"Content Column"},"style":{"spacing":{"blockGap":"var:preset|spacing|40"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:group {"tagName":"header","metadata":{"name":"Section Heading: Left","patternName":"core/block/39656"},"align":"wide","style":{"spacing":{"margin":{"bottom":"var:preset|spacing|50"}}},"layout":{"type":"constrained","justifyContent":"left"}} -->
+<div class="wp-block-group"><!-- wp:group {"tagName":"header","metadata":{"name":"Section Heading: Left"},"align":"wide","style":{"spacing":{"margin":{"bottom":"var:preset|spacing|50"}}},"layout":{"type":"constrained","justifyContent":"left"}} -->
 <header class="wp-block-group alignwide" style="margin-bottom:var(--wp--preset--spacing--50)"><!-- wp:paragraph {"className":"has-thin-lines has-thin-lines\u002d\u002dright","style":{"typography":{"textAlign":"left"}}} -->
-<p class="has-text-align-left has-thin-lines has-thin-lines--right">About Our Services</p>
+<p class="has-text-align-left has-thin-lines has-thin-lines--right">Complete Solution</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"className":"has-gray-400-color has-text-color has-link-color","style":{"elements":{"link":{"color":{"text":"var:preset|color|grey-dark"}}},"typography":{"fontStyle":"normal","fontWeight":"400","textAlign":"left"}},"textColor":"grey-dark","fontSize":"heading-large"} -->
-<h2 class="wp-block-heading has-text-align-left has-gray-400-color has-text-color has-link-color has-grey-dark-color has-heading-large-font-size" style="font-style:normal;font-weight:400">Authentication<br><em><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-primary-light-color"><em><em>and Legalization</em></em></mark></em></h2>
+<h2 class="wp-block-heading has-text-align-left has-gray-400-color has-text-color has-link-color has-grey-dark-color has-heading-large-font-size" style="font-style:normal;font-weight:400">Global Documents<br><em><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-primary-light-color"><em><em>Expertly Managed</em></em></mark></em></h2>
 <!-- /wp:heading --></header>
 <!-- /wp:group -->
 
 <!-- wp:paragraph {"fontSize":"medium"} -->
-<p class="has-medium-font-size">Document authentication and legalization is a process that allows a document to be officially recognized in a foreign country that is not a signatory to the Hague Apostille Convention. This process involves authentication by the appropriate government authority in the country where the document originated. Then, the document is legalized by the diplomatic mission of the destination country.</p>
+<p class="has-medium-font-size">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer iaculis tempor est, eget congue orci molestie id. Mauris mollis vulputate risus, in aliquet ligula pharetra non. Praesent pharetra sem at venenatis ultricies. In pharetra tortor at aliquet auctor. Pellentesque non dui porttitor, sollicitudin lacus quis, laoreet libero. Maecenas quis turpis erat. Pellentesque facilisis ac odio ut hendrerit.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"fontSize":"medium"} -->
-<p class="has-medium-font-size">If your document is destined for another apostille country, take a look at our page about <a href="https://idocs.local/services/document-apostille/">Document Apostille</a>.</p>
+<p class="has-medium-font-size">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer iaculis tempor est, eget congue orci molestie id. Mauris mollis vulputate risus, in aliquet ligula pharetra non. Praesent pharetra sem at venenatis ultricies. In pharetra tortor at aliquet auctor. Pellentesque non dui porttitor, sollicitudin lacus quis, laoreet libero. Maecenas quis turpis erat. Pellentesque facilisis ac odio ut hendrerit.</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
 <!-- wp:group {"metadata":{"name":"Card Column"},"className":"is-card-grid is-card-grid\u002d\u002dvertical","layout":{"type":"constrained"}} -->
-<div class="wp-block-group is-card-grid is-card-grid--vertical"><!-- wp:group {"metadata":{"name":"Card Item"},"className":"is-card is-card\u002d\u002dbeige-fade-in","layout":{"type":"constrained"}} -->
-<div class="wp-block-group is-card is-card--beige-fade-in"><!-- wp:heading {"fontSize":"x-large"} -->
-<h2 class="wp-block-heading has-x-large-font-size">Document Authentication</h2>
+<div class="wp-block-group is-card-grid is-card-grid--vertical"><!-- wp:group {"tagName":"article","metadata":{"name":"Card Item"},"className":"is-card is-card\u002d\u002dbeige-fade-in","layout":{"type":"constrained"}} -->
+<article class="wp-block-group is-card is-card--beige-fade-in"><!-- wp:heading {"fontSize":"x-large"} -->
+<h2 class="wp-block-heading has-x-large-font-size">Services</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">Document authentication is done by the appropriate government authority in the country where the document was issued. When the authentication authority is satisfied, they will place an authentication directly on your document, confirming that the signature on the document is authentic. Your document is now ready for the next step of document legalization.</p>
-<!-- /wp:paragraph --></div>
+<p class="has-small-font-size">From professional notarization to certified translation, we handle every administrative detail of the entire apostille lifecycle and legalization process so you don't have to. <strong><em><a href="#">View our services</a></em></strong></p>
+<!-- /wp:paragraph --></article>
 <!-- /wp:group -->
 
-<!-- wp:group {"metadata":{"name":"Card Item"},"className":"is-card is-card\u002d\u002dbeige-fade-in","layout":{"type":"constrained"}} -->
-<div class="wp-block-group is-card is-card--beige-fade-in"><!-- wp:heading {"fontSize":"x-large"} -->
-<h2 class="wp-block-heading has-x-large-font-size">Document Legalization</h2>
+<!-- wp:group {"tagName":"article","metadata":{"name":"Card Item"},"className":"is-card is-card\u002d\u002dbeige-fade-in","layout":{"type":"constrained"}} -->
+<article class="wp-block-group is-card is-card--beige-fade-in"><!-- wp:heading {"fontSize":"x-large"} -->
+<h2 class="wp-block-heading has-x-large-font-size">Documents</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">Document legalization involves submitting your document to the appropriate embassy or consulate of the destination country. They will confirm the authenticity of the authentication applied to the document and ensure that your document meets their requirements. When satisfied, the embassy or consulate will affix a stamp or certificate directly to your document. Your document is now ready to use in that country.</p>
-<!-- /wp:paragraph --></div>
+<p class="has-small-font-size">Whether for personal milestones or corporate expansion, we ensure your Canadian documents meet strict international compliance standards. <strong><em><a href="#">View common documents</a></em></strong></p>
+<!-- /wp:paragraph --></article>
+<!-- /wp:group -->
+
+<!-- wp:group {"tagName":"article","metadata":{"name":"Card Item"},"className":"is-card is-card\u002d\u002dbeige-fade-in","layout":{"type":"constrained"}} -->
+<article class="wp-block-group is-card is-card--beige-fade-in"><!-- wp:heading {"fontSize":"x-large"} -->
+<h2 class="wp-block-heading has-x-large-font-size">Pricing</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"fontSize":"small"} -->
+<p class="has-small-font-size">We believe in clarity over complexity. Our fees are structured around your specific destination and timeline—no hidden costs, no surprises. <strong><em><a href="#">View our prices</a></em></strong></p>
+<!-- /wp:paragraph --></article>
 <!-- /wp:group --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group --></section>
 <!-- /wp:group -->
 
-<!-- wp:group {"tagName":"section","metadata":{"name":"About the Process","categories":["idocs-sections-en"],"patternName":"idocs-block-theme/about-the-process"},"align":"full","className":"is-style-beige","layout":{"type":"constrained"}} -->
+<!-- wp:group {"tagName":"section","metadata":{"name":"About the Process","categories":["idocs-sections-en"],"patternName":"idocs-block-theme/about-the-process-en"},"align":"full","className":"is-style-beige","layout":{"type":"constrained"}} -->
 <section class="wp-block-group alignfull is-style-beige"><!-- wp:group {"tagName":"header","metadata":{"name":"Section Heading: Center"},"align":"wide","layout":{"type":"constrained"}} -->
 <header class="wp-block-group alignwide"><!-- wp:paragraph {"className":"has-thin-lines","style":{"typography":{"textAlign":"center"}}} -->
 <p class="has-text-align-center has-thin-lines">The Process</p>
@@ -240,7 +250,7 @@
 <!-- /wp:group --></section>
 <!-- /wp:group -->
 
-<!-- wp:group {"metadata":{"categories":["idocs-sections-en"],"name":"Frequently Asked Questions","patternName":"idocs-block-theme/frequently-asked-questions"},"align":"full","className":"is-style-white","layout":{"type":"constrained"}} -->
+<!-- wp:group {"metadata":{"categories":["idocs-sections-en"],"name":"Frequently Asked Questions","patternName":"idocs-block-theme/frequently-asked-questions-en"},"align":"full","className":"is-style-white","layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignfull is-style-white"><!-- wp:group {"tagName":"header","metadata":{"name":"Heading: Center","categories":["idocs-headings"],"patternName":"idocs-block-theme/heading-center"},"align":"wide","layout":{"type":"constrained"}} -->
 <header class="wp-block-group alignwide"><!-- wp:paragraph {"className":"has-thin-lines","style":{"typography":{"textAlign":"center"}}} -->
 <p class="has-text-align-center has-thin-lines">We're Here to Help</p>
@@ -270,7 +280,7 @@
 <!-- /wp:tidbits/tidbit --></div>
 <!-- /wp:group -->
 
-<!-- wp:group {"tagName":"section","metadata":{"name":"Testimonials","categories":["idocs-sections-en"],"patternName":"idocs-block-theme/testimonials"},"align":"full","className":"is-style-blue","layout":{"type":"constrained"}} -->
+<!-- wp:group {"tagName":"section","metadata":{"name":"Testimonials","categories":["idocs-sections-en"],"patternName":"idocs-block-theme/testimonials-en"},"align":"full","className":"is-style-blue","layout":{"type":"constrained"}} -->
 <section class="wp-block-group alignfull is-style-blue"><!-- wp:group {"tagName":"header","metadata":{"name":"Section Heading: White"},"align":"wide","layout":{"type":"constrained"}} -->
 <header class="wp-block-group alignwide"><!-- wp:paragraph {"className":"has-thin-lines has-thin-lines\u002d\u002dblue","style":{"typography":{"textAlign":"center"}}} -->
 <p class="has-text-align-center has-thin-lines has-thin-lines--blue">Client Experiences</p>
@@ -280,8 +290,8 @@
 <h2 class="wp-block-heading has-text-align-center has-gray-400-color has-text-color has-link-color has-white-color" style="font-style:normal;font-weight:400">Trusted by Individuals<br><em><em><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-primary-pale-color"><em>&amp; Organization Alike</em></mark></em></em></h2>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}},"typography":{"textAlign":"center"},"spacing":{"margin":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|60"}}},"textColor":"white"} -->
-<p class="has-text-align-center has-white-color has-text-color has-link-color" style="margin-top:var(--wp--preset--spacing--50);margin-bottom:var(--wp--preset--spacing--60)">When you need your documents officially recognized in another country, our document apostille services make the process simple and stress-free.</p>
+<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}},"typography":{"textAlign":"center"},"spacing":{"margin":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|60"}}},"textColor":"white","fontSize":"medium"} -->
+<p class="has-text-align-center has-white-color has-text-color has-link-color has-medium-font-size" style="margin-top:var(--wp--preset--spacing--50);margin-bottom:var(--wp--preset--spacing--60)">When you need your documents officially recognized in another country, our document apostille services make the process simple and stress-free.</p>
 <!-- /wp:paragraph --></header>
 <!-- /wp:group -->
 
