@@ -1,8 +1,9 @@
 <?php
 /**
- * Title: Heading: Hero Left White (EN)
- * Slug: idocs-block-theme/heading-hero-left-white-en
- * Categories: idocs-headings-en
+ * Title: Heading: Hero Left White
+ * Slug: idocs-block-theme/heading-hero-left-white
+ * Categories: idocs-headings
+ * Inserter: no
  */
 ?>
 <!-- wp:group {"tagName":"header","metadata":{"name":"Heading: Hero Left White"},"align":"wide","style":{"spacing":{"margin":{"bottom":"var:preset|spacing|50"}}},"layout":{"type":"constrained","justifyContent":"left"}} -->

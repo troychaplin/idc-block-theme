@@ -111,8 +111,12 @@ class Enqueues {
         );
 		register_block_pattern_category(
             'idocs-layouts-en',
-			array( 'label' => __( 'IDC Layouts', 'idocs-block-theme' ) )
-            );
+			array( 'label' => __( 'IDC Layouts (EN)', 'idocs-block-theme' ) )
+        );
+		register_block_pattern_category(
+            'idocs-layouts-fr',
+			array( 'label' => __( 'IDC Layouts (FR)', 'idocs-block-theme' ) )
+        );
         register_block_pattern_category(
             'idocs-footers',
             array( 'label' => __( 'IDC Footers', 'idocs-block-theme' ) )

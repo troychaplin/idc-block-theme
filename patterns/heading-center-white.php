@@ -1,8 +1,9 @@
 <?php
 /**
- * Title: Heading: Center White (EN)
- * Slug: idocs-block-theme/heading-center-white-en
- * Categories: idocs-headings-en
+ * Title: Heading: Center White
+ * Slug: idocs-block-theme/heading-center-white
+ * Categories: idocs-headings
+ * Inserter: no
  */
 ?>
 <!-- wp:group {"tagName":"header","metadata":{"name":"Heading: Center White","categories":["idocs-headings"]},"align":"wide","layout":{"type":"constrained"}} -->
