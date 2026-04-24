@@ -1,0 +1,40 @@
+<?php
+/**
+ * Title: Statistics (FR)
+ * Slug: idocs-block-theme/statistics-fr
+ * Categories: idocs-sections-fr
+ */
+?>
+<!-- wp:group {"tagName":"section","metadata":{"name":"Statistics","categories":["idocs-sections-fr"],"patternName":"idocs-block-theme/statistics-fr"},"align":"full","className":"is-style-white","layout":{"type":"constrained"}} -->
+<section class="wp-block-group alignfull is-style-white"><!-- wp:group {"metadata":{"name":"Statistics"},"align":"wide","style":{"spacing":{"blockGap":"var:preset|spacing|50","margin":{"top":"-1rem"}}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"space-between"}} -->
+<div class="wp-block-group alignwide" style="margin-top:-1rem"><!-- wp:group {"tagName":"article","metadata":{"name":"Stats Item"},"style":{"layout":{"selfStretch":"fill","flexSize":null},"spacing":{"blockGap":"0"}},"layout":{"type":"constrained"}} -->
+<article class="wp-block-group"><!-- wp:paragraph {"style":{"typography":{"textAlign":"center"}},"fontSize":"heading-medium","fontFamily":"playfair-display"} -->
+<p class="has-text-align-center has-playfair-display-font-family has-heading-medium-font-size">12,000+</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"typography":{"textAlign":"center","fontStyle":"normal","fontWeight":"400"}},"fontSize":"small"} -->
+<p class="has-text-align-center has-small-font-size" style="font-style:normal;font-weight:400">Demande traitée</p>
+<!-- /wp:paragraph --></article>
+<!-- /wp:group -->
+
+<!-- wp:group {"tagName":"article","metadata":{"name":"Stats Item"},"style":{"layout":{"selfStretch":"fill","flexSize":null},"spacing":{"blockGap":"0"}},"layout":{"type":"constrained"}} -->
+<article class="wp-block-group"><!-- wp:paragraph {"style":{"typography":{"textAlign":"center"}},"fontSize":"heading-medium","fontFamily":"playfair-display"} -->
+<p class="has-text-align-center has-playfair-display-font-family has-heading-medium-font-size">85+</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"typography":{"textAlign":"center","fontStyle":"normal","fontWeight":"400"}},"fontSize":"small"} -->
+<p class="has-text-align-center has-small-font-size" style="font-style:normal;font-weight:400">Pays desservis</p>
+<!-- /wp:paragraph --></article>
+<!-- /wp:group -->
+
+<!-- wp:group {"tagName":"article","metadata":{"name":"Stats Item"},"style":{"layout":{"selfStretch":"fill","flexSize":null},"spacing":{"blockGap":"0"}},"layout":{"type":"constrained"}} -->
+<article class="wp-block-group"><!-- wp:paragraph {"style":{"typography":{"textAlign":"center"}},"fontSize":"heading-medium","fontFamily":"playfair-display"} -->
+<p class="has-text-align-center has-playfair-display-font-family has-heading-medium-font-size">20+</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"typography":{"textAlign":"center","fontStyle":"normal","fontWeight":"400"}},"fontSize":"small"} -->
+<p class="has-text-align-center has-small-font-size" style="font-style:normal;font-weight:400">Années d'expérience</p>
+<!-- /wp:paragraph --></article>
+<!-- /wp:group --></div>
+<!-- /wp:group --></section>
+<!-- /wp:group -->
