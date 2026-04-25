@@ -17,6 +17,7 @@
 @import './css/utils/has-thin-lines.css';
 
 /* Utilities — Core Group Block */
+@import './css/utils/is-blog-grid.css';
 @import './css/utils/is-card-grid.css';
 @import './css/utils/is-card.css';
 @import './css/utils/is-hero.css';

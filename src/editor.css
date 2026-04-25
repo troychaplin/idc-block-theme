@@ -1,2 +1,6 @@
 /* Baseline Styles */
 @import './styles.css';
+
+.is-article {
+    gap: var(--wp--preset--spacing--40) !important;
+}

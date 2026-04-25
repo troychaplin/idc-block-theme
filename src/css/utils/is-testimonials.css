@@ -39,7 +39,7 @@
     border-bottom-left-radius: 0;
 }
 
-@media (--bp-tablet) {
+@media (--below-bp-tablet) {
     .wp-block-group.is-testimonial-grid {
         gap: var(--wp--preset--spacing--50);
     }
@@ -63,7 +63,7 @@
     }
 }
 
-@media (--bp-mobile) {
+@media (--below-bp-mobile) {
     .wp-block-group.is-testimonial-grid {
         flex-direction: column;
     }

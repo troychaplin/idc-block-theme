@@ -1,11 +1,17 @@
 /* Breakpoints (WordPress core defaults) */
-@custom-media --bp-mobile (max-width: 599px);
-@custom-media --bp-tablet (max-width: 781px);
+@custom-media --below-bp-mobile (max-width: 599px);
+@custom-media --below-bp-tablet (max-width: 781px);
+@custom-media --below-bp-desktop (max-width: 1023px);
 @custom-media --above-bp-mobile (min-width: 600px);
 @custom-media --above-bp-tablet (min-width: 782px);
+@custom-media --above-bp-desktop (min-width: 1024px);
 
 :root {
     --idocs--font-size--x-small: clamp(0.825rem, 0.825rem + ((0.125) * ((100vw - 320px) / 1280)), 1rem);
+
+    --docs--radius-small: 2px;
+    --docs--radius-medium: 4px;
+    --docs--radius-large: 8px;
 }
 
 /* External Plugin */
