@@ -68,3 +68,8 @@
         grid-template-columns: repeat(2, 1fr);
     }
 }
+
+.wp-block-navigation__responsive-container-open,
+.wp-block-navigation__responsive-container-close {
+    color: var(--wp--preset--color--white);
+}
