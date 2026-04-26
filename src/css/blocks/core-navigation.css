@@ -1,9 +1,71 @@
 /* Site Navigation */
 
-/* .wp-block-navigation {
-    background-color: black;
-} */
+.wp-block-navigation {
+    flex-grow: 1;
+    justify-content: end;
+}
 
-.wp-block-navigation .wp-block-navigation-item a {
+.wp-block-navigation-item {
+    font-size: var(--wp--preset--font-size--small);
+    color: var(--wp--preset--color--primary-pale);
+}
+
+.wp-block-navigation-item:hover {
+    color: var(--wp--preset--color--white);
+}
+
+.wp-block-navigation-item a {
     font-weight: 400;
 }
+
+/* Dropdown Menu */
+
+.wp-block-navigation:not(.has-background) .wp-block-navigation__submenu-container {
+    top: 40px;
+    color: var(--wp--preset--color--secondary-dark);
+    background-color: var(--wp--preset--color--secondary-light);
+    border: 1px solid var(--wp--preset--color--secondary);
+    border-radius: var(--docs--radius-small);
+    box-shadow: var(--wp--preset--shadow--sharp);
+}
+
+.wp-block-navigation.items-justified-right .has-child > .wp-block-navigation__submenu-container.wp-block-navigation__submenu-container {
+    left: 50%;
+    right: auto;
+    transform: translateX(-50%);
+}
+
+.wp-block-navigation:not(.has-background) .wp-block-navigation__submenu-container .wp-block-navigation-item {
+    font-size: var(--idocs--font-size--x-small);
+    color: var(--wp--preset--color--black);
+    padding: var(--wp--preset--spacing--10);
+}
+
+.wp-block-navigation:not(.has-background) .wp-block-navigation__submenu-container .wp-block-navigation-item:hover {
+    background-color: var(--wp--preset--color--white);
+}
+
+/* Mega Menu */
+
+.wp-block-navigation:not(.has-background) .wp-block-navigation__submenu-container.mega-menu {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+/* .wp-block-navigation:not(.has-background) .wp-block-navigation__submenu-container.mega-menu--two {
+    max-width: var(--wp--style--global--content-size);
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.wp-block-navigation:not(.has-background) .wp-block-navigation__submenu-container.mega-menu--three {
+    max-width: var(--wp--style--global--content-size);
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+} */
+
+/* .wp-block-navigation__submenu-container .mega-menu--three {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1rem;
+} */

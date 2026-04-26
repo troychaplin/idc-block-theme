@@ -3,6 +3,13 @@
 	"version": 3,
 	"customTemplates": [
 		{
+			"name": "page-image-banner",
+			"postTypes": [
+				"page"
+			],
+			"title": "Page: Image Banner"
+		},
+		{
 			"name": "page-with-title",
 			"postTypes": [
 				"page"
@@ -196,7 +203,7 @@
 				},
 				{
 					"name": "Sharp",
-					"shadow": "6px 6px 0px rgba(0, 0, 0, 0.2)",
+					"shadow": "6px 6px 0px rgba(0, 0, 0, 0.3)",
 					"slug": "sharp"
 				},
 				{
@@ -213,6 +220,11 @@
 		},
 		"spacing": {
 			"spacingSizes": [
+				{
+					"name": "3x Small",
+					"size": "0.175rem",
+					"slug": "10"
+				},
 				{
 					"name": "2x Small",
 					"size": "0.25rem",
@@ -259,17 +271,17 @@
 						{
 							"fontFamily": "Inter",
 							"fontStyle": "normal",
-							"fontWeight": "300",
+							"fontWeight": "200",
 							"src": [
-								"file:./assets/fonts/inter/inter-300-normal.woff2"
+								"file:./assets/fonts/inter/inter-200-normal.woff2"
 							]
 						},
 						{
 							"fontFamily": "Inter",
 							"fontStyle": "normal",
-							"fontWeight": "200",
+							"fontWeight": "300",
 							"src": [
-								"file:./assets/fonts/inter/inter-200-normal.woff2"
+								"file:./assets/fonts/inter/inter-300-normal.woff2"
 							]
 						},
 						{
