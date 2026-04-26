@@ -6,6 +6,12 @@
     gap: var(--wp--preset--spacing--50);
 }
 
+.wp-block-group.is-card-grid--two {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: var(--wp--preset--spacing--50);
+}
+
 .wp-block-group.is-card-grid--vertical {
     grid-template-columns: repeat(1, 1fr);
 }
