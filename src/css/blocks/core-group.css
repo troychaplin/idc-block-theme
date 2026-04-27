@@ -4,8 +4,8 @@
     padding: var(--wp--preset--spacing--70) var(--wp--preset--spacing--50);
 }
 
-.wp-block-group.alignfull[class*="is-style-"] + :not(.wp-block-group.alignfull[class*="is-style-"]),
-:not(.wp-block-group.alignfull[class*="is-style-"]) + .wp-block-group.alignfull[class*="is-style-"] {
+.wp-block-group.alignfull[class*="is-style-"] + :not(.wp-block-group.alignfull[class*="is-style-"]):not(.wp-block-template-part),
+:not(.wp-block-group.alignfull[class*="is-style-"]):not(.wp-block-template-part) + .wp-block-group.alignfull[class*="is-style-"] {
     margin-top: var(--wp--preset--spacing--70);
 }
 
