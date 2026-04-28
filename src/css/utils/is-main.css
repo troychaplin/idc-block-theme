@@ -1,0 +1,5 @@
+/* Hero Banner */
+
+.idc-main:not(.wp-block-group.alignfull[class*="is-style-"]):not(.wp-block-template-part) + .wp-block-group.alignfull[class*="is-style-"] {
+    margin-top: var(--wp--preset--spacing--40);
+}
