@@ -21,7 +21,6 @@ class Enqueues {
 		add_action( 'wp_enqueue_scripts', array( $this, 'enqueue_scripts' ) );
 		add_action( 'init', array( $this, 'enqueue_block_styles' ) );
 		add_action( 'enqueue_block_editor_assets', array( $this, 'enqueue_block_scripts' ) );
-		add_action( 'init', array( $this, 'register_pattern_categories' ) );
 	}
 
 	/**
@@ -107,38 +106,4 @@ class Enqueues {
 			);
 		}
 	}
-
-	/**
-	 * Register a custom block pattern category for the theme.
-	 */
-	public function register_pattern_categories(): void {
-        register_block_pattern_category(
-            'idocs-sections-en',
-            array( 'label' => __( 'IDC Sections (EN)', 'idocs-block-theme' ) )
-        );
-        register_block_pattern_category(
-            'idocs-sections-fr',
-            array( 'label' => __( 'IDC Sections (FR)', 'idocs-block-theme' ) )
-        );
-        register_block_pattern_category(
-            'idocs-headings-en',
-            array( 'label' => __( 'IDC Headings (EN)', 'idocs-block-theme' ) )
-        );
-        register_block_pattern_category(
-            'idocs-headings-fr',
-            array( 'label' => __( 'IDC Headings (FR)', 'idocs-block-theme' ) )
-        );
-		register_block_pattern_category(
-            'idocs-layouts-en',
-			array( 'label' => __( 'IDC Layouts (EN)', 'idocs-block-theme' ) )
-        );
-		register_block_pattern_category(
-            'idocs-layouts-fr',
-			array( 'label' => __( 'IDC Layouts (FR)', 'idocs-block-theme' ) )
-        );
-        register_block_pattern_category(
-            'idocs-footers',
-            array( 'label' => __( 'IDC Footers', 'idocs-block-theme' ) )
-        );
-    }
 }

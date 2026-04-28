@@ -1,0 +1,5 @@
+@media (--below-bp-desktop) {
+    .is-recent-posts > li:last-child {
+        display: none;
+    }
+}

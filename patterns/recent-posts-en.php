@@ -1,36 +1,11 @@
-<!-- wp:template-part {"slug":"header","area":"header","align":"full"} /-->
-
-<!-- wp:group {"metadata":{"name":"Banner with Image"},"className":"is-style-default","backgroundColor":"primary","layout":{"type":"constrained","contentSize":"1280px"}} -->
-<div class="wp-block-group is-style-default has-primary-background-color has-background"><!-- wp:cover {"useFeaturedImage":true,"isUserOverlayColor":true,"gradient":"custom-blue-outer-edges","align":"wide","style":{"spacing":{"margin":{"bottom":"var:preset|spacing|60"},"padding":{"right":"0","left":"0"}},"color":{"duotone":"var:preset|duotone|grayscale"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-cover alignwide" style="margin-bottom:var(--wp--preset--spacing--60);padding-right:0;padding-left:0"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-100 has-background-dim has-background-gradient has-custom-blue-outer-edges-gradient-background"></span><div class="wp-block-cover__inner-container"><!-- wp:post-title {"textAlign":"center","level":1,"align":"wide","style":{"spacing":{"margin":{"bottom":"0"},"padding":{"top":"0","bottom":"0"}}}} /-->
-
-<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|40","margin":{"top":"var:preset|spacing|50","bottom":"0"}},"elements":{"link":{"color":{"text":"var:preset|color|grey-dark"},":hover":{"color":{"text":"var:preset|color|primary"}}}}},"textColor":"grey-dark","fontSize":"medium","layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"center"}} -->
-<div class="wp-block-group has-grey-dark-color has-text-color has-link-color has-medium-font-size" style="margin-top:var(--wp--preset--spacing--50);margin-bottom:0"><!-- wp:group {"style":{"spacing":{"blockGap":"0.35rem"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
-<div class="wp-block-group"><!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}}},"textColor":"white"} -->
-<p class="has-white-color has-text-color has-link-color">Published on</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:post-date {"metadata":{"bindings":{"datetime":{"source":"core/post-data","args":{"field":"date"}}}},"style":{"elements":{"link":{"color":{"text":"var:preset|color|white"},":hover":{"color":{"text":"var:preset|color|primary-pale"}}}}},"textColor":"white"} /--></div>
-<!-- /wp:group -->
-
-<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|grey"},":hover":{"color":{"text":"var:preset|color|primary-pale"}}}}},"textColor":"grey"} -->
-<p class="has-grey-color has-text-color has-link-color">|</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:group {"style":{"spacing":{"blockGap":"0.35rem"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
-<div class="wp-block-group"><!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}}},"textColor":"white"} -->
-<p class="has-white-color has-text-color has-link-color">Time to read:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:post-time-to-read {"style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}}},"textColor":"white"} /--></div>
-<!-- /wp:group --></div>
-<!-- /wp:group --></div></div>
-<!-- /wp:cover --></div>
-<!-- /wp:group -->
-
-<!-- wp:post-content {"tagName":"main","align":"full","className":"idc-main","style":{"spacing":{"padding":{"bottom":"var:preset|spacing|60"},"margin":{"bottom":"0"},"blockGap":"var:preset|spacing|50"}},"layout":{"type":"constrained"}} /-->
-
-<!-- wp:group {"tagName":"section","metadata":{"name":"Recent Posts","categories":["idocs-sections-en"],"patternName":"idocs-block-theme/recent-posts-en"},"align":"full","className":"is-style-beige","style":{"spacing":{"padding":{"top":"var:preset|spacing|70","bottom":"var:preset|spacing|70"}}},"layout":{"type":"constrained"}} -->
+<?php
+/**
+ * Title: Recent Posts (EN)
+ * Slug: idocs-block-theme/recent-posts-en
+ * Categories: idocs-sections-en
+ */
+?>
+<!-- wp:group {"tagName":"section","metadata":{"name":"Recent Posts","categories":["idocs-sections-en"]},"align":"full","className":"is-style-beige","style":{"spacing":{"padding":{"top":"var:preset|spacing|70","bottom":"var:preset|spacing|70"}}},"layout":{"type":"constrained"}} -->
 <section class="wp-block-group alignfull is-style-beige" style="padding-top:var(--wp--preset--spacing--70);padding-bottom:var(--wp--preset--spacing--70)"><!-- wp:group {"tagName":"header","metadata":{"name":"Section Heading: Center"},"align":"wide","layout":{"type":"constrained"}} -->
 <header class="wp-block-group alignwide"><!-- wp:paragraph {"className":"has-thin-lines","style":{"typography":{"textAlign":"center"}}} -->
 <p class="has-text-align-center has-thin-lines">Keep Exploring</p>
@@ -85,5 +60,3 @@
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></section>
 <!-- /wp:group -->
-
-<!-- wp:template-part {"slug":"footer"} /-->
