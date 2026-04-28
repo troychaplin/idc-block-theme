@@ -16,7 +16,7 @@ if ( file_exists( __DIR__ . '/vendor/autoload.php' ) ) {
 // Instantiate our modules.
 $idocs_modules = array(
 	new IDOCS\Enqueues(),
-	new IDOCS\Register_Testimonials(),
+	new IDOCS\Block_Functions(),
 );
 
 foreach ( $idocs_modules as $idocs_module ) {

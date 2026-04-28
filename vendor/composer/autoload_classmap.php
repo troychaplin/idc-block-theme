@@ -7,6 +7,7 @@ $baseDir = dirname($vendorDir);
 
 return array(
     'Composer\\InstalledVersions' => $vendorDir . '/composer/InstalledVersions.php',
+    'IDOCS\\Block_Functions' => $baseDir . '/classes/class-block-functions.php',
     'IDOCS\\Enqueues' => $baseDir . '/classes/class-enqueues.php',
     'IDOCS\\Register_Testimonials' => $baseDir . '/classes/class-register-testimonials.php',
     'PHPCSUtils\\AbstractSniffs\\AbstractArrayDeclarationSniff' => $vendorDir . '/phpcsstandards/phpcsutils/PHPCSUtils/AbstractSniffs/AbstractArrayDeclarationSniff.php',

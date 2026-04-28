@@ -20,6 +20,7 @@ class Enqueues {
 		add_action( 'wp_enqueue_scripts', array( $this, 'enqueue_styles' ), 20 );
 		add_action( 'wp_enqueue_scripts', array( $this, 'enqueue_scripts' ) );
 		add_action( 'init', array( $this, 'enqueue_block_styles' ) );
+		add_action( 'enqueue_block_editor_assets', array( $this, 'enqueue_block_scripts' ) );
 		add_action( 'init', array( $this, 'register_pattern_categories' ) );
 	}
 
@@ -85,6 +86,24 @@ class Enqueues {
 					'deps'   => array( 'idocs-main' ),
 					'ver'    => $version,
 				)
+			);
+		}
+	}
+
+	/**
+	 * Enqueue block editor scripts.
+	 */
+	public function enqueue_block_scripts(): void {
+		$path    = get_theme_file_path( 'assets/js/editor.js' );
+		$version = file_exists( $path ) ? filemtime( $path ) : wp_get_theme()->get( 'Version' );
+
+		if ( file_exists( $path ) ) {
+			wp_enqueue_script(
+				'idocs-editor',
+				get_theme_file_uri( 'assets/js/editor.js' ),
+				array( 'wp-blocks', 'wp-dom-ready' ),
+				$version,
+				true
 			);
 		}
 	}

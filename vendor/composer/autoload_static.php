@@ -22,6 +22,7 @@ class ComposerStaticInit54421d75c2c79028332951ea18376abd
 
     public static $classMap = array (
         'Composer\\InstalledVersions' => __DIR__ . '/..' . '/composer/InstalledVersions.php',
+        'IDOCS\\Block_Functions' => __DIR__ . '/../..' . '/classes/class-block-functions.php',
         'IDOCS\\Enqueues' => __DIR__ . '/../..' . '/classes/class-enqueues.php',
         'IDOCS\\Register_Testimonials' => __DIR__ . '/../..' . '/classes/class-register-testimonials.php',
         'PHPCSUtils\\AbstractSniffs\\AbstractArrayDeclarationSniff' => __DIR__ . '/..' . '/phpcsstandards/phpcsutils/PHPCSUtils/AbstractSniffs/AbstractArrayDeclarationSniff.php',

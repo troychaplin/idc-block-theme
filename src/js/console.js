@@ -1,1 +1,0 @@
-console.log('iDocs block theme script loaded');

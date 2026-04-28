@@ -1,1 +1,1 @@
-import './js/console';
+// import './js/queryVariation';
