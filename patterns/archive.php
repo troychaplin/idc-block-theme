@@ -8,7 +8,7 @@
 <!-- wp:template-part {"slug":"header","area":"header","align":"full"} /-->
 
 <!-- wp:group {"metadata":{"name":"Banner with Image"},"className":"is-style-default","backgroundColor":"primary","layout":{"type":"constrained","contentSize":"1280px"}} -->
-<div class="wp-block-group is-style-default has-primary-background-color has-background"><!-- wp:cover {"url":"<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/blog-home-banner.jpg","isUserOverlayColor":true,"minHeight":300,"gradient":"custom-blue-outer-edges","sizeSlug":"full","style":{"color":{"duotone":"var:preset|duotone|grayscale"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-style-default has-primary-background-color has-background"><!-- wp:cover {"url":"<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/blog-home-banner.jpg","isUserOverlayColor":true,"minHeight":300,"gradient":"custom-blue-outer-edges","sizeSlug":"full","style":{"color":{"duotone":"var:preset|duotone|secondary-dark-and-pale"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-cover" style="min-height:300px"><img class="wp-block-cover__image-background size-full" alt="" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/blog-home-banner.jpg" data-object-fit="cover"/><span aria-hidden="true" class="wp-block-cover__background has-background-dim-100 has-background-dim wp-block-cover__gradient-background has-background-gradient has-custom-blue-outer-edges-gradient-background"></span><div class="wp-block-cover__inner-container"><!-- wp:query-title {"type":"archive","textAlign":"center"} /--></div></div>
 <!-- /wp:cover --></div>
 <!-- /wp:group -->

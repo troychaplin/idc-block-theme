@@ -25,6 +25,16 @@
 			"customGradient": false,
 			"defaultGradients": false,
 			"defaultPalette": false,
+			"duotone": [
+				{
+					"colors": [
+						"#796155",
+						"#F5F3F0"
+					],
+					"name": "Secondary Dark and Pale",
+					"slug": "secondary-dark-and-pale"
+				}
+			],
 			"gradients": [
 				{
 					"color": "#C6BAAB",
