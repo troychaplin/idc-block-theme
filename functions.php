@@ -17,7 +17,6 @@ if ( file_exists( __DIR__ . '/vendor/autoload.php' ) ) {
 $idocs_modules = array(
 	new IDOCS\Enqueues(),
 	new IDOCS\Block_Functions(),
-	new IDOCS\Block_Router(),
 );
 
 foreach ( $idocs_modules as $idocs_module ) {
