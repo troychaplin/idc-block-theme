@@ -1,14 +1,14 @@
 <?php
 /**
  * Title: Services Layout (FR)
- * Slug: idocs-block-theme/layouts-services-fr
+ * Slug: idc-block-theme/layouts-services-fr
  * Categories: idocs-layouts-fr
  * Block Types: core/post-content
  * Post Types: page
  * Inserter: yes
  */
 ?>
-<!-- wp:group {"tagName":"section","metadata":{"name":"Hero with Form","categories":["idocs-sections-fr"],"patternName":"idocs-block-theme/hero-with-form-fr"},"align":"full","className":"is-style-hero-beige is-hero","layout":{"type":"constrained"}} -->
+<!-- wp:group {"tagName":"section","metadata":{"name":"Hero with Form","categories":["idocs-sections-fr"],"patternName":"idc-block-theme/hero-with-form-fr"},"align":"full","className":"is-style-hero-beige is-hero","layout":{"type":"constrained"}} -->
 <section class="wp-block-group alignfull is-style-hero-beige is-hero"><!-- wp:group {"metadata":{"name":"Columns"},"align":"wide","className":"is-hero__columns","layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignwide is-hero__columns"><!-- wp:group {"metadata":{"name":"Content Column"},"align":"full","className":"is-hero__content","style":{"spacing":{"blockGap":"var:preset|spacing|40"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignfull is-hero__content"><!-- wp:group {"tagName":"header","metadata":{"name":"Hero Heading"},"align":"wide","style":{"spacing":{"margin":{"bottom":"var:preset|spacing|50"}}},"layout":{"type":"constrained","justifyContent":"left"}} -->
@@ -116,7 +116,7 @@
 <!-- /wp:group --></section>
 <!-- /wp:group -->
 
-<!-- wp:group {"tagName":"section","metadata":{"name":"Complete Solution","categories":["idocs-sections-fr"],"patternName":"idocs-block-theme/complete-solution-fr"},"align":"full","className":"is-style-white","layout":{"type":"constrained"}} -->
+<!-- wp:group {"tagName":"section","metadata":{"name":"Complete Solution","categories":["idocs-sections-fr"],"patternName":"idc-block-theme/complete-solution-fr"},"align":"full","className":"is-style-white","layout":{"type":"constrained"}} -->
 <section class="wp-block-group alignfull is-style-white"><!-- wp:group {"metadata":{"name":"Two Content Columns"},"align":"wide","className":"is-two-columns","layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignwide is-two-columns"><!-- wp:group {"metadata":{"name":"Content Column"},"style":{"spacing":{"blockGap":"var:preset|spacing|40"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:group {"tagName":"header","metadata":{"name":"Section Heading: Left"},"align":"wide","style":{"spacing":{"margin":{"bottom":"var:preset|spacing|50"}}},"layout":{"type":"constrained","justifyContent":"left"}} -->
@@ -172,7 +172,7 @@
 <!-- /wp:group --></section>
 <!-- /wp:group -->
 
-<!-- wp:group {"tagName":"section","metadata":{"name":"About the Process","categories":["idocs-sections-fr"],"patternName":"idocs-block-theme/about-the-process-fr"},"align":"full","className":"is-style-beige","layout":{"type":"constrained"}} -->
+<!-- wp:group {"tagName":"section","metadata":{"name":"About the Process","categories":["idocs-sections-fr"],"patternName":"idc-block-theme/about-the-process-fr"},"align":"full","className":"is-style-beige","layout":{"type":"constrained"}} -->
 <section class="wp-block-group alignfull is-style-beige"><!-- wp:group {"tagName":"header","metadata":{"name":"Section Heading: Center"},"align":"wide","layout":{"type":"constrained"}} -->
 <header class="wp-block-group alignwide"><!-- wp:paragraph {"className":"has-thin-lines","style":{"typography":{"textAlign":"center"}}} -->
 <p class="has-text-align-center has-thin-lines">Le processus</p>
@@ -250,8 +250,8 @@
 <!-- /wp:group --></section>
 <!-- /wp:group -->
 
-<!-- wp:group {"metadata":{"categories":["idocs-sections-fr"],"name":"Frequently Asked Questions","patternName":"idocs-block-theme/frequently-asked-questions-fr"},"align":"full","className":"is-style-white","layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignfull is-style-white"><!-- wp:group {"tagName":"header","metadata":{"name":"Heading: Center","categories":["idocs-headings"],"patternName":"idocs-block-theme/heading-center"},"align":"wide","layout":{"type":"constrained"}} -->
+<!-- wp:group {"metadata":{"categories":["idocs-sections-fr"],"name":"Frequently Asked Questions","patternName":"idc-block-theme/frequently-asked-questions-fr"},"align":"full","className":"is-style-white","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull is-style-white"><!-- wp:group {"tagName":"header","metadata":{"name":"Heading: Center","categories":["idocs-headings"],"patternName":"idc-block-theme/heading-center"},"align":"wide","layout":{"type":"constrained"}} -->
 <header class="wp-block-group alignwide"><!-- wp:paragraph {"className":"has-thin-lines","style":{"typography":{"textAlign":"center"}}} -->
 <p class="has-text-align-center has-thin-lines">À votre service</p>
 <!-- /wp:paragraph -->
@@ -274,7 +274,7 @@
 <!-- /wp:tidbits/tidbit --></div>
 <!-- /wp:group -->
 
-<!-- wp:group {"tagName":"section","metadata":{"name":"Testimonials","categories":["idocs-sections-fr"],"patternName":"idocs-block-theme/testimonials-fr"},"align":"full","className":"is-style-blue","layout":{"type":"constrained"}} -->
+<!-- wp:group {"tagName":"section","metadata":{"name":"Testimonials","categories":["idocs-sections-fr"],"patternName":"idc-block-theme/testimonials-fr"},"align":"full","className":"is-style-blue","layout":{"type":"constrained"}} -->
 <section class="wp-block-group alignfull is-style-blue"><!-- wp:group {"tagName":"header","metadata":{"name":"Section Heading: White"},"align":"wide","layout":{"type":"constrained"}} -->
 <header class="wp-block-group alignwide"><!-- wp:paragraph {"className":"has-thin-lines has-thin-lines\u002d\u002dblue","style":{"typography":{"textAlign":"center"}}} -->
 <p class="has-text-align-center has-thin-lines has-thin-lines--blue">Témoignages clients</p>

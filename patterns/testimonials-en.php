@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Testimonials (EN)
- * Slug: idocs-block-theme/testimonials-en
+ * Slug: idc-block-theme/testimonials-en
  * Categories: idocs-sections-en
  */
 ?>

@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: archive
- * Slug: idocs-block-theme/archive
+ * Slug: idc-block-theme/archive
  * Inserter: no
  */
 ?>

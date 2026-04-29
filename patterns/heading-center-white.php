@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Heading: Center White
- * Slug: idocs-block-theme/heading-center-white
+ * Slug: idc-block-theme/heading-center-white
  * Categories: idocs-headings
  * Inserter: no
  */

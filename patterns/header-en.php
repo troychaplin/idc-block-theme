@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Header (EN)
- * Slug: idocs-block-theme/header-en
+ * Slug: idc-block-theme/header-en
  * Categories: idocs-template-parts
  * Inserter: no
  */

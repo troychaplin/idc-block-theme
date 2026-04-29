@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: home
- * Slug: idocs-block-theme/home
+ * Slug: idc-block-theme/home
  * Inserter: no
  */
 ?>

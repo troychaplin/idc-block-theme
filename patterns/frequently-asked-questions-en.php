@@ -1,12 +1,12 @@
 <?php
 /**
  * Title: Frequently Asked Questions (EN)
- * Slug: idocs-block-theme/frequently-asked-questions-en
+ * Slug: idc-block-theme/frequently-asked-questions-en
  * Categories: idocs-sections-en
  */
 ?>
 <!-- wp:group {"metadata":{"categories":["idocs-sections-en"],"name":"Frequently Asked Questions"},"align":"full","className":"is-style-white","layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignfull is-style-white"><!-- wp:group {"tagName":"header","metadata":{"name":"Heading: Center","categories":["idocs-headings"],"patternName":"idocs-block-theme/heading-center"},"align":"wide","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull is-style-white"><!-- wp:group {"tagName":"header","metadata":{"name":"Heading: Center","categories":["idocs-headings"],"patternName":"idc-block-theme/heading-center"},"align":"wide","layout":{"type":"constrained"}} -->
 <header class="wp-block-group alignwide"><!-- wp:paragraph {"className":"has-thin-lines","style":{"typography":{"textAlign":"center"}}} -->
 <p class="has-text-align-center has-thin-lines">We're Here to Help</p>
 <!-- /wp:paragraph -->

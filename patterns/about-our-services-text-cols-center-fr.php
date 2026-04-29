@@ -1,13 +1,13 @@
 <?php
 /**
  * Title: About Our Services: Text Cols Center (FR)
- * Slug: idocs-block-theme/about-our-services-text-cols-center-fr
+ * Slug: idc-block-theme/about-our-services-text-cols-center-fr
  * Categories: idocs-sections-fr
  */
 ?>
 <!-- wp:group {"tagName":"section","metadata":{"name":"About Our Services","categories":["idocs-sections-en"]},"align":"full","className":"is-style-white idc-section","layout":{"type":"constrained"}} -->
 <section class="wp-block-group alignfull is-style-white idc-section"><!-- wp:group {"metadata":{"name":"Content Column"},"align":"wide","style":{"spacing":{"blockGap":"var:preset|spacing|40"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignwide"><!-- wp:group {"tagName":"header","metadata":{"name":"Heading: Center","categories":["idocs-headings"],"patternName":"idocs-block-theme/heading-center"},"align":"wide","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignwide"><!-- wp:group {"tagName":"header","metadata":{"name":"Heading: Center","categories":["idocs-headings"],"patternName":"idc-block-theme/heading-center"},"align":"wide","layout":{"type":"constrained"}} -->
 <header class="wp-block-group alignwide"><!-- wp:paragraph {"className":"has-thin-lines","style":{"typography":{"textAlign":"center"}}} -->
 <p class="has-text-align-center has-thin-lines">À propos de nos services</p>
 <!-- /wp:paragraph -->

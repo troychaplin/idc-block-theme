@@ -1,12 +1,12 @@
 <?php
 /**
  * Title: Heading: Center
- * Slug: idocs-block-theme/heading-center
+ * Slug: idc-block-theme/heading-center
  * Categories: idocs-headings
  * Inserter: no
  */
 ?>
-<!-- wp:group {"tagName":"header","metadata":{"name":"Heading: Center","categories":["idocs-headings"],"patternName":"idocs-block-theme/heading-center"},"align":"wide","layout":{"type":"constrained"}} -->
+<!-- wp:group {"tagName":"header","metadata":{"name":"Heading: Center","categories":["idocs-headings"],"patternName":"idc-block-theme/heading-center"},"align":"wide","layout":{"type":"constrained"}} -->
 <header class="wp-block-group alignwide"><!-- wp:paragraph {"className":"has-thin-lines","style":{"typography":{"textAlign":"center"}}} -->
 <p class="has-text-align-center has-thin-lines">About Our Services</p>
 <!-- /wp:paragraph -->

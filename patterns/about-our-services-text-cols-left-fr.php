@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: About Our Services: Text Cols Left (FR)
- * Slug: idocs-block-theme/about-our-services-text-cols-left-fr
+ * Slug: idc-block-theme/about-our-services-text-cols-left-fr
  * Categories: idocs-sections-fr
  */
 ?>

@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Heading: Hero Left White
- * Slug: idocs-block-theme/heading-hero-left-white
+ * Slug: idc-block-theme/heading-hero-left-white
  * Categories: idocs-headings
  * Inserter: no
  */

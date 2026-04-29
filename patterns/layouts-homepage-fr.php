@@ -1,14 +1,14 @@
 <?php
 /**
  * Title: Homepage Layout (FR)
- * Slug: idocs-block-theme/layouts-homepage-fr
+ * Slug: idc-block-theme/layouts-homepage-fr
  * Categories: idocs-layouts-fr
  * Block Types: core/post-content
  * Post Types: page
  * Inserter: yes
  */
 ?>
-<!-- wp:group {"tagName":"section","metadata":{"name":"Hero Homepage","categories":["idocs-sections-fr"],"patternName":"idocs-block-theme/hero-homepage-fr"},"align":"full","className":"is-style-hero-blue is-hero is-hero\u002d\u002dhomepage","layout":{"type":"constrained"}} -->
+<!-- wp:group {"tagName":"section","metadata":{"name":"Hero Homepage","categories":["idocs-sections-fr"],"patternName":"idc-block-theme/hero-homepage-fr"},"align":"full","className":"is-style-hero-blue is-hero is-hero\u002d\u002dhomepage","layout":{"type":"constrained"}} -->
 <section class="wp-block-group alignfull is-style-hero-blue is-hero is-hero--homepage"><!-- wp:group {"metadata":{"name":"Columns"},"align":"wide","className":"is-hero__columns","layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignwide is-hero__columns"><!-- wp:group {"tagName":"article","metadata":{"name":"Content Column"},"align":"full","className":"is-hero__content","style":{"spacing":{"blockGap":"var:preset|spacing|40"}},"fontSize":"medium","layout":{"type":"constrained"}} -->
 <article class="wp-block-group alignfull is-hero__content has-medium-font-size"><!-- wp:group {"tagName":"header","metadata":{"name":"Hero Heading"},"align":"wide","style":{"spacing":{"margin":{"bottom":"var:preset|spacing|50"}}},"layout":{"type":"constrained","justifyContent":"left"}} -->
@@ -116,7 +116,7 @@
 <!-- /wp:group --></section>
 <!-- /wp:group -->
 
-<!-- wp:group {"tagName":"section","metadata":{"name":"Statistics","categories":["idocs-sections-fr"],"patternName":"idocs-block-theme/statistics-fr"},"align":"full","className":"is-style-white","layout":{"type":"constrained"}} -->
+<!-- wp:group {"tagName":"section","metadata":{"name":"Statistics","categories":["idocs-sections-fr"],"patternName":"idc-block-theme/statistics-fr"},"align":"full","className":"is-style-white","layout":{"type":"constrained"}} -->
 <section class="wp-block-group alignfull is-style-white"><!-- wp:group {"metadata":{"name":"Statistics"},"align":"wide","style":{"spacing":{"blockGap":"var:preset|spacing|50","margin":{"top":"-1rem"}}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"space-between"}} -->
 <div class="wp-block-group alignwide" style="margin-top:-1rem"><!-- wp:group {"tagName":"article","metadata":{"name":"Stats Item"},"style":{"layout":{"selfStretch":"fill","flexSize":null},"spacing":{"blockGap":"0"}},"layout":{"type":"constrained"}} -->
 <article class="wp-block-group"><!-- wp:paragraph {"style":{"typography":{"textAlign":"center"}},"fontSize":"heading-medium","fontFamily":"playfair-display"} -->
@@ -150,7 +150,7 @@
 <!-- /wp:group --></section>
 <!-- /wp:group -->
 
-<!-- wp:group {"tagName":"section","metadata":{"name":"Three Simple Steps","categories":["idocs-sections-fr"],"patternName":"idocs-block-theme/three-simple-steps-fr"},"align":"full","className":"is-style-beige","layout":{"type":"constrained"}} -->
+<!-- wp:group {"tagName":"section","metadata":{"name":"Three Simple Steps","categories":["idocs-sections-fr"],"patternName":"idc-block-theme/three-simple-steps-fr"},"align":"full","className":"is-style-beige","layout":{"type":"constrained"}} -->
 <section class="wp-block-group alignfull is-style-beige"><!-- wp:group {"tagName":"header","metadata":{"name":"Section Heading: Center"},"align":"wide","layout":{"type":"constrained"}} -->
 <header class="wp-block-group alignwide"><!-- wp:paragraph {"className":"has-thin-lines","style":{"typography":{"textAlign":"center"}}} -->
 <p class="has-text-align-center has-thin-lines"><strong>Authentification accélérée</strong></p>
@@ -222,7 +222,7 @@
 <!-- /wp:buttons --></section>
 <!-- /wp:group -->
 
-<!-- wp:group {"tagName":"section","metadata":{"name":"Complete Solution","categories":["idocs-sections-fr"],"patternName":"idocs-block-theme/complete-solution-fr"},"align":"full","className":"is-style-white","layout":{"type":"constrained"}} -->
+<!-- wp:group {"tagName":"section","metadata":{"name":"Complete Solution","categories":["idocs-sections-fr"],"patternName":"idc-block-theme/complete-solution-fr"},"align":"full","className":"is-style-white","layout":{"type":"constrained"}} -->
 <section class="wp-block-group alignfull is-style-white"><!-- wp:group {"metadata":{"name":"Two Content Columns"},"align":"wide","className":"is-two-columns","layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignwide is-two-columns"><!-- wp:group {"metadata":{"name":"Content Column"},"style":{"spacing":{"blockGap":"var:preset|spacing|40"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:group {"tagName":"header","metadata":{"name":"Section Heading: Left"},"align":"wide","style":{"spacing":{"margin":{"bottom":"var:preset|spacing|50"}}},"layout":{"type":"constrained","justifyContent":"left"}} -->
@@ -278,7 +278,7 @@
 <!-- /wp:group --></section>
 <!-- /wp:group -->
 
-<!-- wp:group {"tagName":"section","metadata":{"name":"Testimonials","categories":["idocs-sections-fr"],"patternName":"idocs-block-theme/testimonials-fr"},"align":"full","className":"is-style-blue","layout":{"type":"constrained"}} -->
+<!-- wp:group {"tagName":"section","metadata":{"name":"Testimonials","categories":["idocs-sections-fr"],"patternName":"idc-block-theme/testimonials-fr"},"align":"full","className":"is-style-blue","layout":{"type":"constrained"}} -->
 <section class="wp-block-group alignfull is-style-blue"><!-- wp:group {"tagName":"header","metadata":{"name":"Section Heading: White"},"align":"wide","layout":{"type":"constrained"}} -->
 <header class="wp-block-group alignwide"><!-- wp:paragraph {"className":"has-thin-lines has-thin-lines\u002d\u002dblue","style":{"typography":{"textAlign":"center"}}} -->
 <p class="has-text-align-center has-thin-lines has-thin-lines--blue">Témoignages clients</p>

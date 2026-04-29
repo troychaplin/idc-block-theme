@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: About the Process: 2 Col (FR)
- * Slug: idocs-block-theme/about-the-process-2-col-fr
+ * Slug: idc-block-theme/about-the-process-2-col-fr
  * Categories: idocs-sections-fr
  */
 ?>

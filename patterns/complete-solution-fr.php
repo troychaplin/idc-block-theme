@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Complete Solution (FR)
- * Slug: idocs-block-theme/complete-solution-fr
+ * Slug: idc-block-theme/complete-solution-fr
  * Categories: idocs-sections-fr
  */
 ?>

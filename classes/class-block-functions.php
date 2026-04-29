@@ -50,31 +50,31 @@ class Block_Functions {
 	public function register_pattern_categories(): void {
         register_block_pattern_category(
             'idocs-sections-en',
-            array( 'label' => __( 'IDC Sections (EN)', 'idocs-block-theme' ) )
+            array( 'label' => __( 'IDC Sections (EN)', 'idc-block-theme' ) )
         );
         register_block_pattern_category(
             'idocs-sections-fr',
-            array( 'label' => __( 'IDC Sections (FR)', 'idocs-block-theme' ) )
+            array( 'label' => __( 'IDC Sections (FR)', 'idc-block-theme' ) )
         );
         register_block_pattern_category(
             'idocs-headings-en',
-            array( 'label' => __( 'IDC Headings (EN)', 'idocs-block-theme' ) )
+            array( 'label' => __( 'IDC Headings (EN)', 'idc-block-theme' ) )
         );
         register_block_pattern_category(
             'idocs-headings-fr',
-            array( 'label' => __( 'IDC Headings (FR)', 'idocs-block-theme' ) )
+            array( 'label' => __( 'IDC Headings (FR)', 'idc-block-theme' ) )
         );
 		register_block_pattern_category(
             'idocs-layouts-en',
-			array( 'label' => __( 'IDC Layouts (EN)', 'idocs-block-theme' ) )
+			array( 'label' => __( 'IDC Layouts (EN)', 'idc-block-theme' ) )
         );
 		register_block_pattern_category(
             'idocs-layouts-fr',
-			array( 'label' => __( 'IDC Layouts (FR)', 'idocs-block-theme' ) )
+			array( 'label' => __( 'IDC Layouts (FR)', 'idc-block-theme' ) )
         );
         register_block_pattern_category(
             'idocs-footers',
-            array( 'label' => __( 'IDC Footers', 'idocs-block-theme' ) )
+            array( 'label' => __( 'IDC Footers', 'idc-block-theme' ) )
         );
     }
 }

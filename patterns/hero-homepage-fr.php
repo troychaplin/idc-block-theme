@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Hero Homepage (FR)
- * Slug: idocs-block-theme/hero-homepage-fr
+ * Slug: idc-block-theme/hero-homepage-fr
  * Categories: idocs-sections-fr
  */
 ?>

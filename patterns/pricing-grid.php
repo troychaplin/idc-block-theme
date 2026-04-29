@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Pricing Grid (EN)
- * Slug: idocs-block-theme/pricing-grid-en
+ * Slug: idc-block-theme/pricing-grid-en
  * Categories: idocs-sections-en
  */
 ?>

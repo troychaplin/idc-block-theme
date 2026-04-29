@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Recent Posts (FR)
- * Slug: idocs-block-theme/recent-posts-fr
+ * Slug: idc-block-theme/recent-posts-fr
  * Categories: idocs-sections-fr
  */
 ?>

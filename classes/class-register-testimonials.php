@@ -31,22 +31,22 @@ class Register_Testimonials {
 	 */
 	public function register_post_type(): void {
 		$labels = array(
-			'name'                  => __( 'Testimonials', 'idocs-block-theme' ),
-			'singular_name'         => __( 'Testimonial', 'idocs-block-theme' ),
-			'menu_name'             => __( 'Testimonials', 'idocs-block-theme' ),
-			'name_admin_bar'        => __( 'Testimonial', 'idocs-block-theme' ),
-			'add_new'               => __( 'Add New', 'idocs-block-theme' ),
-			'add_new_item'          => __( 'Add New Testimonial', 'idocs-block-theme' ),
-			'new_item'              => __( 'New Testimonial', 'idocs-block-theme' ),
-			'edit_item'             => __( 'Edit Testimonial', 'idocs-block-theme' ),
-			'view_item'             => __( 'View Testimonial', 'idocs-block-theme' ),
-			'all_items'             => __( 'All Testimonials', 'idocs-block-theme' ),
-			'search_items'          => __( 'Search Testimonials', 'idocs-block-theme' ),
-			'not_found'             => __( 'No testimonials found.', 'idocs-block-theme' ),
-			'not_found_in_trash'    => __( 'No testimonials found in Trash.', 'idocs-block-theme' ),
-			'filter_items_list'     => __( 'Filter testimonials list', 'idocs-block-theme' ),
-			'items_list_navigation' => __( 'Testimonials list navigation', 'idocs-block-theme' ),
-			'items_list'            => __( 'Testimonials list', 'idocs-block-theme' ),
+			'name'                  => __( 'Testimonials', 'idc-block-theme' ),
+			'singular_name'         => __( 'Testimonial', 'idc-block-theme' ),
+			'menu_name'             => __( 'Testimonials', 'idc-block-theme' ),
+			'name_admin_bar'        => __( 'Testimonial', 'idc-block-theme' ),
+			'add_new'               => __( 'Add New', 'idc-block-theme' ),
+			'add_new_item'          => __( 'Add New Testimonial', 'idc-block-theme' ),
+			'new_item'              => __( 'New Testimonial', 'idc-block-theme' ),
+			'edit_item'             => __( 'Edit Testimonial', 'idc-block-theme' ),
+			'view_item'             => __( 'View Testimonial', 'idc-block-theme' ),
+			'all_items'             => __( 'All Testimonials', 'idc-block-theme' ),
+			'search_items'          => __( 'Search Testimonials', 'idc-block-theme' ),
+			'not_found'             => __( 'No testimonials found.', 'idc-block-theme' ),
+			'not_found_in_trash'    => __( 'No testimonials found in Trash.', 'idc-block-theme' ),
+			'filter_items_list'     => __( 'Filter testimonials list', 'idc-block-theme' ),
+			'items_list_navigation' => __( 'Testimonials list navigation', 'idc-block-theme' ),
+			'items_list'            => __( 'Testimonials list', 'idc-block-theme' ),
 		);
 
 		$args = array(

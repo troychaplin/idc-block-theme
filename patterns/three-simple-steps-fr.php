@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Three Simple Steps (FR)
- * Slug: idocs-block-theme/three-simple-steps-fr
+ * Slug: idc-block-theme/three-simple-steps-fr
  * Categories: idocs-sections-fr
  */
 ?>

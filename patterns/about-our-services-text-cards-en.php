@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: About Our Services: Text & Cards (EN)
- * Slug: idocs-block-theme/about-our-services-text-cards-en
+ * Slug: idc-block-theme/about-our-services-text-cards-en
  * Categories: idocs-sections-en
  */
 ?>

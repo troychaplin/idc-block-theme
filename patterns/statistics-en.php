@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Statistics (EN)
- * Slug: idocs-block-theme/statistics-en
+ * Slug: idc-block-theme/statistics-en
  * Categories: idocs-sections-en
  */
 ?>

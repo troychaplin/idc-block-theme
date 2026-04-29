@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Hero with Form (EN)
- * Slug: idocs-block-theme/hero-with-form-en
+ * Slug: idc-block-theme/hero-with-form-en
  * Categories: idocs-sections-en
  */
 ?>
