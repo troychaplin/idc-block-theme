@@ -80,6 +80,12 @@
 				},
 				{
 					"color": "#14253D",
+					"gradient": "linear-gradient(to right, rgba(238,235,230,0) 40%, #14253D 100%)",
+					"name": "Primary: Blue to Beige",
+					"slug": "custom-blue-to-beige"
+				},
+				{
+					"color": "#14253D",
 					"gradient": "linear-gradient(to right, #EEEBE6 0%, #EEEBE6 50%, #F5F3F0 50%, #F5F3F0 100%)",
 					"name": "Primary: Hero Beige",
 					"slug": "custom-primary-hero-beige"
