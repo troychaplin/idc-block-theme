@@ -49,32 +49,32 @@ class Block_Functions {
 	 */
 	public function register_pattern_categories(): void {
         register_block_pattern_category(
-            'idocs-sections-en',
+            'idc-sections-en',
             array( 'label' => __( 'IDC Sections (EN)', 'idc-block-theme' ) )
         );
         register_block_pattern_category(
-            'idocs-sections-fr',
+            'idc-sections-fr',
             array( 'label' => __( 'IDC Sections (FR)', 'idc-block-theme' ) )
         );
         register_block_pattern_category(
-            'idocs-headings-en',
+            'idc-headings-en',
             array( 'label' => __( 'IDC Headings (EN)', 'idc-block-theme' ) )
         );
         register_block_pattern_category(
-            'idocs-headings-fr',
+            'idc-headings-fr',
             array( 'label' => __( 'IDC Headings (FR)', 'idc-block-theme' ) )
         );
 		register_block_pattern_category(
-            'idocs-layouts-en',
+            'idc-layouts-en',
 			array( 'label' => __( 'IDC Layouts (EN)', 'idc-block-theme' ) )
         );
 		register_block_pattern_category(
-            'idocs-layouts-fr',
+            'idc-layouts-fr',
 			array( 'label' => __( 'IDC Layouts (FR)', 'idc-block-theme' ) )
         );
         register_block_pattern_category(
-            'idocs-footers',
-            array( 'label' => __( 'IDC Footers', 'idc-block-theme' ) )
+            'idc-template-parts',
+            array( 'label' => __( 'IDC Template Parts', 'idc-block-theme' ) )
         );
     }
 }

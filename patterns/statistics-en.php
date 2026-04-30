@@ -2,7 +2,7 @@
 /**
  * Title: Statistics (EN)
  * Slug: idc-block-theme/statistics-en
- * Categories: idocs-sections-en
+ * Categories: idc-sections-en
  */
 ?>
 <!-- wp:group {"tagName":"section","metadata":{"name":"Statistics","categories":["idocs-sections-en"]},"align":"full","className":"is-style-white","layout":{"type":"constrained"}} -->

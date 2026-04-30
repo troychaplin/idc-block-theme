@@ -2,7 +2,7 @@
 /**
  * Title: Three Simple Steps (FR)
  * Slug: idc-block-theme/three-simple-steps-fr
- * Categories: idocs-sections-fr
+ * Categories: idc-sections-fr
  */
 ?>
 <!-- wp:group {"tagName":"section","metadata":{"name":"Three Simple Steps","categories":["idocs-sections-fr"]},"align":"full","className":"is-style-beige","layout":{"type":"constrained"}} -->

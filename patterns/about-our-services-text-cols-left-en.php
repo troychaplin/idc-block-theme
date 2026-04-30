@@ -2,7 +2,7 @@
 /**
  * Title: About Our Services: Text Cols Left (EN)
  * Slug: idc-block-theme/about-our-services-text-cols-left-en
- * Categories: idocs-sections-en
+ * Categories: idc-sections-en
  */
 ?>
 <!-- wp:group {"tagName":"section","metadata":{"name":"About Our Services","categories":["idocs-sections-en"]},"align":"full","className":"is-style-white idc-section","layout":{"type":"constrained"}} -->

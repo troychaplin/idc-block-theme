@@ -2,7 +2,7 @@
 /**
  * Title: Heading: Hero Left
  * Slug: idc-block-theme/heading-hero-left
- * Categories: idocs-headings
+ * Categories: idc-headings
  * Inserter: no
  */
 ?>

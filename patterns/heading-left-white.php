@@ -2,7 +2,7 @@
 /**
  * Title: Heading: Left White
  * Slug: idc-block-theme/heading-left-white
- * Categories: idocs-headings
+ * Categories: idc-headings
  * Inserter: no
  */
 ?>

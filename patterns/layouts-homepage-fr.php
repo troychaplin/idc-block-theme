@@ -2,7 +2,7 @@
 /**
  * Title: Homepage Layout (FR)
  * Slug: idc-block-theme/layouts-homepage-fr
- * Categories: idocs-layouts-fr
+ * Categories: idc-layouts-fr
  * Block Types: core/post-content
  * Post Types: page
  * Inserter: yes

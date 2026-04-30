@@ -2,7 +2,7 @@
 /**
  * Title: About the Process: 2 Col (EN)
  * Slug: idc-block-theme/about-the-process-2-col-en
- * Categories: idocs-sections-en
+ * Categories: idc-sections-en
  */
 ?>
 <!-- wp:group {"tagName":"section","metadata":{"name":"About the Process","categories":["idocs-sections-en"]},"align":"full","className":"is-style-beige","layout":{"type":"constrained"}} -->

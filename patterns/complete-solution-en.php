@@ -2,7 +2,7 @@
 /**
  * Title: Complete Solution (EN)
  * Slug: idc-block-theme/complete-solution-en
- * Categories: idocs-sections-en
+ * Categories: idc-sections-en
  */
 ?>
 <!-- wp:group {"tagName":"section","metadata":{"name":"Complete Solution","categories":["idocs-sections-fr"]},"align":"full","className":"is-style-white","layout":{"type":"constrained"}} -->

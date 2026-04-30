@@ -2,7 +2,7 @@
 /**
  * Title: Hero with Form (FR)
  * Slug: idc-block-theme/hero-with-form-fr
- * Categories: idocs-sections-fr
+ * Categories: idc-sections-fr
  */
 ?>
 <!-- wp:group {"tagName":"section","metadata":{"name":"Hero with Form","categories":["idocs-sections-fr"]},"align":"full","className":"is-style-hero-beige is-hero","layout":{"type":"constrained"}} -->

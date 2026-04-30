@@ -2,7 +2,7 @@
 /**
  * Title: Hero Homepage (EN)
  * Slug: idc-block-theme/hero-homepage-en
- * Categories: idocs-sections-en
+ * Categories: idc-sections-en
  */
 ?>
 <!-- wp:group {"tagName":"section","metadata":{"name":"Hero Homepage","categories":["idocs-sections-en"]},"align":"full","className":"is-style-hero-blue is-hero is-hero\u002d\u002dhomepage","layout":{"type":"constrained"}} -->

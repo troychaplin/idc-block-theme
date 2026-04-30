@@ -2,8 +2,7 @@
 /**
  * Title: Footer (FR)
  * Slug: idc-block-theme/footer-fr
- * Categories: idocs-footers
- * Inserter: no
+ * Categories: idc-template-parts
  */
 ?>
 

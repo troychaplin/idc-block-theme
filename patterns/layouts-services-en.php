@@ -2,7 +2,7 @@
 /**
  * Title: Services Layout (EN)
  * Slug: idc-block-theme/layouts-services-en
- * Categories: idocs-layouts-en
+ * Categories: idc-layouts-en
  * Block Types: core/post-content
  * Post Types: page
  * Inserter: yes

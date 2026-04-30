@@ -2,7 +2,7 @@
 /**
  * Title: About Our Services: Text & Cards (FR)
  * Slug: idc-block-theme/about-our-services-text-cards-fr
- * Categories: idocs-sections-fr
+ * Categories: idc-sections-fr
  */
 ?>
 <!-- wp:group {"tagName":"section","metadata":{"name":"About Our Services","categories":["idocs-sections-fr"]},"align":"full","className":"is-style-white idc-section","layout":{"type":"constrained"}} -->

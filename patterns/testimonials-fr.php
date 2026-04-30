@@ -2,7 +2,7 @@
 /**
  * Title: Testimonials (FR)
  * Slug: idc-block-theme/testimonials-fr
- * Categories: idocs-sections-fr
+ * Categories: idc-sections-fr
  */
 ?>
 <!-- wp:group {"tagName":"section","metadata":{"name":"Testimonials","categories":["idocs-sections-fr"]},"align":"full","className":"is-style-blue","layout":{"type":"constrained"}} -->

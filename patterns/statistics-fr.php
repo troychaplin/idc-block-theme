@@ -2,7 +2,7 @@
 /**
  * Title: Statistics (FR)
  * Slug: idc-block-theme/statistics-fr
- * Categories: idocs-sections-fr
+ * Categories: idc-sections-fr
  */
 ?>
 <!-- wp:group {"tagName":"section","metadata":{"name":"Statistics","categories":["idocs-sections-fr"],"patternName":"idc-block-theme/statistics-fr"},"align":"full","className":"is-style-white","layout":{"type":"constrained"}} -->

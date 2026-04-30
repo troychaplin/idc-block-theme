@@ -2,7 +2,7 @@
 /**
  * Title: Frequently Asked Questions (FR)
  * Slug: idc-block-theme/frequently-asked-questions-fr
- * Categories: idocs-sections-fr
+ * Categories: idc-sections-fr
  */
 ?>
 <!-- wp:group {"metadata":{"categories":["idocs-sections-fr"],"name":"Frequently Asked Questions"},"align":"full","className":"is-style-white","layout":{"type":"constrained"}} -->

@@ -2,7 +2,7 @@
 /**
  * Title: Recent Posts (EN)
  * Slug: idc-block-theme/recent-posts-en
- * Categories: idocs-sections-en
+ * Categories: idc-template-parts
  */
 ?>
 <!-- wp:group {"tagName":"section","metadata":{"name":"Recent Posts","categories":["idocs-sections-en"]},"align":"full","className":"is-style-beige","style":{"spacing":{"padding":{"top":"var:preset|spacing|70","bottom":"var:preset|spacing|70"}}},"layout":{"type":"constrained"}} -->
