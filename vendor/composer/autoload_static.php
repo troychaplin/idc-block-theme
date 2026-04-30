@@ -24,6 +24,7 @@ class ComposerStaticInit54421d75c2c79028332951ea18376abd
         'Composer\\InstalledVersions' => __DIR__ . '/..' . '/composer/InstalledVersions.php',
         'IDOCS\\Block_Functions' => __DIR__ . '/../..' . '/classes/class-block-functions.php',
         'IDOCS\\Enqueues' => __DIR__ . '/../..' . '/classes/class-enqueues.php',
+        'IDOCS\\Language_Toggle_Block' => __DIR__ . '/../..' . '/classes/class-language-toggle-block.php',
         'IDOCS\\Register_Testimonials' => __DIR__ . '/../..' . '/classes/class-register-testimonials.php',
         'IDOCS\\Template_Part_Language_Filter' => __DIR__ . '/../..' . '/classes/class-template-part-language-filter.php',
         'PHPCSUtils\\AbstractSniffs\\AbstractArrayDeclarationSniff' => __DIR__ . '/..' . '/phpcsstandards/phpcsutils/PHPCSUtils/AbstractSniffs/AbstractArrayDeclarationSniff.php',

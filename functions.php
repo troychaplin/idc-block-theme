@@ -17,6 +17,7 @@ if ( file_exists( __DIR__ . '/vendor/autoload.php' ) ) {
 $idocs_modules = array(
 	new IDOCS\Enqueues(),
 	new IDOCS\Block_Functions(),
+	new IDOCS\Language_Toggle_Block(),
 );
 
 foreach ( $idocs_modules as $idocs_module ) {

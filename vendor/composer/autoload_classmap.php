@@ -9,6 +9,7 @@ return array(
     'Composer\\InstalledVersions' => $vendorDir . '/composer/InstalledVersions.php',
     'IDOCS\\Block_Functions' => $baseDir . '/classes/class-block-functions.php',
     'IDOCS\\Enqueues' => $baseDir . '/classes/class-enqueues.php',
+    'IDOCS\\Language_Toggle_Block' => $baseDir . '/classes/class-language-toggle-block.php',
     'IDOCS\\Register_Testimonials' => $baseDir . '/classes/class-register-testimonials.php',
     'IDOCS\\Template_Part_Language_Filter' => $baseDir . '/classes/class-template-part-language-filter.php',
     'PHPCSUtils\\AbstractSniffs\\AbstractArrayDeclarationSniff' => $vendorDir . '/phpcsstandards/phpcsutils/PHPCSUtils/AbstractSniffs/AbstractArrayDeclarationSniff.php',

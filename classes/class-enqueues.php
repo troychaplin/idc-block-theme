@@ -73,7 +73,7 @@ class Enqueues {
 
 		foreach ( glob( $blocks_dir . '/*.css' ) ?: array() as $file ) {
 			$filename   = basename( $file, '.css' );
-			$block_name = str_replace( '-', '/', $filename );
+			$block_name = implode( '/', explode( '-', $filename, 2 ) );
 			$version    = filemtime( $file );
 
 			wp_enqueue_block_style(
@@ -100,7 +100,7 @@ class Enqueues {
 			wp_enqueue_script(
 				'idocs-editor',
 				get_theme_file_uri( 'assets/js/editor.js' ),
-				array( 'wp-blocks', 'wp-dom-ready' ),
+				array( 'wp-blocks', 'wp-dom-ready', 'wp-element', 'wp-server-side-render' ),
 				$version,
 				true
 			);

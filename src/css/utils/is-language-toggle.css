@@ -1,0 +1,14 @@
+.is-language-toggle a {
+    display: block;
+    font-size: var(--wp--preset--font-size--small);
+    font-weight: 600;
+    color: var(--wp--preset--color--white);
+    background-color: var(--wp--preset--color--custom-white-10);
+    padding: var(--wp--preset--spacing--20) var(--wp--preset--spacing--40);
+    border-radius: var(--docs--radius-medium);
+    text-decoration: none;
+}
+
+.is-language-toggle a:hover {
+    background-color: var(--wp--preset--color--tertiary);
+}
