@@ -3,6 +3,7 @@
 @import './css/base.css';
 
 /* Template Parts */
+@import './css/parts/header.css';
 @import './css/parts/footer.css';
 
 /* Core Blocks */

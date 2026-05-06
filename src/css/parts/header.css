@@ -1,0 +1,42 @@
+@media (--below-bp-mobile) {
+    .wp-block-group.idc-site-header__section {
+        padding-bottom: var(--wp--preset--spacing--40)
+    }
+}
+
+.wp-block-group.idc-site-header__section {
+    padding-bottom: var(--wp--preset--spacing--30)
+}
+
+.wp-block-group.idc-site-header__logo .wp-block-site-logo {
+    width: 36px;
+    height: auto;
+}
+
+@media (--above-bp-mobile) {
+    .wp-block-group.idc-site-header__logo {
+        padding-top: 16px;
+        margin-bottom: -16px;
+    }
+
+    .wp-block-group.idc-site-header__logo .wp-block-site-logo {
+        width: 42px;
+    }
+}
+
+@media (--below-bp-mobile) {
+    .idc-site-header__small-print {
+        display: none;
+    }
+}
+
+@media (--above-bp-mobile) {
+    .idc-site-header__small-print a {
+        text-decoration: none;
+        font-weight: 700;
+
+        &:hover {
+            text-decoration: underline;
+        }
+    }
+}
