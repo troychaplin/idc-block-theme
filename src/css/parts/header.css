@@ -1,42 +1,83 @@
-@media (--below-bp-mobile) {
+.wp-block-group.idc-site-header__section {
+    padding-bottom: var(--wp--preset--spacing--40)
+}
+
+@media (--above-bp-mobile) {
     .wp-block-group.idc-site-header__section {
         padding-bottom: var(--wp--preset--spacing--40)
     }
 }
 
-.wp-block-group.idc-site-header__section {
-    padding-bottom: var(--wp--preset--spacing--30)
-}
-
-.wp-block-group.idc-site-header__logo .wp-block-site-logo {
-    width: 36px;
-    height: auto;
+.wp-block-group.idc-site-header__logo .idc-site-logo img {
+    width: auto;
+    height: 42px;
+    display: block;
+    border-radius: 0;
 }
 
 @media (--above-bp-mobile) {
     .wp-block-group.idc-site-header__logo {
+        gap: var(--wp--preset--spacing--30);
         padding-top: 16px;
         margin-bottom: -16px;
     }
 
-    .wp-block-group.idc-site-header__logo .wp-block-site-logo {
-        width: 42px;
+    .wp-block-group.idc-site-header__logo .idc-site-logo img {
+        height: 52px;
     }
 }
 
-@media (--below-bp-mobile) {
-    .idc-site-header__small-print {
-        display: none;
+.idc-site-title {
+    flex-basis: 100px;
+    font-size: 0.725rem;
+    line-height: 1.2;
+    padding: 0;
+
+    a {
+        color: var(--wp--preset--color--white);
+
+        &:hover {
+            color: var(--wp--preset--color--primary-pale);
+        }
     }
 }
 
 @media (--above-bp-mobile) {
-    .idc-site-header__small-print a {
-        text-decoration: none;
-        font-weight: 700;
+    .idc-site-title {
+        font-size: 0.825rem;
+    }
+}
 
-        &:hover {
-            text-decoration: underline;
+.idc-site-header__nav {
+    gap: var(--wp--preset--spacing--50);
+    flex-grow: 1;
+}
+
+.idc-site-header__small-print {
+    display: none;
+}
+
+@media (--above-bp-mobile) {
+    .idc-site-header__small-print {
+        display: block;
+        background: var(--wp--preset--gradient--custom-blue-to-beige);
+        padding-top: var(--wp--preset--spacing--20);
+        padding-bottom: var(--wp--preset--spacing--20);
+
+        p {
+            font-size: 0.75rem;
+            color: var(--wp--preset--color--white);
+            
+            a {
+                font-weight: 700;
+                color: var(--wp--preset--color--white);
+                text-decoration: none;
+    
+                &:hover {
+                    text-decoration: underline;
+                }
+            }
         }
+
     }
 }
