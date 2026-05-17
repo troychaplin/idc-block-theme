@@ -1,0 +1,36 @@
+/**
+ * Gravity Forms — IDC theme overrides for the Orbital theme.
+ *
+ * Orbital exposes design tokens as --gf-* CSS custom properties. We override
+ * those (rather than direct rules) so the cascade through GF's framework
+ * stays intact. The .gform_wrapper.gform-theme--orbital double-class beats
+ * the .gform-theme inline <style> block GF emits per form.
+ *
+ * {"theme":"orbital","inputSize":"sm","inputBorderRadius":"4","inputBorderColor":"#DCD6CC","inputBackgroundColor":"#fff","inputColor":"#191919","inputPrimaryColor":"#b3472d","inputImageChoiceAppearance":"card","inputImageChoiceStyle":"square","inputImageChoiceSize":"md","labelFontSize":"12","labelColor":"#112337","descriptionFontSize":"12","descriptionColor":"#585e6a","buttonPrimaryBackgroundColor":"#2862A1","buttonPrimaryColor":"#fff"}
+ */
+
+.gform_wrapper.gform-theme--orbital {
+    /* Inputs */
+    --gf-ctrl-radius: var(--docs--radius-medium);
+    --gf-ctrl-border-color: var(--wp--preset--color--secondary-light);
+    --gf-ctrl-bg-color: var(--wp--preset--color--white);
+    --gf-ctrl-color: var(--wp--preset--color--black);
+    --gf-ctrl-border-color-focus: var(--wp--preset--color--tertiary);
+
+    /* Labels */
+    --gf-ctrl-label-color-primary: var(--wp--preset--color--primary);
+    --gf-font-size-secondary: 12px;
+
+    /* Description text */
+    --gf-font-size-tertiary: 12px;
+
+    /* Primary button */
+    --gf-ctrl-btn-bg-color-primary: var(--wp--preset--color--primary-light);
+    --gf-ctrl-btn-bg-color-hover-primary: var(--wp--preset--color--primary);
+    --gf-ctrl-btn-color-primary: var(--wp--preset--color--white);
+    --gf-ctrl-btn-border-color-primary: var(--wp--preset--color--primary-light);
+    --gf-ctrl-btn-border-color-hover-primary: var(--wp--preset--color--primary);
+
+    /* Brand accent (radio/checkbox checked, focus rings, etc.) */
+    --gf-color-primary: var(--wp--preset--color--tertiary);
+}
