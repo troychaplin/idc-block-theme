@@ -12,7 +12,6 @@ return array(
     'IDOCS\\Gravityforms' => $baseDir . '/classes/class-gravityforms.php',
     'IDOCS\\Language_Toggle_Block' => $baseDir . '/classes/class-language-toggle-block.php',
     'IDOCS\\Register_Testimonials' => $baseDir . '/classes/class-register-testimonials.php',
-    'IDOCS\\Template_Part_Language_Filter' => $baseDir . '/classes/class-template-part-language-filter.php',
     'PHPCSUtils\\AbstractSniffs\\AbstractArrayDeclarationSniff' => $vendorDir . '/phpcsstandards/phpcsutils/PHPCSUtils/AbstractSniffs/AbstractArrayDeclarationSniff.php',
     'PHPCSUtils\\BackCompat\\BCFile' => $vendorDir . '/phpcsstandards/phpcsutils/PHPCSUtils/BackCompat/BCFile.php',
     'PHPCSUtils\\BackCompat\\BCTokens' => $vendorDir . '/phpcsstandards/phpcsutils/PHPCSUtils/BackCompat/BCTokens.php',
