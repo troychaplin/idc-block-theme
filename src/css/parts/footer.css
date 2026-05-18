@@ -26,10 +26,14 @@
     line-height: 1.5;
 }
 
-.idc-footer__details p a,
-.idc-footer__details li a {
+.idc-footer__details p a {
     text-decoration: none;
     font-weight: 700;
+}
+
+.idc-footer__details li a {
+    text-decoration: none;
+    font-weight: 400;
 }
 
 .idc-footer__details p a:hover,

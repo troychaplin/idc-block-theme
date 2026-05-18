@@ -5,7 +5,6 @@
  * Categories: idc-template-parts
  */
 ?>
-
 <!-- wp:group {"tagName":"footer","metadata":{"name":"Footer","categories":["idocs-footers"],"patternName":"idc-block-theme/footer-fr"},"className":"idc-footer","style":{"position":{"type":""},"border":{"top":{"color":"var:preset|color|primary-dark","width":"5px"},"bottom":{"color":"var:preset|color|white-10","width":"1px"}},"spacing":{"padding":{"top":"var:preset|spacing|70","bottom":"var:preset|spacing|70"},"blockGap":"var:preset|spacing|70"}},"backgroundColor":"black","layout":{"type":"constrained"},"anchor":"site-footer"} -->
 <footer id="site-footer" class="wp-block-group idc-footer has-black-background-color has-background" style="border-top-color:var(--wp--preset--color--primary-dark);border-top-width:5px;border-bottom-color:var(--wp--preset--color--white-10);border-bottom-width:1px;padding-top:var(--wp--preset--spacing--70);padding-bottom:var(--wp--preset--spacing--70)"><!-- wp:group {"tagName":"section","metadata":{"name":"Free Consultation"},"align":"full","className":"idc-footer__consultation","style":{"spacing":{"padding":{"top":"var:preset|spacing|lg","bottom":"var:preset|spacing|70"}},"border":{"top":{"color":"var:preset|color|white-10"},"bottom":{"color":"#ffffff1a","width":"1px"},"right":[],"left":[]}},"layout":{"type":"constrained"}} -->
 <section class="wp-block-group alignfull idc-footer__consultation" style="border-top-color:var(--wp--preset--color--white-10);border-bottom-color:#ffffff1a;border-bottom-width:1px;padding-top:var(--wp--preset--spacing--lg);padding-bottom:var(--wp--preset--spacing--70)"><!-- wp:group {"layout":{"type":"constrained"}} -->
@@ -53,19 +52,19 @@
 <div class="wp-block-group"><!-- wp:group {"style":{"layout":{"selfStretch":"fill","flexSize":null}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:list {"style":{"elements":{"link":{"color":{"text":"var:preset|color|grey"},":hover":{"color":{"text":"var:preset|color|white"}}}}},"textColor":"grey"} -->
 <ul class="wp-block-list has-grey-color has-text-color has-link-color"><!-- wp:list-item -->
-<li>Canadian Document Apostille</li>
+<li><a href="https://idc.local/nos-services/apostille-de-documents/apostille-de-documents-canadiens/?lang=fr" data-type="page" data-id="35307">Apostille de documents canadiens</a></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Document Authentication and Legalization</li>
+<li><a href="https://idc.local/nos-services/authentification-et-legalisation-de-documents/?lang=fr">Authentification et légalisation de documents</a></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Document Procurement</li>
+<li><a href="https://idc.local/nos-services/obtenir-documents/?lang=fr">Obtention de documents</a></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>E-Apostille Process</li>
+<li><a href="https://idc.local/nos-services/apostille-de-documents/processus-de-apostille/?lang=fr">Processus d'apostille électronique</a></li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list --></div>
 <!-- /wp:group -->
@@ -73,23 +72,23 @@
 <!-- wp:group {"style":{"layout":{"selfStretch":"fill","flexSize":null}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:list {"style":{"elements":{"link":{"color":{"text":"var:preset|color|grey"},":hover":{"color":{"text":"var:preset|color|white"}}}}},"textColor":"grey"} -->
 <ul class="wp-block-list has-grey-color has-text-color has-link-color"><!-- wp:list-item -->
-<li>RCMP Check Applications</li>
+<li><a href="https://idc.local/nos-services/demandes-de-verification-aupres-de-la-grc/?lang=fr">Demandes de vérification de la GRC</a></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Translation Services</li>
+<li><a href="https://idc.local/nos-services/services-de-traduction/?lang=fr">Services de traduction</a></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Notary Services</li>
+<li><a href="https://idc.local/nos-services/services-de-notariat/?lang=fr">Service notarial</a></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>UK Document Apostille</li>
+<li><a href="https://idc.local/nos-services/apostille-de-documents/apostille-de-documents-du-royaume-uni/?lang=fr">Apostille de documents du Royaume-Uni</a></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>US Document Apostille</li>
+<li><a href="https://idc.local/nos-services/apostille-de-documents/apostille-de-documents-des-etats-unis/?lang=fr">Apostille de documents des États-Unis</a></li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list --></div>
 <!-- /wp:group --></div>
@@ -103,23 +102,23 @@
 
 <!-- wp:list {"style":{"elements":{"link":{"color":{"text":"var:preset|color|grey"},":hover":{"color":{"text":"var:preset|color|white"}}}}},"textColor":"grey"} -->
 <ul class="wp-block-list has-grey-color has-text-color has-link-color"><!-- wp:list-item -->
-<li>Common Document Types</li>
+<li><a href="https://idc.local/documents/?lang=fr">Types de documents courants</a></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Frequently Asked Questions</li>
+<li><a href="https://idc.local/informations-services-apostille-canada/foire-aux-questions/?lang=fr">Foire aux questions</a></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>In-Depth Articles</li>
+<li><a href="https://idc.local/informations-services-apostille-canada/articles-apostille-processus-canada/?lang=fr">Articles détaillés</a></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Submit a Workform</li>
+<li><a href="https://idc.local/formulaire/?lang=fr">Soumettre un formulaire</a></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Additional Resources</li>
+<li><a href="https://idc.local/informations-services-apostille-canada/?lang=fr">Ressources supplémentaires</a></li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list --></div>
 <!-- /wp:group --></section>
