@@ -3,7 +3,6 @@
  * Title: Heading: Left
  * Slug: idc-block-theme/heading-left
  * Categories: idc-headings
- * Inserter: no
  */
 ?>
 <!-- wp:group {"tagName":"header","metadata":{"name":"Heading: Left"},"align":"wide","style":{"spacing":{"margin":{"bottom":"var:preset|spacing|50"}}},"layout":{"type":"constrained","justifyContent":"left"}} -->

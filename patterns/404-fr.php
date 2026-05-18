@@ -3,6 +3,7 @@
  * Title: 404 (FR)
  * Slug: idc-block-theme/404-fr
  * Categories: idc-template-parts
+ * Inserter: no
  */
 ?>
 <!-- wp:group {"tagName":"main","metadata":{"name":"Main"},"align":"full","layout":{"type":"constrained"}} -->

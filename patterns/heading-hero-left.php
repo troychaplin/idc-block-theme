@@ -3,7 +3,6 @@
  * Title: Heading: Hero Left
  * Slug: idc-block-theme/heading-hero-left
  * Categories: idc-headings
- * Inserter: no
  */
 ?>
 <!-- wp:group {"tagName":"header","metadata":{"name":"Heading: Hero Left"},"align":"wide","style":{"spacing":{"margin":{"bottom":"var:preset|spacing|50"}}},"layout":{"type":"constrained","justifyContent":"left"}} -->

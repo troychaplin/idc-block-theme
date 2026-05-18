@@ -3,7 +3,6 @@
  * Title: Heading: Left White
  * Slug: idc-block-theme/heading-left-white
  * Categories: idc-headings
- * Inserter: no
  */
 ?>
 <!-- wp:group {"tagName":"header","metadata":{"name":"Heading: Left White"},"align":"wide","style":{"spacing":{"margin":{"bottom":"var:preset|spacing|50"}}},"layout":{"type":"constrained","justifyContent":"left"}} -->

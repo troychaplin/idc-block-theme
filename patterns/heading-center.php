@@ -3,7 +3,6 @@
  * Title: Heading: Center
  * Slug: idc-block-theme/heading-center
  * Categories: idc-headings
- * Inserter: no
  */
 ?>
 <!-- wp:group {"tagName":"header","metadata":{"name":"Heading: Center","categories":["idocs-headings"],"patternName":"idc-block-theme/heading-center"},"align":"wide","layout":{"type":"constrained"}} -->

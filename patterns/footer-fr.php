@@ -3,6 +3,7 @@
  * Title: Footer (FR)
  * Slug: idc-block-theme/footer-fr
  * Categories: idc-template-parts
+ * Inserter: no
  */
 ?>
 <!-- wp:group {"tagName":"footer","metadata":{"name":"Footer","categories":["idocs-footers"],"patternName":"idc-block-theme/footer-fr"},"className":"idc-footer","style":{"position":{"type":""},"border":{"top":{"color":"var:preset|color|primary-dark","width":"5px"},"bottom":{"color":"var:preset|color|white-10","width":"1px"}},"spacing":{"padding":{"top":"var:preset|spacing|70","bottom":"var:preset|spacing|70"},"blockGap":"var:preset|spacing|70"}},"backgroundColor":"black","layout":{"type":"constrained"},"anchor":"site-footer"} -->

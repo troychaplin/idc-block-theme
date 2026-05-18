@@ -3,6 +3,7 @@
  * Title: Post Banner (EN)
  * Slug: idc-block-theme/post-banner-en
  * Categories: idc-template-parts
+ * Inserter: no
  */
 ?>
 <!-- wp:group {"metadata":{"name":"Banner with Image"},"className":"is-style-default","backgroundColor":"primary","layout":{"type":"constrained","contentSize":"1280px"}} -->

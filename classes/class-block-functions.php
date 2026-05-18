@@ -57,12 +57,8 @@ class Block_Functions {
             array( 'label' => __( 'IDC Sections (FR)', 'idc-block-theme' ) )
         );
         register_block_pattern_category(
-            'idc-headings-en',
-            array( 'label' => __( 'IDC Headings (EN)', 'idc-block-theme' ) )
-        );
-        register_block_pattern_category(
-            'idc-headings-fr',
-            array( 'label' => __( 'IDC Headings (FR)', 'idc-block-theme' ) )
+            'idc-headings',
+            array( 'label' => __( 'IDC Headings', 'idc-block-theme' ) )
         );
 		register_block_pattern_category(
             'idc-layouts-en',

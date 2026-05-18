@@ -3,6 +3,7 @@
  * Title: Header (EN)
  * Slug: idc-block-theme/header-en
  * Categories: idc-template-parts
+ * Inserter: no
  */
 ?>
 

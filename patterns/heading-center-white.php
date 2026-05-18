@@ -3,7 +3,6 @@
  * Title: Heading: Center White
  * Slug: idc-block-theme/heading-center-white
  * Categories: idc-headings
- * Inserter: no
  */
 ?>
 <!-- wp:group {"tagName":"header","metadata":{"name":"Heading: Center White","categories":["idocs-headings"]},"align":"wide","layout":{"type":"constrained"}} -->
