@@ -34,7 +34,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">De la notarisation professionnelle à la traduction certifiée, nous prenons en charge chaque détail administratif de l'ensemble du cycle d'apostille et du processus de légalisation, afin que vous n'ayez pas à vous en soucier. <a href="#">Consultez nos services</a></p>
+<p class="has-small-font-size">De la notarisation professionnelle à la traduction certifiée, nous prenons en charge chaque détail administratif de l'ensemble du cycle d'apostille et du processus de légalisation, afin que vous n'ayez pas à vous en soucier. <a href="https://idc.local/nos-services/?lang=fr" type="page" id="35098">Voir nos services</a></p>
 <!-- /wp:paragraph --></article>
 <!-- /wp:group -->
 
@@ -44,7 +44,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">Qu'il s'agisse d'étapes importantes de votre vie personnelle ou de l'expansion de votre entreprise, nous veillons à ce que vos documents canadiens respectent les normes strictes de conformité internationale. <a href="#">Voir les documents courants</a></p>
+<p class="has-small-font-size">Qu'il s'agisse d'étapes importantes de votre vie personnelle ou de l'expansion de votre entreprise, nous veillons à ce que vos documents canadiens respectent les normes strictes de conformité internationale. <a href="https://idc.local/nos-services/?lang=fr" type="page" id="35098">View common documents</a></p>
 <!-- /wp:paragraph --></article>
 <!-- /wp:group -->
 
@@ -54,7 +54,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">Nous privilégions la clarté à la complexité. Nos frais sont établis selon votre destination et vos délais — aucuns frais cachés, aucune surprise. <a href="#">Voir nos tarifs</a></p>
+<p class="has-small-font-size">Nous privilégions la clarté à la complexité. Nos frais sont établis selon votre destination et vos délais — aucuns frais cachés, aucune surprise. <a href="https://idc.local/contactez-nous/?lang=fr" type="page" id="35189">Réserver une consultation gratuite</a></p>
 <!-- /wp:paragraph --></article>
 <!-- /wp:group --></div>
 <!-- /wp:group --></div>

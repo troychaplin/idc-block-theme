@@ -37,7 +37,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a href="http://localhost:8894/patterns/" data-type="page" data-id="11">Add a link</a></p>
+<p><a href="https://idc.local/nos-services/apostille-de-documents/apostille-de-documents-canadiens/preparation-des-documents-pour-lapostille/?lang=fr" type="page" id="35317">Préparez vos documents</a></p>
 <!-- /wp:paragraph --></article>
 <!-- /wp:group -->
 
@@ -57,7 +57,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a href="http://localhost:8894/" data-type="page" data-id="2">Add a link</a></p>
+<p><a href="https://idc.local/nos-services/authentification-et-legalisation-de-documents/authentification-de-documents/?lang=fr" type="page" id="35330">Obtenir une apostille</a></p>
 <!-- /wp:paragraph --></article>
 <!-- /wp:group -->
 
@@ -77,7 +77,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a href="http://localhost:8894/gform-test/" data-type="page" data-id="119">Add a link</a></p>
+<p><a href="https://idc.local/nos-services/authentification-et-legalisation-de-documents/legalisation-de-documents/?lang=fr" type="page" id="35331">Obtenir la reconnaissance officielle</a></p>
 <!-- /wp:paragraph --></article>
 <!-- /wp:group --></div>
 <!-- /wp:group --></section>

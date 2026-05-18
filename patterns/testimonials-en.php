@@ -23,16 +23,32 @@
 <!-- wp:group {"metadata":{"name":"Card Grid: Testimonials"},"align":"wide","className":"is-testimonial-grid","style":{"spacing":{"blockGap":"0"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
 <div class="wp-block-group alignwide is-testimonial-grid"><!-- wp:group {"tagName":"article","metadata":{"name":"Card Item"},"className":"is-card is-card\u002d\u002dtestimonial","layout":{"type":"constrained"}} -->
 <article class="wp-block-group is-card is-card--testimonial"><!-- wp:paragraph -->
-<p>I was pleased to find that the processing time was quite short. The documents were all processed and returned quickly and correctly. As well, a representative replied to each of my questions in a reasonable time frame. I would use this service again. You get what you pay for here.</p>
+<p>Service was responsive, fast and affordable. I live in Vancouver and some places charge 4x more than idocs did. My biggest reservation was sending original documents across the country but I got them back safe and in good condition.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:group {"align":"full","className":"is-card__footer","layout":{"type":"flex","flexWrap":"nowrap"}} -->
-<div class="wp-block-group alignfull is-card__footer"><!-- wp:image {"aspectRatio":"1","scale":"cover","sizeSlug":"large","linkDestination":"none","className":"is-style-rounded","style":{"layout":{"selfStretch":"fixed","flexSize":"60px"},"border":{"width":"1px"}},"borderColor":"grey-light"} -->
-<figure class="wp-block-image size-large has-custom-border is-style-rounded"><img src="/wp-content/themes/idc-block-theme/assets/images/testimonial-placeholder.jpg" alt="" class="has-border-color has-grey-light-border-color" style="border-width:1px;aspect-ratio:1;object-fit:cover"/></figure>
+<div class="wp-block-group alignfull is-card__footer"><!-- wp:image {"id":15038,"aspectRatio":"1","scale":"cover","sizeSlug":"thumbnail","linkDestination":"none","className":"is-style-rounded","style":{"layout":{"selfStretch":"fixed","flexSize":"60px"},"border":{"width":"1px"}},"borderColor":"grey-light"} -->
+<figure class="wp-block-image size-thumbnail has-custom-border is-style-rounded"><img src="https://idc.local/wp-content/uploads/Raymond-Cheung-GC-1780P-512x384.jpg" alt="Raymond C." class="has-border-color has-grey-light-border-color wp-image-15038" style="border-width:1px;aspect-ratio:1;object-fit:cover"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"style":{"typography":{"fontStyle":"italic","fontWeight":"400"}}} -->
-<p style="font-style:italic;font-weight:400">Persons Name</p>
+<p style="font-style:italic;font-weight:400">Raymond C.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></article>
+<!-- /wp:group -->
+
+<!-- wp:group {"tagName":"article","metadata":{"name":"Card Item"},"className":"is-card is-card\u002d\u002dtestimonial","layout":{"type":"constrained"}} -->
+<article class="wp-block-group is-card is-card--testimonial"><!-- wp:paragraph -->
+<p>I am lucky I found International Documents Canada to process my documents for attestation. I am thankful to your quick and timely service. You properly responded my queries with no delay. I am in Saudi Arabia and i didn't know what to do, but you solved my problem in a very little span of time. Thank you so much for your services.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"align":"full","className":"is-card__footer","layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group alignfull is-card__footer"><!-- wp:image {"id":15117,"aspectRatio":"1","scale":"cover","sizeSlug":"full","linkDestination":"none","className":"is-style-rounded","style":{"layout":{"selfStretch":"fixed","flexSize":"60px"},"border":{"width":"1px"}},"borderColor":"grey-light"} -->
+<figure class="wp-block-image size-full has-custom-border is-style-rounded"><img src="https://idc.local/wp-content/uploads/Muhammad-GB-1351.jpg" alt="Muhammad" class="has-border-color has-grey-light-border-color wp-image-15117" style="border-width:1px;aspect-ratio:1;object-fit:cover"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontStyle":"italic","fontWeight":"400"}}} -->
+<p style="font-style:italic;font-weight:400">Muhammad Khan</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></article>
 <!-- /wp:group -->
@@ -43,28 +59,12 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:group {"align":"full","className":"is-card__footer","layout":{"type":"flex","flexWrap":"nowrap"}} -->
-<div class="wp-block-group alignfull is-card__footer"><!-- wp:image {"aspectRatio":"1","scale":"cover","sizeSlug":"large","linkDestination":"none","className":"is-style-rounded","style":{"layout":{"selfStretch":"fixed","flexSize":"60px"},"border":{"width":"1px"}},"borderColor":"grey-light"} -->
-<figure class="wp-block-image size-large has-custom-border is-style-rounded"><img src="/wp-content/themes/idc-block-theme/assets/images/testimonial-placeholder.jpg" alt="" class="has-border-color has-grey-light-border-color" style="border-width:1px;aspect-ratio:1;object-fit:cover"/></figure>
+<div class="wp-block-group alignfull is-card__footer"><!-- wp:image {"id":11190,"aspectRatio":"1","scale":"cover","sizeSlug":"full","linkDestination":"none","className":"is-style-rounded","style":{"layout":{"selfStretch":"fixed","flexSize":"60px"},"border":{"width":"1px"}},"borderColor":"grey-light"} -->
+<figure class="wp-block-image size-full has-custom-border is-style-rounded"><img src="https://idc.local/wp-content/uploads/venus-l.jpg" alt="Venus L." class="has-border-color has-grey-light-border-color wp-image-11190" style="border-width:1px;aspect-ratio:1;object-fit:cover"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"style":{"typography":{"fontStyle":"italic","fontWeight":"400"}}} -->
-<p style="font-style:italic;font-weight:400">Persons Name</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group --></article>
-<!-- /wp:group -->
-
-<!-- wp:group {"tagName":"article","metadata":{"name":"Card Item"},"className":"is-card is-card\u002d\u002dtestimonial","layout":{"type":"constrained"}} -->
-<article class="wp-block-group is-card is-card--testimonial"><!-- wp:paragraph -->
-<p>I was pleased to find that the processing time was quite short. The documents were all processed and returned quickly and correctly. As well, a representative replied to each of my questions in a reasonable time frame. I would use this service again. You get what you pay for here.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:group {"align":"full","className":"is-card__footer","layout":{"type":"flex","flexWrap":"nowrap"}} -->
-<div class="wp-block-group alignfull is-card__footer"><!-- wp:image {"aspectRatio":"1","scale":"cover","sizeSlug":"large","linkDestination":"none","className":"is-style-rounded","style":{"layout":{"selfStretch":"fixed","flexSize":"60px"},"border":{"width":"1px"}},"borderColor":"grey-light"} -->
-<figure class="wp-block-image size-large has-custom-border is-style-rounded"><img src="/wp-content/themes/idc-block-theme/assets/images/testimonial-placeholder.jpg" alt="" class="has-border-color has-grey-light-border-color" style="border-width:1px;aspect-ratio:1;object-fit:cover"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:paragraph {"style":{"typography":{"fontStyle":"italic","fontWeight":"400"}}} -->
-<p style="font-style:italic;font-weight:400">Persons Name</p>
+<p style="font-style:italic;font-weight:400">Venus L.</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></article>
 <!-- /wp:group --></div>

@@ -29,7 +29,7 @@
 
 <!-- wp:group {"className":"is-article__date","style":{"spacing":{"blockGap":"0.3rem"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
 <div class="wp-block-group is-article__date"><!-- wp:paragraph -->
-<p>Published on</p>
+<p>Publié le</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:post-date {"metadata":{"bindings":{"datetime":{"source":"core/post-data","args":{"field":"date"}}}}} /--></div>
@@ -37,7 +37,7 @@
 
 <!-- wp:group {"className":"is-article__read","style":{"spacing":{"blockGap":"0.3rem"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
 <div class="wp-block-group is-article__read"><!-- wp:paragraph -->
-<p>Time to read:</p>
+<p>Temps de lecture:</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:post-time-to-read /--></div>
@@ -56,7 +56,7 @@
 
 <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
 <div class="wp-block-buttons"><!-- wp:button -->
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="/resources/articles/">Voir plus d'articles</a></div>
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://idc.local/informations-services-apostille-canada/articles-apostille-processus-canada/?lang=fr">Voir plus d'articles</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></section>
 <!-- /wp:group -->

@@ -17,7 +17,9 @@ if ( file_exists( __DIR__ . '/vendor/autoload.php' ) ) {
 $idocs_modules = array(
 	new IDOCS\Enqueues(),
 	new IDOCS\Block_Functions(),
+	// new IDOCS\Gravityforms(),
 	new IDOCS\Language_Toggle_Block(),
+	new IDOCS\Register_Page_Type(),
 );
 
 foreach ( $idocs_modules as $idocs_module ) {
