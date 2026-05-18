@@ -37,7 +37,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a data-type="page" data-id="11" href="http://localhost:8894/patterns/"><a href="https://idc.local/our-apostille-services/document-apostille/canadian-document-apostille/preparing-documents-for-apostille/" type="page" id="34548">Prepare your documents</a></a></p>
+<p><a href="https://idc.local/our-apostille-services/document-apostille/canadian-document-apostille/preparing-documents-for-apostille/" type="page" id="34548">Prepare your documents</a></p>
 <!-- /wp:paragraph --></article>
 <!-- /wp:group -->
 
@@ -57,7 +57,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a data-type="page" data-id="2" href="http://localhost:8894/"><a href="https://idc.local/our-apostille-services/document-authentication-legalization/document-authentication/" type="page" id="34551">Obtain an apostille</a></a></p>
+<p><a href="https://idc.local/our-apostille-services/document-authentication-legalization/document-authentication/" type="page" id="34551">Obtain an apostille</a></p>
 <!-- /wp:paragraph --></article>
 <!-- /wp:group -->
 

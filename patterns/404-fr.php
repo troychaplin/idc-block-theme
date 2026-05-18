@@ -6,12 +6,12 @@
  */
 ?>
 <!-- wp:group {"tagName":"main","metadata":{"name":"Main"},"align":"full","layout":{"type":"constrained"}} -->
-<main class="wp-block-group alignfull"><!-- wp:group {"tagName":"section","metadata":{"name":"Hero Homepage","categories":["idocs-sections-fr"],"patternName":"idc-block-theme/hero-homepage-fr"},"align":"full","className":"is-style-hero-blue is-hero is-hero\u002d\u002dhomepage","layout":{"type":"constrained"}} -->
+<main class="wp-block-group alignfull"><!-- wp:group {"tagName":"section","metadata":{"name":"Hero Homepage","categories":["idc-sections-fr"],"patternName":"idc-block-theme/hero-homepage-fr"},"align":"full","className":"is-style-hero-blue is-hero is-hero\u002d\u002dhomepage","layout":{"type":"constrained"}} -->
 <section class="wp-block-group alignfull is-style-hero-blue is-hero is-hero--homepage"><!-- wp:group {"metadata":{"name":"Columns"},"align":"wide","className":"is-hero__columns","layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignwide is-hero__columns"><!-- wp:group {"tagName":"article","metadata":{"name":"Content Column"},"align":"full","className":"is-hero__content","style":{"spacing":{"blockGap":"var:preset|spacing|40"}},"fontSize":"medium","layout":{"type":"constrained"}} -->
 <article class="wp-block-group alignfull is-hero__content has-medium-font-size"><!-- wp:group {"tagName":"header","metadata":{"name":"Hero Heading"},"align":"wide","style":{"spacing":{"margin":{"bottom":"var:preset|spacing|50"}}},"layout":{"type":"constrained","justifyContent":"left"}} -->
 <header class="wp-block-group alignwide" style="margin-bottom:var(--wp--preset--spacing--50)"><!-- wp:paragraph {"className":"has-thin-lines has-thin-lines\u002d\u002dblue has-thin-lines\u002d\u002dright","style":{"typography":{"textAlign":"left"}}} -->
-<p class="has-text-align-left has-thin-lines has-thin-lines--blue has-thin-lines--right"><strong>Erreure 404</strong></p>
+<p class="has-text-align-left has-thin-lines has-thin-lines--blue has-thin-lines--right">Erreure 404</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":1,"className":"has-gray-400-color has-text-color has-link-color","style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}},"typography":{"fontStyle":"normal","fontWeight":"400","textAlign":"left"}},"textColor":"white","fontSize":"heading-hero"} -->
@@ -29,92 +29,12 @@
 <!-- /wp:group -->
 
 <!-- wp:group {"tagName":"aside","metadata":{"name":"Form Column"},"align":"full","className":"is-hero__form","layout":{"type":"constrained"}} -->
-<aside class="wp-block-group alignfull is-hero__form"><!-- wp:group {"metadata":{"name":"Form"},"style":{"spacing":{"blockGap":"var:preset|spacing|40"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:heading {"className":"has-gray-400-color has-text-color has-link-color","style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}},"typography":{"fontStyle":"normal","fontWeight":"400","textAlign":"left"},"spacing":{"margin":{"bottom":"var:preset|spacing|30"}}},"textColor":"primary","fontSize":"heading-medium"} -->
-<h2 class="wp-block-heading has-text-align-left has-gray-400-color has-text-color has-link-color has-primary-color has-heading-medium-font-size" style="margin-bottom:var(--wp--preset--spacing--30);font-style:normal;font-weight:400">Votre soumission gratuite</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.5"}},"fontSize":"small"} -->
-<p class="has-small-font-size" style="line-height:1.5">Parlez-nous de vos documents et nous vous fournirons une estimation détaillée dans un délai de 2 jours ouvrables.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:group {"align":"full","style":{"spacing":{"blockGap":"var:preset|spacing|40","margin":{"bottom":"var:preset|spacing|40"}}},"layout":{"type":"grid","columnCount":2}} -->
-<div class="wp-block-group alignfull" style="margin-bottom:var(--wp--preset--spacing--40)"><!-- wp:group {"metadata":{"name":"Field"},"align":"full","layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignfull"><!-- wp:paragraph {"metadata":{"name":"Label"},"align":"full","style":{"spacing":{"padding":{"right":"var:preset|spacing|20","left":"var:preset|spacing|20"}},"typography":{"fontSize":"0.75rem","fontStyle":"normal","fontWeight":"600"},"elements":{"link":{"color":{"text":"var:preset|color|primary-light"}}}},"textColor":"primary-light"} -->
-<p class="alignfull has-primary-light-color has-text-color has-link-color" style="padding-right:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--20);font-size:0.75rem;font-style:normal;font-weight:600">Field Label</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:group {"metadata":{"name":"Input"},"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|30","left":"var:preset|spacing|40","right":"var:preset|spacing|40"}},"border":{"radius":{"topLeft":"7px","topRight":"7px","bottomLeft":"7px","bottomRight":"7px"},"width":"1px"}},"backgroundColor":"white","borderColor":"secondary","layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignfull has-border-color has-secondary-border-color has-white-background-color has-background" style="border-width:1px;border-top-left-radius:7px;border-top-right-radius:7px;border-bottom-left-radius:7px;border-bottom-right-radius:7px;padding-top:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--40)"><!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|grey-dark"}}},"typography":{"fontSize":"0.75rem","fontStyle":"italic","fontWeight":"300"}},"textColor":"grey-dark"} -->
-<p class="has-grey-dark-color has-text-color has-link-color" style="font-size:0.75rem;font-style:italic;font-weight:300">Placeholder</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group -->
-
-<!-- wp:group {"metadata":{"name":"Field"},"align":"full","layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignfull"><!-- wp:paragraph {"metadata":{"name":"Label"},"align":"full","style":{"spacing":{"padding":{"right":"var:preset|spacing|20","left":"var:preset|spacing|20"}},"typography":{"fontSize":"0.75rem","fontStyle":"normal","fontWeight":"600"},"elements":{"link":{"color":{"text":"var:preset|color|primary-light"}}}},"textColor":"primary-light"} -->
-<p class="alignfull has-primary-light-color has-text-color has-link-color" style="padding-right:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--20);font-size:0.75rem;font-style:normal;font-weight:600">Field Label</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:group {"metadata":{"name":"Input"},"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|30","left":"var:preset|spacing|40","right":"var:preset|spacing|40"}},"border":{"radius":{"topLeft":"7px","topRight":"7px","bottomLeft":"7px","bottomRight":"7px"},"width":"1px"}},"backgroundColor":"white","borderColor":"secondary","layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignfull has-border-color has-secondary-border-color has-white-background-color has-background" style="border-width:1px;border-top-left-radius:7px;border-top-right-radius:7px;border-bottom-left-radius:7px;border-bottom-right-radius:7px;padding-top:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--40)"><!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|grey-dark"}}},"typography":{"fontSize":"0.75rem","fontStyle":"italic","fontWeight":"300"}},"textColor":"grey-dark"} -->
-<p class="has-grey-dark-color has-text-color has-link-color" style="font-size:0.75rem;font-style:italic;font-weight:300">Placeholder</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group -->
-
-<!-- wp:group {"align":"full","style":{"spacing":{"blockGap":"var:preset|spacing|40","margin":{"bottom":"var:preset|spacing|40"}}},"layout":{"type":"grid","columnCount":2}} -->
-<div class="wp-block-group alignfull" style="margin-bottom:var(--wp--preset--spacing--40)"><!-- wp:group {"metadata":{"name":"Field"},"align":"full","layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignfull"><!-- wp:paragraph {"metadata":{"name":"Label"},"align":"full","style":{"spacing":{"padding":{"right":"var:preset|spacing|20","left":"var:preset|spacing|20"}},"typography":{"fontSize":"0.75rem","fontStyle":"normal","fontWeight":"600"},"elements":{"link":{"color":{"text":"var:preset|color|primary-light"}}}},"textColor":"primary-light"} -->
-<p class="alignfull has-primary-light-color has-text-color has-link-color" style="padding-right:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--20);font-size:0.75rem;font-style:normal;font-weight:600">Field Label</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:group {"metadata":{"name":"Input"},"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|30","left":"var:preset|spacing|40","right":"var:preset|spacing|40"}},"border":{"radius":{"topLeft":"7px","topRight":"7px","bottomLeft":"7px","bottomRight":"7px"},"width":"1px"}},"backgroundColor":"white","borderColor":"secondary","layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignfull has-border-color has-secondary-border-color has-white-background-color has-background" style="border-width:1px;border-top-left-radius:7px;border-top-right-radius:7px;border-bottom-left-radius:7px;border-bottom-right-radius:7px;padding-top:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--40)"><!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|grey-dark"}}},"typography":{"fontSize":"0.75rem","fontStyle":"italic","fontWeight":"300"}},"textColor":"grey-dark"} -->
-<p class="has-grey-dark-color has-text-color has-link-color" style="font-size:0.75rem;font-style:italic;font-weight:300">Placeholder</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group -->
-
-<!-- wp:group {"metadata":{"name":"Field"},"align":"full","layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignfull"><!-- wp:paragraph {"metadata":{"name":"Label"},"align":"full","style":{"spacing":{"padding":{"right":"var:preset|spacing|20","left":"var:preset|spacing|20"}},"typography":{"fontSize":"0.75rem","fontStyle":"normal","fontWeight":"600"},"elements":{"link":{"color":{"text":"var:preset|color|primary-light"}}}},"textColor":"primary-light"} -->
-<p class="alignfull has-primary-light-color has-text-color has-link-color" style="padding-right:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--20);font-size:0.75rem;font-style:normal;font-weight:600">Field Label</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:group {"metadata":{"name":"Input"},"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|30","left":"var:preset|spacing|40","right":"var:preset|spacing|40"}},"border":{"radius":{"topLeft":"7px","topRight":"7px","bottomLeft":"7px","bottomRight":"7px"},"width":"1px"}},"backgroundColor":"white","borderColor":"secondary","layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignfull has-border-color has-secondary-border-color has-white-background-color has-background" style="border-width:1px;border-top-left-radius:7px;border-top-right-radius:7px;border-bottom-left-radius:7px;border-bottom-right-radius:7px;padding-top:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--40)"><!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|grey-dark"}}},"typography":{"fontSize":"0.75rem","fontStyle":"italic","fontWeight":"300"}},"textColor":"grey-dark"} -->
-<p class="has-grey-dark-color has-text-color has-link-color" style="font-size:0.75rem;font-style:italic;font-weight:300">Placeholder</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group -->
-
-<!-- wp:group {"align":"full","style":{"spacing":{"blockGap":"var:preset|spacing|50"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignfull"><!-- wp:group {"metadata":{"name":"Field"},"align":"full","layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignfull"><!-- wp:paragraph {"metadata":{"name":"Label"},"align":"full","style":{"spacing":{"padding":{"right":"var:preset|spacing|20","left":"var:preset|spacing|20"}},"typography":{"fontSize":"0.75rem","fontStyle":"normal","fontWeight":"600"},"elements":{"link":{"color":{"text":"var:preset|color|primary-light"}}}},"textColor":"primary-light"} -->
-<p class="alignfull has-primary-light-color has-text-color has-link-color" style="padding-right:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--20);font-size:0.75rem;font-style:normal;font-weight:600">Field Label</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:group {"metadata":{"name":"Input"},"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|30","left":"var:preset|spacing|40","right":"var:preset|spacing|40"}},"border":{"radius":{"topLeft":"7px","topRight":"7px","bottomLeft":"7px","bottomRight":"7px"},"width":"1px"},"dimensions":{"minHeight":"140px"}},"backgroundColor":"white","borderColor":"secondary","layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignfull has-border-color has-secondary-border-color has-white-background-color has-background" style="border-width:1px;border-top-left-radius:7px;border-top-right-radius:7px;border-bottom-left-radius:7px;border-bottom-right-radius:7px;min-height:140px;padding-top:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--40)"><!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|grey-dark"}}},"typography":{"fontSize":"0.75rem","fontStyle":"italic","fontWeight":"300"}},"textColor":"grey-dark"} -->
-<p class="has-grey-dark-color has-text-color has-link-color" style="font-size:0.75rem;font-style:italic;font-weight:300">Placeholder</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group -->
-
-<!-- wp:buttons {"align":"full"} -->
-<div class="wp-block-buttons alignfull"><!-- wp:button {"className":"is-style-primary is-style-primary-light"} -->
-<div class="wp-block-button is-style-primary is-style-primary-light"><a class="wp-block-button__link wp-element-button" href="#">Demander une soumission</a></div>
-<!-- /wp:button --></div>
-<!-- /wp:buttons --></div>
-<!-- /wp:group --></aside>
+<aside class="wp-block-group alignfull is-hero__form"><!-- wp:gravityforms/form {"formId":"5","theme":"orbital","inputPrimaryColor":"#204ce5"} /--></aside>
 <!-- /wp:group --></div>
 <!-- /wp:group --></section>
 <!-- /wp:group -->
 
-<!-- wp:group {"tagName":"section","metadata":{"name":"Complete Solution","categories":["idocs-sections-fr"],"patternName":"idc-block-theme/complete-solution-fr"},"align":"full","className":"is-style-white","layout":{"type":"constrained"}} -->
+<!-- wp:group {"tagName":"section","metadata":{"name":"Complete Solution","categories":["idc-sections-fr"],"patternName":"idc-block-theme/complete-solution-fr"},"align":"full","className":"is-style-white","layout":{"type":"constrained"}} -->
 <section class="wp-block-group alignfull is-style-white"><!-- wp:group {"metadata":{"name":"Two Content Columns"},"align":"wide","className":"is-two-columns","layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignwide is-two-columns"><!-- wp:group {"metadata":{"name":"Content Column"},"style":{"spacing":{"blockGap":"var:preset|spacing|40"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:group {"tagName":"header","metadata":{"name":"Section Heading: Left"},"align":"wide","style":{"spacing":{"margin":{"bottom":"var:preset|spacing|50"}}},"layout":{"type":"constrained","justifyContent":"left"}} -->
@@ -143,7 +63,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">De la notarisation professionnelle à la traduction certifiée, nous prenons en charge chaque détail administratif de l'ensemble du cycle d'apostille et du processus de légalisation, afin que vous n'ayez pas à vous en soucier. <a href="#">Consultez nos services</a></p>
+<p class="has-small-font-size">De la notarisation professionnelle à la traduction certifiée, nous prenons en charge chaque détail administratif de l'ensemble du cycle d'apostille et du processus de légalisation, afin que vous n'ayez pas à vous en soucier. <a href="https://idc.local/nos-services/?lang=fr" type="page" id="35098">Voir nos services</a></p>
 <!-- /wp:paragraph --></article>
 <!-- /wp:group -->
 
@@ -153,7 +73,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">Qu'il s'agisse d'étapes importantes de votre vie personnelle ou de l'expansion de votre entreprise, nous veillons à ce que vos documents canadiens respectent les normes strictes de conformité internationale. <a href="#">Voir les documents courants</a></p>
+<p class="has-small-font-size">Qu'il s'agisse d'étapes importantes de votre vie personnelle ou de l'expansion de votre entreprise, nous veillons à ce que vos documents canadiens respectent les normes strictes de conformité internationale. <a href="https://idc.local/nos-services/?lang=fr" type="page" id="35098">View common documents</a></p>
 <!-- /wp:paragraph --></article>
 <!-- /wp:group -->
 
@@ -163,14 +83,14 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">Nous privilégions la clarté à la complexité. Nos frais sont établis selon votre destination et vos délais — aucuns frais cachés, aucune surprise. <a href="#">Voir nos tarifs</a></p>
+<p class="has-small-font-size">Nous privilégions la clarté à la complexité. Nos frais sont établis selon votre destination et vos délais — aucuns frais cachés, aucune surprise. <a href="https://idc.local/contactez-nous/?lang=fr" type="page" id="35189">Réserver une consultation gratuite</a></p>
 <!-- /wp:paragraph --></article>
 <!-- /wp:group --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group --></section>
 <!-- /wp:group -->
 
-<!-- wp:group {"tagName":"section","metadata":{"name":"Three Simple Steps","categories":["idocs-sections-fr"],"patternName":"idc-block-theme/three-simple-steps-fr"},"align":"full","className":"is-style-beige","layout":{"type":"constrained"}} -->
+<!-- wp:group {"tagName":"section","metadata":{"name":"Three Simple Steps","categories":["idc-sections-fr"],"patternName":"idc-block-theme/three-simple-steps-fr"},"align":"full","className":"is-style-beige","layout":{"type":"constrained"}} -->
 <section class="wp-block-group alignfull is-style-beige"><!-- wp:group {"tagName":"header","metadata":{"name":"Section Heading: Center"},"align":"wide","layout":{"type":"constrained"}} -->
 <header class="wp-block-group alignwide"><!-- wp:paragraph {"className":"has-thin-lines","style":{"typography":{"textAlign":"center"}}} -->
 <p class="has-text-align-center has-thin-lines"><strong>Authentification accélérée</strong></p>
@@ -237,7 +157,7 @@
 
 <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
 <div class="wp-block-buttons"><!-- wp:button -->
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="/contact">Contactez-nous</a></div>
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://idc.local/contactez-nous/?lang=fr">Contactez-nous</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></section>
 <!-- /wp:group --></main>

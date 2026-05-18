@@ -30,7 +30,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"fontSize":"medium"} -->
-<p class="has-medium-font-size">Pour les documents canadiens destinés à des pays non signataires de la Convention de La Haye, le processus requis est celui de <a href="https://www.idocscanada.ca/nos-services/authentification-et-legalisation-de-documents/?lang=fr">l’authentification et de la légalisation</a>.</p>
+<p class="has-medium-font-size">Pour les documents canadiens destinés à des pays non signataires de la Convention de La Haye, le processus requis est celui de l’<a href="https://idc.local/nos-services/authentification-et-legalisation-de-documents/?lang=fr" type="page" id="35328">authentification et de la légalisation</a>.</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group --></div>

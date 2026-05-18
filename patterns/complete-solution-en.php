@@ -54,7 +54,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">We believe in clarity over complexity. Our fees are structured around your specific destination and timeline—no hidden costs, no surprises. <a href="https://idc.local/contact-us/" type="page" id="34159">Book a consultation</a></p>
+<p class="has-small-font-size">We believe in clarity over complexity. Our fees are structured around your specific destination and timeline—no hidden costs, no surprises. <a href="https://idc.local/contact-us/" type="page" id="34159">Book a free consultation</a></p>
 <!-- /wp:paragraph --></article>
 <!-- /wp:group --></div>
 <!-- /wp:group --></div>

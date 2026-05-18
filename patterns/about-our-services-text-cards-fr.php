@@ -23,7 +23,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"fontSize":"medium"} -->
-<p class="has-medium-font-size">Si votre document est destiné à un autre pays signataire de la Convention sur l’apostille, consultez notre page sur l’<a href="https://www.idocscanada.ca/nos-services/apostille-de-documents/?lang=fr">apostille de documents</a>.</p>
+<p class="has-medium-font-size">Si votre document est destiné à un autre pays signataire de la Convention sur l’apostille, consultez notre page sur l’<a href="https://idc.local/nos-services/apostille-de-documents/?lang=fr" type="page" id="35235">apostille de documents</a>.</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
