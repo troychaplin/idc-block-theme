@@ -5,7 +5,7 @@
  * Categories: idc-sections-en
  */
 ?>
-<!-- wp:group {"tagName":"section","metadata":{"name":"About Our Services","categories":["idocs-sections-en"]},"align":"full","className":"is-style-white idc-section","layout":{"type":"constrained"}} -->
+<!-- wp:group {"tagName":"section","metadata":{"name":"About Our Services","categories":["idc-sections-en"],"patternName":"idc-block-theme/about-our-services-text-cards-en"},"align":"full","className":"is-style-white idc-section","layout":{"type":"constrained"}} -->
 <section class="wp-block-group alignfull is-style-white idc-section"><!-- wp:group {"metadata":{"name":"Two Content Columns"},"align":"wide","className":"is-two-columns","layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignwide is-two-columns"><!-- wp:group {"metadata":{"name":"Content Column"},"style":{"spacing":{"blockGap":"var:preset|spacing|40"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:group {"tagName":"header","metadata":{"name":"Section Heading: Left","patternName":"core/block/39656"},"align":"wide","style":{"spacing":{"margin":{"bottom":"var:preset|spacing|50"}}},"layout":{"type":"constrained","justifyContent":"left"}} -->
@@ -23,7 +23,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"fontSize":"medium"} -->
-<p class="has-medium-font-size">If your document is destined for another apostille country, take a look at our page about <a href="https://idocs.local/services/document-apostille/">Document Apostille</a>.</p>
+<p class="has-medium-font-size">If your document is destined for another apostille country, take a look at our page about <a href="https://idc.local/our-apostille-services/document-apostille/" type="page" id="34121">Document Apostille</a>.</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 

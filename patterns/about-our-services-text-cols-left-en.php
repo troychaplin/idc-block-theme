@@ -26,7 +26,7 @@
 
 <!-- wp:group {"metadata":{"name":"Content Column"},"style":{"spacing":{"blockGap":"var:preset|spacing|40"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:paragraph {"fontSize":"medium"} -->
-<p class="has-medium-font-size">Documents that are eligible for <strong>e-apostille</strong> can be provided to us electronically. They will be printed and taken through the apostille process. Get in touch with us to see if your documents are eligible for the e-apostille process. For Canadian documents destined for non-apostille signatory countries, the required process is <a href="https://www.idocscanada.ca/our-services/document-legalization/">document authentication and legalization</a>.</p>
+<p class="has-medium-font-size">Documents that are eligible for <strong>e-apostille</strong> can be provided to us electronically. They will be printed and taken through the apostille process. Get in touch with us to see if your documents are eligible for the e-apostille process. For Canadian documents destined for non-apostille signatory countries, the required process is <a href="https://idc.local/our-apostille-services/document-authentication-legalization/" type="page" id="34123">document authentication and legalization</a>.</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group --></div>

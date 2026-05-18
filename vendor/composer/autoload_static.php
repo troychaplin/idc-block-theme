@@ -26,6 +26,7 @@ class ComposerStaticInit54421d75c2c79028332951ea18376abd
         'IDOCS\\Enqueues' => __DIR__ . '/../..' . '/classes/class-enqueues.php',
         'IDOCS\\Gravityforms' => __DIR__ . '/../..' . '/classes/class-gravityforms.php',
         'IDOCS\\Language_Toggle_Block' => __DIR__ . '/../..' . '/classes/class-language-toggle-block.php',
+        'IDOCS\\Register_Page_Type' => __DIR__ . '/../..' . '/classes/class-register-page-type.php',
         'IDOCS\\Register_Testimonials' => __DIR__ . '/../..' . '/classes/class-register-testimonials.php',
         'PHPCSUtils\\AbstractSniffs\\AbstractArrayDeclarationSniff' => __DIR__ . '/..' . '/phpcsstandards/phpcsutils/PHPCSUtils/AbstractSniffs/AbstractArrayDeclarationSniff.php',
         'PHPCSUtils\\BackCompat\\BCFile' => __DIR__ . '/..' . '/phpcsstandards/phpcsutils/PHPCSUtils/BackCompat/BCFile.php',

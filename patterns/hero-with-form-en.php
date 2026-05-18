@@ -5,7 +5,6 @@
  * Categories: idc-sections-en
  */
 ?>
-
 <!-- wp:group {"tagName":"section","metadata":{"name":"Hero with Form","categories":["idc-sections-en"]},"align":"full","className":"is-style-hero-beige is-hero","layout":{"type":"constrained"}} -->
 <section class="wp-block-group alignfull is-style-hero-beige is-hero"><!-- wp:group {"metadata":{"name":"Columns"},"align":"wide","className":"is-hero__columns","layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignwide is-hero__columns"><!-- wp:group {"metadata":{"name":"Content Column"},"align":"full","className":"is-hero__content","style":{"spacing":{"blockGap":"var:preset|spacing|40"}},"layout":{"type":"constrained"}} -->
@@ -29,7 +28,7 @@
 <!-- /wp:group -->
 
 <!-- wp:group {"metadata":{"name":"Form Column"},"align":"full","className":"is-hero__form","layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignfull is-hero__form"><!-- wp:gravityforms/form {"formId":"197","theme":"orbital","inputPrimaryColor":"#204ce5"} /--></div>
+<div class="wp-block-group alignfull is-hero__form"><!-- wp:gravityforms/form {"formId":"3","theme":"orbital","inputPrimaryColor":"#204ce5"} /--></div>
 <!-- /wp:group --></div>
 <!-- /wp:group --></section>
 <!-- /wp:group -->

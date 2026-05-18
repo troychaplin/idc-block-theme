@@ -34,7 +34,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">From professional notarization to certified translation, we handle every administrative detail of the entire apostille lifecycle and legalization process so you don't have to. <strong><em><a href="#">View our services</a></em></strong></p>
+<p class="has-small-font-size">From professional notarization to certified translation, we handle every administrative detail of the entire apostille lifecycle and legalization process so you don't have to. <a href="https://idc.local/our-apostille-services/" type="page" id="34109">View our services</a></p>
 <!-- /wp:paragraph --></article>
 <!-- /wp:group -->
 
@@ -44,7 +44,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">Whether for personal milestones or corporate expansion, we ensure your Canadian documents meet strict international compliance standards. <strong><em><a href="#">View common documents</a></em></strong></p>
+<p class="has-small-font-size">Whether for personal milestones or corporate expansion, we ensure your Canadian documents meet strict international compliance standards. <a href="https://idc.local/our-apostille-services/" type="page" id="34109">View common documents</a></p>
 <!-- /wp:paragraph --></article>
 <!-- /wp:group -->
 
@@ -54,7 +54,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">We believe in clarity over complexity. Our fees are structured around your specific destination and timeline—no hidden costs, no surprises. <strong><em><a href="#">View our prices</a></em></strong></p>
+<p class="has-small-font-size">We believe in clarity over complexity. Our fees are structured around your specific destination and timeline—no hidden costs, no surprises. <a href="https://idc.local/contact-us/" type="page" id="34159">Book a consultation</a></p>
 <!-- /wp:paragraph --></article>
 <!-- /wp:group --></div>
 <!-- /wp:group --></div>

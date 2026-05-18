@@ -72,7 +72,7 @@
 
 <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
 <div class="wp-block-buttons"><!-- wp:button -->
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="/contact">Contact Us Today!</a></div>
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://idc.local/contact-us/">Contact Us Today!</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></section>
 <!-- /wp:group -->

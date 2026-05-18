@@ -5,7 +5,7 @@
  * Categories: idc-sections-en
  */
 ?>
-<!-- wp:group {"tagName":"section","metadata":{"name":"About Our Services","categories":["idocs-sections-en"]},"align":"full","className":"is-style-white idc-section","layout":{"type":"constrained"}} -->
+<!-- wp:group {"tagName":"section","metadata":{"name":"About Our Services","categories":["idc-sections-en"],"patternName":"idc-block-theme/about-our-services-text-cols-center-en"},"align":"full","className":"is-style-white idc-section","layout":{"type":"constrained"}} -->
 <section class="wp-block-group alignfull is-style-white idc-section"><!-- wp:group {"metadata":{"name":"Content Column"},"align":"wide","style":{"spacing":{"blockGap":"var:preset|spacing|40"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignwide"><!-- wp:group {"tagName":"header","metadata":{"name":"Heading: Center","categories":["idocs-headings"],"patternName":"idc-block-theme/heading-center"},"align":"wide","layout":{"type":"constrained"}} -->
 <header class="wp-block-group alignwide"><!-- wp:paragraph {"className":"has-thin-lines","style":{"typography":{"textAlign":"center"}}} -->
@@ -17,7 +17,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|tertiary"},":hover":{"color":{"text":"var:preset|color|tertiary"}}}},"typography":{"textAlign":"center"},"spacing":{"margin":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|60"}}},"textColor":"black","fontSize":"medium"} -->
-<p class="has-text-align-center has-black-color has-text-color has-link-color has-medium-font-size" style="margin-top:var(--wp--preset--spacing--50);margin-bottom:var(--wp--preset--spacing--60)">Notary services are often required when preparing your documents to for <a href="https://www.idocscanada.ca/services/document-apostille/canadian-document-apostille/">apostille</a>, or <a href="https://www.idocscanada.ca/services/document-authentication-legalization/">authentication and legalization</a>. Notarization can be required for documents that require an official signature, for documents that need to be signed, and for true copies of documents.</p>
+<p class="has-text-align-center has-black-color has-text-color has-link-color has-medium-font-size" style="margin-top:var(--wp--preset--spacing--50);margin-bottom:var(--wp--preset--spacing--60)">Notary services are often required when preparing your documents to for apostille, or authentication and legalization. <a href="https://idc.local/our-apostille-services/notary-services/" type="page" id="34127">Notarization</a> can be required for documents that require an official signature, for documents that need to be signed, and for true copies of documents.</p>
 <!-- /wp:paragraph --></header>
 <!-- /wp:group -->
 
