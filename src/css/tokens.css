@@ -20,7 +20,7 @@
     --tidbits-term-font-size: var(--wp--preset--font-size--small);
     --tidbits-content-font-size: var(--wp--preset--font-size--small);
     --tidbits-term-font-weight: 400;
-    --tidbits-term-color: var(--wp--preset--color--secondary-dark);
+    --tidbits-term-color: var(--wp--preset--color--primary-dark);
     --tidbits-border-color: var(--wp--preset--color--secondary-light);
     --tidbits-padding-block: 1rem;
     --tidbits-accordion-speed: 0.2s;

@@ -36,57 +36,47 @@
 <!-- /wp:group --></section>
 <!-- /wp:group -->
 
-<!-- wp:group {"tagName":"section","metadata":{"name":"Complete Solution","categories":["idc-sections-fr"],"patternName":"idc-block-theme/complete-solution-fr"},"align":"full","className":"is-style-white","layout":{"type":"constrained"}} -->
-<section class="wp-block-group alignfull is-style-white"><!-- wp:group {"metadata":{"name":"Two Content Columns"},"align":"wide","className":"is-two-columns","layout":{"type":"constrained"}} -->
+<!-- wp:group {"tagName":"section","metadata":{"name":"About Our Services","categories":["idc-sections-fr"],"patternName":"idc-block-theme/about-our-services-text-cards-fr"},"align":"full","className":"is-style-white idc-section","layout":{"type":"constrained"}} -->
+<section class="wp-block-group alignfull is-style-white idc-section"><!-- wp:group {"metadata":{"name":"Two Content Columns"},"align":"wide","className":"is-two-columns","layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignwide is-two-columns"><!-- wp:group {"metadata":{"name":"Content Column"},"style":{"spacing":{"blockGap":"var:preset|spacing|40"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:group {"tagName":"header","metadata":{"name":"Section Heading: Left"},"align":"wide","style":{"spacing":{"margin":{"bottom":"var:preset|spacing|50"}}},"layout":{"type":"constrained","justifyContent":"left"}} -->
+<div class="wp-block-group"><!-- wp:group {"tagName":"header","metadata":{"name":"Section Heading: Left","patternName":"core/block/39656"},"align":"wide","style":{"spacing":{"margin":{"bottom":"var:preset|spacing|50"}}},"layout":{"type":"constrained","justifyContent":"left"}} -->
 <header class="wp-block-group alignwide" style="margin-bottom:var(--wp--preset--spacing--50)"><!-- wp:paragraph {"className":"has-thin-lines has-thin-lines\u002d\u002dright","style":{"typography":{"textAlign":"left"}}} -->
-<p class="has-text-align-left has-thin-lines has-thin-lines--right">Solution complète</p>
+<p class="has-text-align-left has-thin-lines has-thin-lines--right">À propos de nos services</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"className":"has-gray-400-color has-text-color has-link-color","style":{"elements":{"link":{"color":{"text":"var:preset|color|grey-dark"}}},"typography":{"fontStyle":"normal","fontWeight":"400","textAlign":"left"}},"textColor":"grey-dark","fontSize":"heading-large"} -->
-<h2 class="wp-block-heading has-text-align-left has-gray-400-color has-text-color has-link-color has-grey-dark-color has-heading-large-font-size" style="font-style:normal;font-weight:400">Gestion experte de<br><em><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-primary-light-color"><em><em>documents internationaux</em></em></mark></em></h2>
+<h2 class="wp-block-heading has-text-align-left has-gray-400-color has-text-color has-link-color has-grey-dark-color has-heading-large-font-size" style="font-style:normal;font-weight:400">Authentification et<br><em><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-primary-light-color"><em><em>légalisation de documents</em></em></mark></em></h2>
 <!-- /wp:heading --></header>
 <!-- /wp:group -->
 
 <!-- wp:paragraph {"fontSize":"medium"} -->
-<p class="has-medium-font-size">De l’apostille à l’authentification et légalisation, ou l’attestation, nos services spécialisés garantissent la reconnaissance internationale de vos documents. Nous sommes votre partenaire de confiance pour l’apostille, prenant en charge l’ensemble du processus&nbsp;: obtention, préparation, traduction, notarisation, et bien plus encore. Notre expertise accompagne chaque étape pour vous garantir l’acceptation de vos documents partout dans le monde.</p>
+<p class="has-medium-font-size">L’authentification et la légalisation de documents sont des étapes qui permettent à un document d’être officiellement reconnu dans un pays étranger qui n’est pas signataire de la Convention de La Haye sur l’apostille. Ce processus implique d’abord l’authentification du document par l’autorité gouvernementale compétente dans le pays d’origine. Ensuite, le document est légalisé par la mission diplomatique du pays de destination.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"fontSize":"medium"} -->
-<p class="has-medium-font-size">Contactez-nous pour une consultation gratuite. Nos experts vous expliqueront les options qui s’offrent à vous et répondront à vos questions.</p>
+<p class="has-medium-font-size">Si votre document est destiné à un autre pays signataire de la Convention sur l’apostille, consultez notre page sur l’<a href="https://idc.local/nos-services/apostille-de-documents/?lang=fr" type="page" id="35235">apostille de documents</a>.</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
 <!-- wp:group {"metadata":{"name":"Card Column"},"className":"is-card-grid is-card-grid\u002d\u002dvertical","layout":{"type":"constrained"}} -->
-<div class="wp-block-group is-card-grid is-card-grid--vertical"><!-- wp:group {"tagName":"article","metadata":{"name":"Card Item"},"className":"is-card is-card\u002d\u002dbeige-fade-in","layout":{"type":"constrained"}} -->
-<article class="wp-block-group is-card is-card--beige-fade-in"><!-- wp:heading {"fontSize":"x-large"} -->
-<h2 class="wp-block-heading has-x-large-font-size">Services</h2>
+<div class="wp-block-group is-card-grid is-card-grid--vertical"><!-- wp:group {"metadata":{"name":"Card Item"},"className":"is-card is-card\u002d\u002dbeige-fade-in","layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-card is-card--beige-fade-in"><!-- wp:heading {"fontSize":"x-large"} -->
+<h2 class="wp-block-heading has-x-large-font-size">Authentification de documents</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">De la notarisation professionnelle à la traduction certifiée, nous prenons en charge chaque détail administratif de l'ensemble du cycle d'apostille et du processus de légalisation, afin que vous n'ayez pas à vous en soucier. <a href="https://idc.local/nos-services/?lang=fr" type="page" id="35098">Voir nos services</a></p>
-<!-- /wp:paragraph --></article>
+<p class="has-small-font-size">L’authentification du document est effectuée par l’autorité gouvernementale compétente du pays d’émission. Une fois convaincue, cette autorité appose une authentification directement sur le document, confirmant ainsi l’authenticité de la signature. Votre document est alors prêt pour l’étape suivante : la légalisation.</p>
+<!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
-<!-- wp:group {"tagName":"article","metadata":{"name":"Card Item"},"className":"is-card is-card\u002d\u002dbeige-fade-in","layout":{"type":"constrained"}} -->
-<article class="wp-block-group is-card is-card--beige-fade-in"><!-- wp:heading {"fontSize":"x-large"} -->
-<h2 class="wp-block-heading has-x-large-font-size">Documents</h2>
+<!-- wp:group {"metadata":{"name":"Card Item"},"className":"is-card is-card\u002d\u002dbeige-fade-in","layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-card is-card--beige-fade-in"><!-- wp:heading {"fontSize":"x-large"} -->
+<h2 class="wp-block-heading has-x-large-font-size">Légalisation de documents</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">Qu'il s'agisse d'étapes importantes de votre vie personnelle ou de l'expansion de votre entreprise, nous veillons à ce que vos documents canadiens respectent les normes strictes de conformité internationale. <a href="https://idc.local/nos-services/?lang=fr" type="page" id="35098">View common documents</a></p>
-<!-- /wp:paragraph --></article>
-<!-- /wp:group -->
-
-<!-- wp:group {"tagName":"article","metadata":{"name":"Card Item"},"className":"is-card is-card\u002d\u002dbeige-fade-in","layout":{"type":"constrained"}} -->
-<article class="wp-block-group is-card is-card--beige-fade-in"><!-- wp:heading {"fontSize":"x-large"} -->
-<h2 class="wp-block-heading has-x-large-font-size">Tarifs</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">Nous privilégions la clarté à la complexité. Nos frais sont établis selon votre destination et vos délais — aucuns frais cachés, aucune surprise. <a href="https://idc.local/contactez-nous/?lang=fr" type="page" id="35189">Réserver une consultation gratuite</a></p>
-<!-- /wp:paragraph --></article>
+<p class="has-small-font-size">La légalisation de documents consiste à soumettre votre document à l'ambassade ou au consulat compétent du pays de destination. Celui-ci vérifiera l'authentification appliquée et s'assurera que votre document répond à ses exigences. Une fois la vérification effectuée, l'ambassade ou le consulat apposera un cachet ou un certificat directement sur votre document, qui sera alors prêt à être utilisé dans ce pays.</p>
+<!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group --></section>
@@ -170,7 +160,7 @@
 <!-- /wp:group --></section>
 <!-- /wp:group -->
 
-<!-- wp:group {"metadata":{"categories":["idocs-sections-fr"],"name":"Frequently Asked Questions","patternName":"idc-block-theme/frequently-asked-questions-fr"},"align":"full","className":"is-style-white","layout":{"type":"constrained"}} -->
+<!-- wp:group {"metadata":{"categories":["idc-sections-fr"],"name":"Frequently Asked Questions","patternName":"idc-block-theme/frequently-asked-questions-fr"},"align":"full","className":"is-style-white","layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignfull is-style-white"><!-- wp:group {"tagName":"header","metadata":{"name":"Heading: Center","categories":["idocs-headings"],"patternName":"idc-block-theme/heading-center"},"align":"wide","layout":{"type":"constrained"}} -->
 <header class="wp-block-group alignwide"><!-- wp:paragraph {"className":"has-thin-lines","style":{"typography":{"textAlign":"center"}}} -->
 <p class="has-text-align-center has-thin-lines">À votre service</p>

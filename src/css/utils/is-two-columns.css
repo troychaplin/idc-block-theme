@@ -21,8 +21,12 @@
     }
 }
 
-/*  */
+/* Column Width */
 
 .wp-block-group.is-two-columns > .wp-block-group {
     width: 100%;
+}
+
+.wp-block-group.is-two-columns > .wp-block-group + .wp-block-group {
+    margin-block-start: 0;
 }
