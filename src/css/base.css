@@ -11,3 +11,7 @@ body {
 .idc-main a:hover {
     text-decoration: underline;
 }
+
+.idc-main strong {
+    font-weight: 700;
+}

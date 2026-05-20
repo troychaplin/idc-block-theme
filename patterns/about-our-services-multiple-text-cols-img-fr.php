@@ -1,7 +1,7 @@
 <?php
 /**
- * Title: About Our Services: Multiple Text Cols Left (FR)
- * Slug: idc-block-theme/about-our-services-multiple-text-cols-left-fr
+ * Title: About Our Services: Multiple Text Cols w/Image (FR)
+ * Slug: idc-block-theme/about-our-services-multiple-text-cols-img-fr
  * Categories: idc-sections-fr
  */
 ?>

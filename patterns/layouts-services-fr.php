@@ -207,7 +207,7 @@
 
 <!-- wp:group {"align":"full","className":"is-card__footer","layout":{"type":"flex","flexWrap":"nowrap"}} -->
 <div class="wp-block-group alignfull is-card__footer"><!-- wp:image {"id":14954,"aspectRatio":"1","scale":"cover","sizeSlug":"thumbnail","linkDestination":"none","className":"is-style-rounded","style":{"layout":{"selfStretch":"fixed","flexSize":"60px"},"border":{"width":"1px"}},"borderColor":"grey-light"} -->
-<figure class="wp-block-image size-thumbnail has-custom-border is-style-rounded"><img src="https://idc.local/wp-content/uploads/Blanca-Bernal-cropped-150x122.jpg" alt="" class="has-border-color has-grey-light-border-color wp-image-14954" style="border-width:1px;aspect-ratio:1;object-fit:cover"/><figcaption class="wp-element-caption">Blanca B.</figcaption></figure>
+<figure class="wp-block-image size-thumbnail has-custom-border is-style-rounded"><img src="https://idc.local/wp-content/uploads/Blanca-Bernal-cropped-150x122.jpg" alt="" class="has-border-color has-grey-light-border-color wp-image-14954" style="border-width:1px;aspect-ratio:1;object-fit:cover"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"style":{"typography":{"fontStyle":"italic","fontWeight":"400"}}} -->
