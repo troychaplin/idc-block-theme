@@ -65,6 +65,19 @@
     font-size: var(--wp--preset--font-size--small);
 }
 
+/* Blue Bg */
+
+.is-article--blue > li {
+    /* border: 1px solid var(--wp--preset--color--primary); */
+    border: none;
+    background: var(--wp--preset--gradient--custom-primary-dark-fade-out);
+}
+
+.is-article--blue .is-article__content h2,
+.is-article--blue .is-article__content h3 {
+    color: var(--wp--preset--color--white);
+}
+
 /* Pagination */
 
 .is-article-pagination {

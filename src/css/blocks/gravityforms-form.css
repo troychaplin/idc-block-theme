@@ -1,78 +1,32 @@
-/* Text Inputs */
-.gform-theme--framework input[type]:where(:not(.gform-text-input-reset):not([type="hidden"])):where(:not(.gform-theme__disable):not(.gform-theme__disable *):not(.gform-theme__disable-framework):not(.gform-theme__disable-framework *)) {
-    border-color: var(--wp--preset--color--grey);
-    border-radius: var(--docs--radius-medium);
-    box-shadow: none;
+.gform_wrapper.gform-theme--orbital,
+.gform-theme {
+    
+    /* Colors */
+    --gf-color-primary: #b3472d;
 
-    &::placeholder {
-        color: var(--wp--preset--color--grey);
-    }
-}
+    --gf-ctrl-color: var(--wp--preset--color--grey-dark);
 
-/* Textareas */
-.gform-theme--framework textarea:where(:not(.gform-theme__disable):not(.gform-theme__disable *):not(.gform-theme__disable-framework):not(.gform-theme__disable-framework *)) {
-    border-color: var(--wp--preset--color--grey);
-    border-radius: var(--docs--radius-medium);
-    box-shadow: none;
+    /* Controls */
+    /* --gf-ctrl-bg-color:           var(--wp--preset--color--white);
+    --gf-ctrl-color:              var(--wp--preset--color--black);
+    --gf-ctrl-border-color-focus: var(--wp--preset--color--tertiary);
+    --gf-ctrl-shadow:             none;
+    --gf-ctrl-placeholder-color:  var(--wp--preset--color--grey); */
 
-    &::placeholder {
-        color: var(--wp--preset--color--grey);
-    }
-}
+    /* Buttons — colour vars not emitted inline by PHP */
+    /* --gf-ctrl-btn-bg-color-primary:               var(--wp--preset--color--primary-light);
+    --gf-ctrl-btn-bg-color-hover-primary:         var(--wp--preset--color--primary);
+    --gf-ctrl-btn-bg-color-focus-primary:         var(--wp--preset--color--primary);
+    --gf-ctrl-btn-color-primary:                  var(--wp--preset--color--white);
+    --gf-ctrl-btn-color-hover-primary:            var(--wp--preset--color--white);
+    --gf-ctrl-btn-border-color-primary:           var(--wp--preset--color--primary-light);
+    --gf-ctrl-btn-border-color-hover-primary:     var(--wp--preset--color--primary);
+    --gf-ctrl-btn-border-color-focus-primary:     var(--wp--preset--color--primary);
+    --gf-ctrl-btn-radius:                         var(--docs--radius-medium);
+    --gf-ctrl-btn-font-weight:                    500; */
 
-/* Selects */
-.gform-theme--framework select:where(:not(.gform-theme__disable):not(.gform-theme__disable *):not(.gform-theme__disable-framework):not(.gform-theme__disable-framework *)) {
-    font-size: 0.75rem;
-    color: var(--wp--preset--color--grey);
-    border-color: var(--wp--preset--color--grey);
-    border-radius: var(--docs--radius-medium);
-    box-shadow: none;
-}
-
-.gform_heading {
-    margin-bottom: var(--wp--preset--spacing--50);
-}
-
-/* Required Legend */
-.gform_required_legend {
-    display: none;
-}
-
-.gform-theme--foundation .gform_fields {
-    row-gap: var(--wp--preset--spacing--60);
-}
-
-/* Hero Form */
-
-.is-hero__form {
-    .gform_title {
-        font-size: var(--wp--preset--font-size--heading-medium);
-        font-weight: 400;
-        color: var(--wp--preset--color--primary);
-        margin-block-start: 0;
-        margin-bottom: var(--wp--preset--spacing--30);
-    }
-
-    .gform_description {
-        font-size: var(--wp--preset--font-size--small);
-        color: var(--wp--preset--color--black);
-        line-height: 1.5;
-        margin-block-start: var(--wp--preset--spacing--40);
-        margin-block-end: 0;
-    }
-
-    .gform-theme--foundation .gform_fields {
-        row-gap: var(--wp--preset--spacing--50);
-    }
-
-    .gform-theme--framework input[type]:where(:not(.gform-text-input-reset):not([type="hidden"])):where(:not(.gform-theme__disable):not(.gform-theme__disable *):not(.gform-theme__disable-framework):not(.gform-theme__disable-framework *)),
-    .gform-theme--framework textarea:where(:not(.gform-theme__disable):not(.gform-theme__disable *):not(.gform-theme__disable-framework):not(.gform-theme__disable-framework *)),
-    .gform-theme--framework select:where(:not(.gform-theme__disable):not(.gform-theme__disable *):not(.gform-theme__disable-framework):not(.gform-theme__disable-framework *)) {
-        border-color: var(--wp--preset--color--secondary-medium);
-
-        &::placeholder {
-            font-size: 0.75rem;
-            color: var(--wp--preset--color--grey);
-        }
-    }
+    /* Button padding — set size-variant token so the PHP composite var
+       (--gf-ctrl-btn-padding-x: var(--gf-ctrl-btn-padding-x-sm)) resolves
+       through to this value without a specificity fight. */
+    /* --gf-ctrl-btn-padding-x-sm: var(--wp--preset--spacing--40); */
 }
