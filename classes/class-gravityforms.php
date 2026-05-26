@@ -16,8 +16,8 @@ class Gravityforms {
 	 * Initialize the module.
 	 */
 	public function init(): void {
-		// add_filter( 'gform_default_styles', array( $this, 'set_default_styles' ) );
-		// add_filter( 'gform_pre_render', array( $this, 'enforce_global_styles' ) );
+		add_filter( 'gform_default_styles', array( $this, 'set_default_styles' ) );
+		add_filter( 'gform_pre_render', array( $this, 'enforce_global_styles' ) );
 	}
 
 	/**

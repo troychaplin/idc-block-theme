@@ -1,0 +1,49 @@
+/* Font family: bind all GF text to the theme Inter preset */
+.gform-theme {
+	--gf-font-family-base: var(--wp--preset--font-family--inter, inherit);
+}
+
+/* Remove the built-in bluish box-shadows on inputs, buttons, and pickers.
+   --gf-ctrl-shadow is hardcoded in the framework CSS; not reachable via
+   the 16-property theme JSON API, so we override it here. */
+.gform-theme {
+	--gf-ctrl-shadow: none;
+	--gf-ctrl-btn-shadow: none;
+	--gf-ctrl-btn-shadow-hover: none;
+	--gf-ctrl-btn-shadow-focus: none;
+	--gf-ctrl-btn-shadow-disabled: none;
+	--gf-ctrl-date-picker-shadow: none;
+	--gf-form-validation-shadow: none;
+	--gf-field-img-choice-shadow: none;
+	--gf-field-img-choice-shadow-hover: none;
+}
+
+/* Fluid typography: the PHP filter can only pass pixel integers (13, 12),
+   so we override the resulting fixed-px sizes with theme fluid values. */
+.gform-theme {
+	--gf-font-size-secondary: var(--wp--preset--font-size--small);
+	--gf-font-size-tertiary: var(--wp--preset--font-size--small);
+}
+
+/* Form heading and description — outside the --gf-* variable system */
+.gform-theme .gform_title {
+	font-family: var(--wp--preset--font-family--playfair-display);
+	font-size: var(--wp--preset--font-size--heading-medium);
+	color: var(--wp--preset--color--primary-dark);
+	font-weight: 500;
+}
+
+.gform-theme .gform_description {
+	font-size: var(--wp--preset--font-size--small);
+	color: var(--wp--preset--color--grey-dark);
+}
+
+/*  */
+
+.is-hero__form .gform_title {
+    margin-top: 0;
+}
+
+.gform_required_legend {
+    display: none;
+}
