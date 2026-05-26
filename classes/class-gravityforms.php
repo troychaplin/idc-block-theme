@@ -16,8 +16,8 @@ class Gravityforms {
 	 * Initialize the module.
 	 */
 	public function init(): void {
-		add_filter( 'gform_default_styles', array( $this, 'set_default_styles' ) );
-		add_filter( 'gform_pre_render', array( $this, 'enforce_global_styles' ) );
+		// add_filter( 'gform_default_styles', array( $this, 'set_default_styles' ) );
+		// add_filter( 'gform_pre_render', array( $this, 'enforce_global_styles' ) );
 	}
 
 	/**
@@ -27,6 +27,7 @@ class Gravityforms {
 	 * @return array
 	 */
 	private function get_styles(): array {
+        // {"theme":"orbital","inputSize":"sm","inputBorderRadius":"4","inputBorderColor":"#DCD6CC","inputBackgroundColor":"#FFFFFF","inputColor":"#191919","inputPrimaryColor":"#b3472d","inputImageChoiceAppearance":"card","inputImageChoiceStyle":"square","inputImageChoiceSize":"md","labelFontSize":"13","labelColor":"#112337","descriptionFontSize":"12","descriptionColor":"#585e6a","buttonPrimaryBackgroundColor":"#1F3A5B","buttonPrimaryColor":"#FFFFFF"}
 		return array(
 			'inputSize'                    => 'sm',
 			'inputBorderRadius'            => '4',
