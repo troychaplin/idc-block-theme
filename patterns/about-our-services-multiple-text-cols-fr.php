@@ -1,7 +1,7 @@
 <?php
 /**
- * Title: About Our Services: Multiple Text Cols w/Subheadings (FR)
- * Slug: idc-block-theme/about-our-services-multiple-text-cols-subheadings-fr
+ * Title: About Our Services: Multiple Text Cols (FR)
+ * Slug: idc-block-theme/about-our-services-multiple-text-cols-fr
  * Categories: idc-sections-fr
  */
 ?>
@@ -41,22 +41,14 @@
 
 <!-- wp:group {"metadata":{"name":"Two Content Columns"},"align":"wide","className":"is-two-columns","layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignwide is-two-columns"><!-- wp:group {"metadata":{"name":"Content Column"},"style":{"spacing":{"blockGap":"var:preset|spacing|40"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:heading {"level":4,"style":{"elements":{"link":{"color":{"text":"var:preset|color|black"}}}},"textColor":"black","fontSize":"x-large"} -->
-<h4 class="wp-block-heading has-black-color has-text-color has-link-color has-x-large-font-size">Traductions pour l’apostille de documents</h4>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Affaires mondiales Canada et certains bureaux provinciaux responsables de l’apostille exigent que les documents rédigés dans une autre langue que le français ou l’anglais soient traduits dans l’une de ces deux langues par un traducteur agréé canadien avant de pouvoir être apostillés. Cela s’applique également aux documents rédigés partiellement en anglais ou en français et partiellement dans une autre langue, ce que l’on appelle des documents « bilingues ».</p>
+<div class="wp-block-group"><!-- wp:paragraph {"fontSize":"medium"} -->
+<p class="has-medium-font-size">Affaires mondiales Canada et certains bureaux provinciaux responsables de l’apostille exigent que les documents rédigés dans une autre langue que le français ou l’anglais soient traduits dans l’une de ces deux langues par un traducteur agréé canadien avant de pouvoir être apostillés. Cela s’applique également aux documents rédigés partiellement en anglais ou en français et partiellement dans une autre langue, ce que l’on appelle des documents « bilingues ».</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
 <!-- wp:group {"metadata":{"name":"Content Column"},"style":{"spacing":{"blockGap":"var:preset|spacing|40"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:heading {"level":4,"style":{"elements":{"link":{"color":{"text":"var:preset|color|black"}}}},"textColor":"black","fontSize":"x-large"} -->
-<h4 class="wp-block-heading has-black-color has-text-color has-link-color has-x-large-font-size">Traductions pour la légalisation de documents</h4>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Chaque ambassade et consulat a ses propres exigences en matière de traductions. Certains exigent la traduction de documents qui ne sont pas rédigés dans la langue officielle du pays, d’autres la traduction de types de documents spécifiques, et d’autres encore n’exigent aucune traduction. N’hésitez pas à contacter notre équipe pour connaître les exigences de traduction applicables à votre situation.</p>
+<div class="wp-block-group"><!-- wp:paragraph {"fontSize":"medium"} -->
+<p class="has-medium-font-size">Chaque ambassade et consulat a ses propres exigences en matière de traductions. Certains exigent la traduction de documents qui ne sont pas rédigés dans la langue officielle du pays, d’autres la traduction de types de documents spécifiques, et d’autres encore n’exigent aucune traduction. N’hésitez pas à contacter notre équipe pour connaître les exigences de traduction applicables à votre situation.</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group --></div>
