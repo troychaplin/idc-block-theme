@@ -30,3 +30,10 @@
 .wp-block-group.is-two-columns > .wp-block-group + .wp-block-group {
     margin-block-start: 0;
 }
+
+/* Content */
+
+.wp-block-group.is-two-columns > .wp-block-group > *,
+.wp-block.wp-block-group.is-two-columns > .wp-block-group > * {
+    font-size: var(--wp--preset--font-size--medium);
+}
