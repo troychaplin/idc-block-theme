@@ -1,7 +1,7 @@
 <?php
 /**
- * Title: About Our Services: Multiple Text Cols w/Subheadings (EN)
- * Slug: idc-block-theme/about-our-services-multiple-text-cols-subheadings-en
+ * Title: About Our Services: Multiple Text Cols (EN)
+ * Slug: idc-block-theme/about-our-services-multiple-text-cols-en
  * Categories: idc-sections-en
  */
 ?>
@@ -41,22 +41,14 @@
 
 <!-- wp:group {"metadata":{"name":"Two Content Columns"},"align":"wide","className":"is-two-columns","layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignwide is-two-columns"><!-- wp:group {"metadata":{"name":"Content Column"},"style":{"spacing":{"blockGap":"var:preset|spacing|40"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:heading {"level":4,"style":{"elements":{"link":{"color":{"text":"var:preset|color|black"}}}},"textColor":"black","fontSize":"x-large"} -->
-<h4 class="wp-block-heading has-black-color has-text-color has-link-color has-x-large-font-size">Translations for Document Apostille</h4>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Global Affairs Canada and some of the provincial apostille offices require documents that are not written in English or French to be translated into one of these languages by a Canadian certified translator before the documents are apostilled. This also applies to documents that are partially in English or French and also partially in another language, what is referred to as “dual language”.</p>
+<div class="wp-block-group"><!-- wp:paragraph {"fontSize":"medium"} -->
+<p class="has-medium-font-size">Global Affairs Canada and some of the provincial apostille offices require documents that are not written in English or French to be translated into one of these languages by a Canadian certified translator before the documents are apostilled. This also applies to documents that are partially in English or French and also partially in another language, what is referred to as “dual language”.</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
 <!-- wp:group {"metadata":{"name":"Content Column"},"style":{"spacing":{"blockGap":"var:preset|spacing|40"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:heading {"level":4,"style":{"elements":{"link":{"color":{"text":"var:preset|color|black"}}}},"textColor":"black","fontSize":"x-large"} -->
-<h4 class="wp-block-heading has-black-color has-text-color has-link-color has-x-large-font-size">Translations for Document Legalization</h4>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Each embassy and consulate sets its own requirements regarding translations. Some require the translation of documents that are not in their country’s official language, some require the translation of specific types of documents, and some don’t require any translations.&nbsp;Contact our friendly staff&nbsp;to determine what translation requirements apply to your situation.</p>
+<div class="wp-block-group"><!-- wp:paragraph {"fontSize":"medium"} -->
+<p class="has-medium-font-size">Each embassy and consulate sets its own requirements regarding translations. Some require the translation of documents that are not in their country’s official language, some require the translation of specific types of documents, and some don’t require any translations.&nbsp;Contact our friendly staff&nbsp;to determine what translation requirements apply to your situation.</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group --></div>
