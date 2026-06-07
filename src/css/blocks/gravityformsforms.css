@@ -29,13 +29,27 @@
 .gform-theme .gform_title {
 	font-family: var(--wp--preset--font-family--playfair-display);
 	font-size: var(--wp--preset--font-size--heading-medium);
-	color: var(--wp--preset--color--primary-dark);
+	color: var(--wp--preset--color--primary-light);
 	font-weight: 500;
+    margin-bottom: var(--wp--preset--spacing--40);
 }
 
 .gform-theme .gform_description {
 	font-size: var(--wp--preset--font-size--small);
 	color: var(--wp--preset--color--grey-dark);
+    margin-top: 0;
+}
+
+.gform-theme .gfield_label {
+	font-weight: 500;
+    font-style: italic;
+    padding-left: 2px;
+    margin-bottom: 4px;
+}
+
+.gform-theme--foundation .gform_fields {
+    column-gap: var(--wp--preset--spacing--30);
+    row-gap: var(--wp--preset--spacing--50);
 }
 
 /*  */

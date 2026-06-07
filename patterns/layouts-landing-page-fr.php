@@ -13,7 +13,7 @@
 <div class="wp-block-group alignwide is-hero__columns"><!-- wp:group {"metadata":{"name":"Content Column"},"align":"full","className":"is-hero__content","style":{"spacing":{"blockGap":"var:preset|spacing|40"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignfull is-hero__content"><!-- wp:group {"tagName":"header","metadata":{"name":"Hero Heading"},"align":"wide","style":{"spacing":{"margin":{"bottom":"var:preset|spacing|50"}}},"layout":{"type":"constrained","justifyContent":"left"}} -->
 <header class="wp-block-group alignwide" style="margin-bottom:var(--wp--preset--spacing--50)"><!-- wp:paragraph {"className":"has-thin-lines has-thin-lines\u002d\u002dright","style":{"typography":{"textAlign":"left"}}} -->
-<p class="has-text-align-left has-thin-lines has-thin-lines--right">Comment faire</p>
+<p class="has-text-align-left has-thin-lines has-thin-lines--right">Nos services</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":1,"className":"has-gray-400-color has-text-color has-link-color","style":{"elements":{"link":{"color":{"text":"var:preset|color|grey-dark"}}},"typography":{"fontStyle":"normal","fontWeight":"400","textAlign":"left"}},"textColor":"grey-dark","fontSize":"heading-hero"} -->
@@ -36,52 +36,44 @@
 <!-- /wp:group --></section>
 <!-- /wp:group -->
 
-<!-- wp:group {"tagName":"section","metadata":{"name":"About Our Services","categories":["idc-sections-fr"],"patternName":"idc-block-theme/about-our-services-text-cols-center-fr"},"align":"full","className":"is-style-white idc-section","layout":{"type":"constrained"}} -->
+<!-- wp:group {"tagName":"section","metadata":{"name":"About Our Services","categories":["idc-sections-en"]},"align":"full","className":"is-style-white idc-section","layout":{"type":"constrained"}} -->
 <section class="wp-block-group alignfull is-style-white idc-section"><!-- wp:group {"metadata":{"name":"Content Column"},"align":"wide","style":{"spacing":{"blockGap":"var:preset|spacing|40"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignwide"><!-- wp:group {"tagName":"header","metadata":{"name":"Heading: Center","categories":["idocs-headings"],"patternName":"idc-block-theme/heading-center"},"align":"wide","layout":{"type":"constrained"}} -->
-<header class="wp-block-group alignwide"><!-- wp:paragraph {"className":"has-thin-lines","style":{"typography":{"textAlign":"center"}}} -->
+<div class="wp-block-group alignwide"><!-- wp:group {"tagName":"header","metadata":{"name":"Heading: Center","categories":["idocs-headings"],"patternName":"idc-block-theme/heading-center"},"align":"wide","style":{"spacing":{"margin":{"bottom":"var:preset|spacing|60"}}},"layout":{"type":"constrained"}} -->
+<header class="wp-block-group alignwide" style="margin-bottom:var(--wp--preset--spacing--60)"><!-- wp:paragraph {"className":"has-thin-lines","style":{"typography":{"textAlign":"center"}}} -->
 <p class="has-text-align-center has-thin-lines">L'apostille simplifiée</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"className":"has-gray-400-color has-text-color has-link-color","style":{"elements":{"link":{"color":{"text":"var:preset|color|grey-dark"}}},"typography":{"fontStyle":"normal","fontWeight":"400","textAlign":"center"}},"textColor":"grey-dark"} -->
-<h2 class="wp-block-heading has-text-align-center has-gray-400-color has-text-color has-link-color has-grey-dark-color" style="font-style:normal;font-weight:400">À propos des<br><em><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-primary-light-color"><em>Services de notaire</em></mark></em></h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|tertiary"},":hover":{"color":{"text":"var:preset|color|tertiary"}}}},"typography":{"textAlign":"center"},"spacing":{"margin":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|60"}}},"textColor":"black","fontSize":"medium"} -->
-<p class="has-text-align-center has-black-color has-text-color has-link-color has-medium-font-size" style="margin-top:var(--wp--preset--spacing--50);margin-bottom:var(--wp--preset--spacing--60)">Nous sommes spécialisés dans la gestion rapide et précise des procédures d’apostille pour nos clients. Contactez-nous pour une consultation gratuite – appelez-nous gratuitement au <a href="tel:18884331011">1-888-433-1011</a> ou remplissez notre <a href="https://idocs.local/contactez-nous/?lang=fr">formulaire commencer</a>.Nous vous expliquerons le processus, répondrons à vos questions et discuterons de vos options avec clarté et transparence.</p>
-<!-- /wp:paragraph --></header>
+<h2 class="wp-block-heading has-text-align-center has-gray-400-color has-text-color has-link-color has-grey-dark-color" style="font-style:normal;font-weight:400">Vos documents,<br><em><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-primary-light-color"><em><em>Notre expertise</em></em></mark></em></h2>
+<!-- /wp:heading --></header>
 <!-- /wp:group -->
 
-<!-- wp:group {"metadata":{"name":"Two Content Columns"},"align":"wide","className":"is-two-columns","style":{"spacing":{"margin":{"top":"var:preset|spacing|50"}}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignwide is-two-columns" style="margin-top:var(--wp--preset--spacing--50)"><!-- wp:group {"metadata":{"name":"Content Column"},"style":{"spacing":{"blockGap":"var:preset|spacing|40"}},"layout":{"type":"constrained"}} -->
+<!-- wp:group {"metadata":{"name":"Two Content Columns"},"align":"wide","className":"is-two-columns","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignwide is-two-columns"><!-- wp:group {"metadata":{"name":"Content Column"},"style":{"spacing":{"blockGap":"var:preset|spacing|40"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:heading {"level":3,"fontSize":"heading-small"} -->
-<h3 class="wp-block-heading has-heading-small-font-size">Qu’est-ce qu’une apostille ?</h3>
+<h3 class="wp-block-heading has-heading-small-font-size">Qu’est-ce qu’une apostille du Royaume-Uni?</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"fontSize":"medium"} -->
-<p class="has-medium-font-size">Le terme apostille désigne le processus par lequel un document est certifié par une autorité gouvernementale afin d’être accepté dans une juridiction étrangère. De nombreux pays ont signé la Convention Apostille de La Haye, supprimant ainsi la nécessité d’une légalisation diplomatique supplémentaire. Une fois apostillé, un document est reconnu dans tous les pays signataires de la Convention Apostille de La Haye.</p>
+<p class="has-medium-font-size">Le terme <em>apostille</em> désigne le processus de certification de l’authenticité d’un document afin qu’il soit accepté dans une juridiction étrangère. Un document émis au Royaume-Uni doit être soumis à l’autorité compétente britannique pour recevoir un certificat d’apostille.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"fontSize":"medium"} -->
-<p class="has-medium-font-size">Une fois apostillé, un document est reconnu dans tous les pays signataires de la Convention Apostille de La Haye.</p>
+<p class="has-medium-font-size">Une fois que le document a reçu l’apostille, il sera reconnu dans les autres pays signataires de la Convention de La Haye (la majorité des pays dans le monde).</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
 <!-- wp:group {"metadata":{"name":"Content Column"},"style":{"spacing":{"blockGap":"var:preset|spacing|40"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:heading {"level":3,"fontSize":"heading-small"} -->
-<h3 class="wp-block-heading has-heading-small-font-size">Comment obtenir une apostille ?</h3>
+<div class="wp-block-group"><!-- wp:heading {"fontSize":"heading-small"} -->
+<h2 class="wp-block-heading has-heading-small-font-size">Comment pouvons-nous vous aider</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"fontSize":"medium"} -->
-<p class="has-medium-font-size">Au Canada, la procédure d’apostille de documents se déroule généralement en deux étapes&nbsp;:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><strong>Étape&nbsp;1</strong>&nbsp;: préparation de vos documents, qui peut inclure la commande de nouveaux documents, leur notarisation ou leur traduction.</p>
+<p class="has-medium-font-size">Nous sommes spécialisés dans le processus d’apostille de documents du Royaume-Uni pour les clients corporatifs et individuels, avec rapidité et précision. Nous collaborons avec un réseau de partenaires de confiance au Royaume-Uni, ce qui nous permet de traiter efficacement l’apostille de vos documents britanniques.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"fontSize":"medium"} -->
-<p class="has-medium-font-size"><strong>Étape&nbsp;2</strong>&nbsp;: apostille de documents, qui consiste à faire apostiller vos documents par l’autorité gouvernementale compétente</p>
+<p class="has-medium-font-size">Contactez-nous pour une consultation gratuite — téléphonez-nous sans frais au <a href="tel:18884331011">1-888-433-1011</a> ou envoyez-nous une <a href="https://idocs.local/contactez-nous/?lang=fr">demande rapide en ligne</a>. Nous vous expliquerons le processus, répondrons à vos questions et discuterons de vos options.</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group --></div>
@@ -146,58 +138,134 @@
 <!-- /wp:group --></section>
 <!-- /wp:group -->
 
-<!-- wp:group {"tagName":"section","metadata":{"name":"Recent Posts","categories":["idc-sections-fr"],"patternName":"idc-block-theme/recent-posts-blue-fr"},"align":"full","className":"is-style-blue","style":{"spacing":{"padding":{"top":"var:preset|spacing|70","bottom":"var:preset|spacing|70"}}},"layout":{"type":"constrained"}} -->
-<section class="wp-block-group alignfull is-style-blue" style="padding-top:var(--wp--preset--spacing--70);padding-bottom:var(--wp--preset--spacing--70)"><!-- wp:group {"tagName":"header","metadata":{"name":"Section Heading: White"},"align":"wide","layout":{"type":"constrained"}} -->
-<header class="wp-block-group alignwide"><!-- wp:paragraph {"className":"has-thin-lines has-thin-lines\u002d\u002dblue","style":{"typography":{"textAlign":"center"}}} -->
-<p class="has-text-align-center has-thin-lines has-thin-lines--blue">Continuez votre lecture</p>
+<!-- wp:group {"tagName":"section","metadata":{"name":"Three Simple Steps","categories":["idc-sections-fr"],"patternName":"idc-block-theme/knowledge-base-fr"},"align":"full","className":"is-style-default","layout":{"type":"constrained"}} -->
+<section class="wp-block-group alignfull is-style-default"><!-- wp:group {"tagName":"header","metadata":{"name":"Section Heading: Center"},"align":"wide","layout":{"type":"constrained"}} -->
+<header class="wp-block-group alignwide"><!-- wp:paragraph {"className":"has-thin-lines","style":{"typography":{"textAlign":"center"}}} -->
+<p class="has-text-align-center has-thin-lines">Base de connaissances</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:heading {"className":"has-gray-400-color has-text-color has-link-color","style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}},"typography":{"fontStyle":"normal","fontWeight":"400","textAlign":"center"}},"textColor":"white"} -->
-<h2 class="wp-block-heading has-text-align-center has-gray-400-color has-text-color has-link-color has-white-color" style="font-style:normal;font-weight:400">D'autres articles<br><em><em><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-primary-pale-color"><em>Choisis pour vous</em></mark></em></em></h2>
+<!-- wp:heading {"className":"has-gray-400-color has-text-color has-link-color","style":{"elements":{"link":{"color":{"text":"var:preset|color|grey-dark"}}},"typography":{"fontStyle":"normal","fontWeight":"400","textAlign":"center"}},"textColor":"grey-dark"} -->
+<h2 class="wp-block-heading has-text-align-center has-gray-400-color has-text-color has-link-color has-grey-dark-color" style="font-style:normal;font-weight:400">Entrez dans les détails<br><em><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-primary-light-color"><em>Nous avons les réponses<br></em></mark></em></h2>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}},"typography":{"textAlign":"center"},"spacing":{"margin":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|60"}}},"textColor":"white","fontSize":"medium"} -->
-<p class="has-text-align-center has-white-color has-text-color has-link-color has-medium-font-size" style="margin-top:var(--wp--preset--spacing--50);margin-bottom:var(--wp--preset--spacing--60)">Des articles connexes, soigneusement sélectionnés pour approfondir vos connaissances. Une bonne lecture en appelle toujours une autre.</p>
+<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|black"}}},"typography":{"textAlign":"center"},"spacing":{"margin":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|60"}}},"textColor":"black","fontSize":"medium"} -->
+<p class="has-text-align-center has-black-color has-text-color has-link-color has-medium-font-size" style="margin-top:var(--wp--preset--spacing--50);margin-bottom:var(--wp--preset--spacing--60)">Des guides étape par étape aux exigences propres à chaque pays, nos ressources décomposent l'ensemble du processus d'apostille pour que vous sachiez exactement à quoi vous attendre avant de commencer.</p>
 <!-- /wp:paragraph --></header>
 <!-- /wp:group -->
 
-<!-- wp:query {"queryId":16,"query":{"perPage":3,"postType":"post","inherit":false},"namespace":"idc-block-theme/recent-posts","className":"alignwide"} -->
-<div class="wp-block-query alignwide"><!-- wp:post-template {"className":"is-article is-article\u002d\u002dblue is-recent-posts","layout":{"type":"grid","columnCount":3}} -->
-<!-- wp:post-featured-image {"aspectRatio":"16/9"} /-->
-
-<!-- wp:group {"metadata":{"name":"Content"},"className":"is-article__content","layout":{"type":"constrained"}} -->
-<div class="wp-block-group is-article__content"><!-- wp:post-title {"isLink":true} /-->
-
-<!-- wp:group {"className":"is-article__date","style":{"spacing":{"blockGap":"0.3rem"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
-<div class="wp-block-group is-article__date"><!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}}},"textColor":"white"} -->
-<p class="has-white-color has-text-color has-link-color">Publié le</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:post-date {"metadata":{"bindings":{"datetime":{"source":"core/post-data","args":{"field":"date"}}}},"style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}}},"textColor":"white"} /--></div>
+<!-- wp:group {"metadata":{"name":"Card Grid: Numbered Cards"},"align":"wide","className":"is-card-grid","style":{"spacing":{"blockGap":"0"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignwide is-card-grid"><!-- wp:group {"tagName":"article","metadata":{"name":"Card Item"},"className":"is-card","layout":{"type":"constrained"}} -->
+<article class="wp-block-group is-card"><!-- wp:group {"metadata":{"name":"Icon"},"className":"is-style-square","style":{"spacing":{"margin":{"bottom":"var:preset|spacing|40"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-style-square" style="margin-bottom:var(--wp--preset--spacing--40)"><!-- wp:outermost/icon-block {"iconName":"","itemsJustification":"left","iconColor":"secondary-dark","iconColorValue":"#796155","width":"24px","align":"full","className":"has-circle-square"} -->
+<div class="wp-block-outermost-icon-block alignfull items-justified-left has-circle-square"><div class="icon-container has-icon-color has-secondary-dark-color" style="color:#796155;width:24px;transform:rotate(0deg) scaleX(1) scaleY(1)"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640"><path d="M224 224C224 171 267 128 320 128C373 128 416 171 416 224C416 266.7 388.1 302.9 349.5 315.4C321.1 324.6 288 350.7 288 392L288 416C288 433.7 302.3 448 320 448C337.7 448 352 433.7 352 416L352 392C352 390.3 352.6 387.9 355.5 384.7C358.5 381.4 363.4 378.2 369.2 376.3C433.5 355.6 480 295.3 480 224C480 135.6 408.4 64 320 64C231.6 64 160 135.6 160 224C160 241.7 174.3 256 192 256C209.7 256 224 241.7 224 224zM320 576C342.1 576 360 558.1 360 536C360 513.9 342.1 496 320 496C297.9 496 280 513.9 280 536C280 558.1 297.9 576 320 576z"></path></svg></div></div>
+<!-- /wp:outermost/icon-block --></div>
 <!-- /wp:group -->
 
-<!-- wp:group {"className":"is-article__read","style":{"spacing":{"blockGap":"0.3rem"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
-<div class="wp-block-group is-article__read"><!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}}},"textColor":"white"} -->
-<p class="has-white-color has-text-color has-link-color">Temps de lecture:</p>
-<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Foire aux questions</h2>
+<!-- /wp:heading -->
 
-<!-- wp:post-time-to-read {"style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}}},"textColor":"white"} /--></div>
+<!-- wp:paragraph -->
+<p>Trouvez des réponses aux questions les plus fréquemment posées sur le processus d’apostille de documents et les services que nous offrons. <a href="https://idc.local/informations-services-apostille-canada/foire-aux-questions/?lang=fr" type="page" id="34175">View our FAQs</a></p>
+<!-- /wp:paragraph --></article>
 <!-- /wp:group -->
 
-<!-- wp:post-excerpt {"excerptLength":35} /--></div>
+<!-- wp:group {"tagName":"article","metadata":{"name":"Card Item"},"className":"is-card","layout":{"type":"constrained"}} -->
+<article class="wp-block-group is-card"><!-- wp:group {"metadata":{"name":"Icon"},"className":"is-style-square","style":{"spacing":{"margin":{"bottom":"var:preset|spacing|40"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-style-square" style="margin-bottom:var(--wp--preset--spacing--40)"><!-- wp:outermost/icon-block {"iconName":"","itemsJustification":"left","iconColor":"secondary-dark","iconColorValue":"#796155","width":"26px","align":"full","className":"has-circle-square"} -->
+<div class="wp-block-outermost-icon-block alignfull items-justified-left has-circle-square"><div class="icon-container has-icon-color has-secondary-dark-color" style="color:#796155;width:26px;transform:rotate(0deg) scaleX(1) scaleY(1)"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640"><path d="M232 144C218.7 144 208 154.7 208 168L208 472C208 480.4 206.6 488.5 203.9 496L504 496C517.3 496 528 485.3 528 472L528 168C528 154.7 517.3 144 504 144L232 144zM136 544C96.2 544 64 511.8 64 472L64 176C64 162.7 74.7 152 88 152C101.3 152 112 162.7 112 176L112 472C112 485.3 122.7 496 136 496C149.3 496 160 485.3 160 472L160 168C160 128.2 192.2 96 232 96L504 96C543.8 96 576 128.2 576 168L576 472C576 511.8 543.8 544 504 544L136 544zM256 216C256 202.7 266.7 192 280 192L328 192C341.3 192 352 202.7 352 216L352 264C352 277.3 341.3 288 328 288L280 288C266.7 288 256 277.3 256 264L256 216zM408 240L456 240C469.3 240 480 250.7 480 264C480 277.3 469.3 288 456 288L408 288C394.7 288 384 277.3 384 264C384 250.7 394.7 240 408 240zM280 320L456 320C469.3 320 480 330.7 480 344C480 357.3 469.3 368 456 368L280 368C266.7 368 256 357.3 256 344C256 330.7 266.7 320 280 320zM280 400L456 400C469.3 400 480 410.7 480 424C480 437.3 469.3 448 456 448L280 448C266.7 448 256 437.3 256 424C256 410.7 266.7 400 280 400z"></path></svg></div></div>
+<!-- /wp:outermost/icon-block --></div>
 <!-- /wp:group -->
-<!-- /wp:post-template -->
 
-<!-- wp:query-no-results -->
-<!-- wp:paragraph {"placeholder":"Add text or blocks that will display when a query returns no results."} -->
-<p></p>
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Articles détaillés</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Nous avons développé une collection riche et en constante croissance d’articles informatifs sur le processus d’apostille et nos services. <a href="https://idc.local/resources-apostille-services-canada/articles-apostille-process-canada/" type="page" id="34173">Read more articles</a></p>
+<!-- /wp:paragraph --></article>
+<!-- /wp:group -->
+
+<!-- wp:group {"tagName":"article","metadata":{"name":"Card Item"},"className":"is-card","layout":{"type":"constrained"}} -->
+<article class="wp-block-group is-card"><!-- wp:group {"metadata":{"name":"Icon"},"className":"is-style-square","style":{"spacing":{"margin":{"bottom":"var:preset|spacing|40"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-style-square" style="margin-bottom:var(--wp--preset--spacing--40)"><!-- wp:outermost/icon-block {"iconName":"","itemsJustification":"left","iconColor":"secondary-dark","iconColorValue":"#796155","width":"24px","align":"full","className":"has-circle-square"} -->
+<div class="wp-block-outermost-icon-block alignfull items-justified-left has-circle-square"><div class="icon-container has-icon-color has-secondary-dark-color" style="color:#796155;width:24px;transform:rotate(0deg) scaleX(1) scaleY(1)"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640"><path d="M451.5 160C434.9 160 418.8 164.5 404.7 172.7C388.9 156.7 370.5 143.3 350.2 133.2C378.4 109.2 414.3 96 451.5 96C537.9 96 608 166 608 252.5C608 294 591.5 333.8 562.2 363.1L491.1 434.2C461.8 463.5 422 480 380.5 480C294.1 480 224 410 224 323.5C224 322 224 320.5 224.1 319C224.6 301.3 239.3 287.4 257 287.9C274.7 288.4 288.6 303.1 288.1 320.8C288.1 321.7 288.1 322.6 288.1 323.4C288.1 374.5 329.5 415.9 380.6 415.9C405.1 415.9 428.6 406.2 446 388.8L517.1 317.7C534.4 300.4 544.2 276.8 544.2 252.3C544.2 201.2 502.8 159.8 451.7 159.8zM307.2 237.3C305.3 236.5 303.4 235.4 301.7 234.2C289.1 227.7 274.7 224 259.6 224C235.1 224 211.6 233.7 194.2 251.1L123.1 322.2C105.8 339.5 96 363.1 96 387.6C96 438.7 137.4 480.1 188.5 480.1C205 480.1 221.1 475.7 235.2 467.5C251 483.5 269.4 496.9 289.8 507C261.6 530.9 225.8 544.2 188.5 544.2C102.1 544.2 32 474.2 32 387.7C32 346.2 48.5 306.4 77.8 277.1L148.9 206C178.2 176.7 218 160.2 259.5 160.2C346.1 160.2 416 230.8 416 317.1C416 318.4 416 319.7 416 321C415.6 338.7 400.9 352.6 383.2 352.2C365.5 351.8 351.6 337.1 352 319.4C352 318.6 352 317.9 352 317.1C352 283.4 334 253.8 307.2 237.5z"></path></svg></div></div>
+<!-- /wp:outermost/icon-block --></div>
+<!-- /wp:group -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Ressources supplémentaires</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Nous mettons à votre disposition une mine d’informations sur les services d’apostille, authentification, et légalisation (également appelés attestation). <a href="https://idc.local/informations-services-apostille-canada/additional-resources/?lang=fr" type="page" id="34171">Voir plus de ressources</a></p>
+<!-- /wp:paragraph --></article>
+<!-- /wp:group --></div>
+<!-- /wp:group --></section>
+<!-- /wp:group -->
+
+<!-- wp:group {"tagName":"section","metadata":{"name":"Testimonials","categories":["idc-sections-fr"],"patternName":"idc-block-theme/testimonials-fr"},"align":"full","className":"is-style-blue","layout":{"type":"constrained"}} -->
+<section class="wp-block-group alignfull is-style-blue"><!-- wp:group {"tagName":"header","metadata":{"name":"Section Heading: White"},"align":"wide","layout":{"type":"constrained"}} -->
+<header class="wp-block-group alignwide"><!-- wp:paragraph {"className":"has-thin-lines has-thin-lines\u002d\u002dblue","style":{"typography":{"textAlign":"center"}}} -->
+<p class="has-text-align-center has-thin-lines has-thin-lines--blue">Témoignages clients</p>
 <!-- /wp:paragraph -->
-<!-- /wp:query-no-results --></div>
-<!-- /wp:query -->
 
-<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
-<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-primary-light"} -->
-<div class="wp-block-button is-style-primary-light"><a class="wp-block-button__link wp-element-button" href="https://idc.local/informations-services-apostille-canada/articles-apostille-processus-canada/?lang=fr">Voir plus d'articles</a></div>
-<!-- /wp:button --></div>
-<!-- /wp:buttons --></section>
+<!-- wp:heading {"className":"has-gray-400-color has-text-color has-link-color","style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}},"typography":{"fontStyle":"normal","fontWeight":"400","textAlign":"center"}},"textColor":"white"} -->
+<h2 class="wp-block-heading has-text-align-center has-gray-400-color has-text-color has-link-color has-white-color" style="font-style:normal;font-weight:400">La confiance des particuliers<br><em><em><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-primary-pale-color"><em>comme des organisations</em></mark></em></em></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}},"typography":{"textAlign":"center"},"spacing":{"margin":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|60"}}},"textColor":"white","fontSize":"medium"} -->
+<p class="has-text-align-center has-white-color has-text-color has-link-color has-medium-font-size" style="margin-top:var(--wp--preset--spacing--50);margin-bottom:var(--wp--preset--spacing--60)">Lorsque vous avez besoin de faire reconnaître officiellement vos documents à l'étranger, nos services d'apostille simplifient le processus et vous épargnent tout stress.</p>
+<!-- /wp:paragraph --></header>
+<!-- /wp:group -->
+
+<!-- wp:group {"metadata":{"name":"Card Grid: Testimonials"},"align":"wide","className":"is-testimonial-grid","style":{"spacing":{"blockGap":"0"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group alignwide is-testimonial-grid"><!-- wp:group {"tagName":"article","metadata":{"name":"Card Item"},"className":"is-card is-card\u002d\u002dtestimonial","layout":{"type":"constrained"}} -->
+<article class="wp-block-group is-card is-card--testimonial"><!-- wp:paragraph -->
+<p>International Documents Canada a fournit un excellent service. Tout le temps, ils ont été en contact pour me parler du processus de traitement de mon document. C'était rapide et facile. Merci beaucoup ! (Traduit)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"align":"full","className":"is-card__footer","layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group alignfull is-card__footer"><!-- wp:image {"id":14954,"aspectRatio":"1","scale":"cover","sizeSlug":"thumbnail","linkDestination":"none","className":"is-style-rounded","style":{"layout":{"selfStretch":"fixed","flexSize":"60px"},"border":{"width":"1px"}},"borderColor":"grey-light"} -->
+<figure class="wp-block-image size-thumbnail has-custom-border is-style-rounded"><img src="https://idc.local/wp-content/uploads/Blanca-Bernal-cropped-150x122.jpg" alt="" class="has-border-color has-grey-light-border-color wp-image-14954" style="border-width:1px;aspect-ratio:1;object-fit:cover"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontStyle":"italic","fontWeight":"400"}}} -->
+<p style="font-style:italic;font-weight:400">Blanca B.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></article>
+<!-- /wp:group -->
+
+<!-- wp:group {"tagName":"article","metadata":{"name":"Card Item"},"className":"is-card is-card\u002d\u002dtestimonial","layout":{"type":"constrained"}} -->
+<article class="wp-block-group is-card is-card--testimonial"><!-- wp:paragraph -->
+<p>Merci beaucoup pour votre aide avec la navigation de la langage d'authentification et de légalisation des documents. Votre expertise a été cruciale pour ma compréhension du processus. Votre personnel n'a pas tardé à répondre en répondant aux questions et s'est mis en quatre pour me faciliter les choses afin de naviguer le processus pour obtentir les documents requis pour un visa de travail international. (Traduit)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"align":"full","className":"is-card__footer","layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group alignfull is-card__footer"><!-- wp:image {"id":23281,"aspectRatio":"1","scale":"cover","sizeSlug":"full","linkDestination":"none","className":"is-style-rounded","style":{"layout":{"selfStretch":"fixed","flexSize":"60px"},"border":{"width":"1px"}},"borderColor":"grey-light"} -->
+<figure class="wp-block-image size-full has-custom-border is-style-rounded"><img src="https://idc.local/wp-content/uploads/JD-1429R-Natalie-Fisher.jpg" alt="" class="has-border-color has-grey-light-border-color wp-image-23281" style="border-width:1px;aspect-ratio:1;object-fit:cover"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontStyle":"italic","fontWeight":"400"}}} -->
+<p style="font-style:italic;font-weight:400">Natalie F.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></article>
+<!-- /wp:group -->
+
+<!-- wp:group {"tagName":"article","metadata":{"name":"Card Item"},"className":"is-card is-card\u002d\u002dtestimonial","layout":{"type":"constrained"}} -->
+<article class="wp-block-group is-card is-card--testimonial"><!-- wp:paragraph -->
+<p>Le service était réactif, rapide et abordable. J'habite à Vancouver et certains endroits facturent 4 fois plus qu'idocs. Ma plus grande réservation était d'envoyer des documents originaux à travers le pays, mais je les ai récupérés sains et saufs.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"align":"full","className":"is-card__footer","layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group alignfull is-card__footer"><!-- wp:image {"id":15038,"aspectRatio":"1","scale":"cover","sizeSlug":"thumbnail","linkDestination":"none","className":"is-style-rounded","style":{"layout":{"selfStretch":"fixed","flexSize":"60px"},"border":{"width":"1px"}},"borderColor":"grey-light"} -->
+<figure class="wp-block-image size-thumbnail has-custom-border is-style-rounded"><img src="https://idc.local/wp-content/uploads/Raymond-Cheung-GC-1780P-512x384.jpg" alt="Raymond C." class="has-border-color has-grey-light-border-color wp-image-15038" style="border-width:1px;aspect-ratio:1;object-fit:cover"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontStyle":"italic","fontWeight":"400"}}} -->
+<p style="font-style:italic;font-weight:400">Raymond C.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></article>
+<!-- /wp:group --></div>
+<!-- /wp:group --></section>
 <!-- /wp:group -->

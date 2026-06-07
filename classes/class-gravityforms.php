@@ -39,7 +39,7 @@ class Gravityforms {
 			'inputImageChoiceStyle'        => 'square',
 			'inputImageChoiceSize'         => 'md',
 			'labelFontSize'                => '13',
-			'labelColor'                   => '#112337',
+			'labelColor'                   => '#4F4F4F',
 			'descriptionFontSize'          => '12',
 			'descriptionColor'             => '#585e6a',
 			'buttonPrimaryBackgroundColor' => '#1F3A5B',
