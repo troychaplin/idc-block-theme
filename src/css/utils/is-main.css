@@ -3,3 +3,11 @@
 .idc-main:not(.wp-block-group.alignfull[class*="is-style-"]):not(.wp-block-template-part) + .wp-block-group.alignfull[class*="is-style-"] {
     margin-top: var(--wp--preset--spacing--40);
 }
+
+.idc-main--spacing .wp-block-group.alignfull[class*="is-style-"]:first-child {
+    margin-top: calc(var(--wp--preset--spacing--70) * -1);
+}
+
+.idc-main--spacing .wp-block-group.alignfull[class*="is-style-"]:last-child {
+    margin-bottom: calc(var(--wp--preset--spacing--70) * -1);
+}

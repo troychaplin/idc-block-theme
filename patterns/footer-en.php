@@ -32,7 +32,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|white"},":hover":{"color":{"text":"var:preset|color|white"}}}}},"textColor":"grey"} -->
-<p class="has-grey-color has-text-color has-link-color">310 Beechgrove Avenue, Suite B<br>Ottawa, ON, Canada, K1Z 6R3</p>
+<p class="has-grey-color has-text-color has-link-color">903 Carling Ave, Suite 200<br>Ottawa, ON, Canada, K1Y 4E3</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|white"},":hover":{"color":{"text":"var:preset|color|white"}}}}},"textColor":"grey"} -->

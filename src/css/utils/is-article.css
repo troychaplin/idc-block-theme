@@ -30,6 +30,20 @@
     padding: var(--wp--preset--spacing--30);
 }
 
+.is-article--pages > li {
+    border: none;
+    background: none;
+    padding: 0;
+}
+
+.is-article--pages > li > .is-card {
+    height: 100%;
+}
+
+.is-article--pages > li > .is-card .wp-block-post-excerpt__more-text {
+    padding-top: var(--wp--preset--spacing--20);
+}
+
 .is-article .wp-block-post-featured-image {
     margin: 0 0 var(--wp--preset--spacing--20) 0;
 }

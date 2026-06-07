@@ -202,7 +202,7 @@
 			]
 		},
 		"layout": {
-			"contentSize": "674px",
+			"contentSize": "768px",
 			"wideSize": "1024px"
 		},
 		"shadow": {
@@ -603,6 +603,12 @@
 			"core/navigation": {
 				"spacing": {
 					"blockGap": "var(--wp--preset--spacing--50)"
+				}
+			},
+			"tidbits/tidbit": {
+				"typography": {
+					"fontFamily": "var(--wp--preset--font-family--inter)",
+					"fontSize": "var(--wp--preset--font-size--small)"
 				}
 			}
 		},
