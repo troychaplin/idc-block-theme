@@ -72,7 +72,9 @@
 
 /* Hero Headings */
 
-.is-hero h2.wp-block-heading {
+.is-hero h1.wp-block-heading,
+.is-hero h2.wp-block-heading,
+.is-hero h3.wp-block-heading {
     font-size: var(--wp--preset--font-size--heading-medium);
     margin-block-start: var(--wp--preset--spacing--50);
 }

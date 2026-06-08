@@ -56,6 +56,8 @@
     padding: var(--wp--preset--spacing--20);
 }
 
+.is-article__content h2,
+.is-article__content h3,
 .is-article__content h2 a,
 .is-article__content h3 a {
     font-size: var(--wp--preset--font-size--x-large);
@@ -92,6 +94,8 @@
     background: var(--wp--preset--gradient--custom-primary-dark-fade-out);
 }
 
+.is-article--blue .is-article__content h2,
+.is-article--blue .is-article__content h3,
 .is-article--blue .is-article__content h2 a,
 .is-article--blue .is-article__content h3 a {
     color: var(--wp--preset--color--white);

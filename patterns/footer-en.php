@@ -36,7 +36,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|white"},":hover":{"color":{"text":"var:preset|color|white"}}}}},"textColor":"grey"} -->
-<p class="has-grey-color has-text-color has-link-color"><a href="mailto:info@idocscanada.ca">info@idocscanada.ca</a><br><a href="tel:6137910533">613-791-0533</a></p>
+<p class="has-grey-color has-text-color has-link-color"><a href="mailto:info@idocscanada.ca">info@idocscanada.ca</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|white"},":hover":{"color":{"text":"var:preset|color|white"}}}}},"textColor":"grey"} -->
+<p class="has-grey-color has-text-color has-link-color"><a href="tel:6137910533">613-791-0533</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|white"},":hover":{"color":{"text":"var:preset|color|white"}}}}},"textColor":"grey"} -->
