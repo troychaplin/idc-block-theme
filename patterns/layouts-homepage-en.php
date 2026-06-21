@@ -210,56 +210,14 @@
 
 <!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}},"typography":{"textAlign":"center"},"spacing":{"margin":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|60"}}},"textColor":"white","fontSize":"medium"} -->
 <p class="has-text-align-center has-white-color has-text-color has-link-color has-medium-font-size" style="margin-top:var(--wp--preset--spacing--50);margin-bottom:var(--wp--preset--spacing--60)">When you need your documents officially recognized in another country, our document apostille services make the process simple and stress-free.</p>
-<!-- /wp:paragraph --></header>
-<!-- /wp:group -->
-
-<!-- wp:group {"metadata":{"name":"Card Grid: Testimonials"},"align":"wide","className":"is-testimonial-grid","style":{"spacing":{"blockGap":"0"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
-<div class="wp-block-group alignwide is-testimonial-grid"><!-- wp:group {"tagName":"article","metadata":{"name":"Card Item"},"className":"is-card is-card\u002d\u002dtestimonial","layout":{"type":"constrained"}} -->
-<article class="wp-block-group is-card is-card--testimonial"><!-- wp:paragraph -->
-<p>Service was responsive, fast and affordable. I live in Vancouver and some places charge 4x more than idocs did. My biggest reservation was sending original documents across the country but I got them back safe and in good condition.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:group {"align":"full","className":"is-card__footer","layout":{"type":"flex","flexWrap":"nowrap"}} -->
-<div class="wp-block-group alignfull is-card__footer"><!-- wp:image {"id":15038,"aspectRatio":"1","scale":"cover","sizeSlug":"thumbnail","linkDestination":"none","className":"is-style-rounded","style":{"layout":{"selfStretch":"fixed","flexSize":"60px"},"border":{"width":"1px"}},"borderColor":"grey-light"} -->
-<figure class="wp-block-image size-thumbnail has-custom-border is-style-rounded"><img src="https://idc.local/wp-content/uploads/Raymond-Cheung-GC-1780P-512x384.jpg" alt="Raymond C." class="has-border-color has-grey-light-border-color wp-image-15038" style="border-width:1px;aspect-ratio:1;object-fit:cover"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:paragraph {"style":{"typography":{"fontStyle":"italic","fontWeight":"400"}}} -->
-<p style="font-style:italic;font-weight:400">Raymond C.</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group --></article>
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-primary-light"} -->
+<div class="wp-block-button is-style-primary-light"><a class="wp-block-button__link wp-element-button" href="https://www.google.com/search?client=firefox-b-d&amp;hs=v0RV&amp;sca_esv=14779f88636af427&amp;sxsrf=APpeQnsXBQaK5wUBkbA-nyGtPa3mW8DUbA:1782043236569&amp;si=APenkKnzv9m99ToiohAuzpadUwbOz34nZJ3j2Ukmo5XOUYWApmu4zVzBF31-LVtFxBISWFY-TEvDY33KBUc501FsDspaBgBfwlO8WBLpTAVCpbnK8f3bVLs3aJA5uICS7eCsXHy83zZWld93nBAo9y07GYsLxpC5QA%3D%3D&amp;q=International+Documents+Canada+Reviews&amp;sa=X&amp;ved=2ahUKEwiU89uwpJiVAxXRHIYAHXgfJLgQ0bkNegQIOhAH&amp;biw=1492&amp;bih=816&amp;dpr=2" target="_blank" rel="noreferrer noopener">View Google Reviews</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></header>
 <!-- /wp:group -->
 
-<!-- wp:group {"tagName":"article","metadata":{"name":"Card Item"},"className":"is-card is-card\u002d\u002dtestimonial","layout":{"type":"constrained"}} -->
-<article class="wp-block-group is-card is-card--testimonial"><!-- wp:paragraph -->
-<p>I am lucky I found International Documents Canada to process my documents for attestation. I am thankful to your quick and timely service. You properly responded my queries with no delay. I am in Saudi Arabia and i didn't know what to do, but you solved my problem in a very little span of time. Thank you so much for your services.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:group {"align":"full","className":"is-card__footer","layout":{"type":"flex","flexWrap":"nowrap"}} -->
-<div class="wp-block-group alignfull is-card__footer"><!-- wp:image {"id":15117,"aspectRatio":"1","scale":"cover","sizeSlug":"full","linkDestination":"none","className":"is-style-rounded","style":{"layout":{"selfStretch":"fixed","flexSize":"60px"},"border":{"width":"1px"}},"borderColor":"grey-light"} -->
-<figure class="wp-block-image size-full has-custom-border is-style-rounded"><img src="https://idc.local/wp-content/uploads/Muhammad-GB-1351.jpg" alt="Muhammad" class="has-border-color has-grey-light-border-color wp-image-15117" style="border-width:1px;aspect-ratio:1;object-fit:cover"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:paragraph {"style":{"typography":{"fontStyle":"italic","fontWeight":"400"}}} -->
-<p style="font-style:italic;font-weight:400">Muhammad Khan</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group --></article>
-<!-- /wp:group -->
-
-<!-- wp:group {"tagName":"article","metadata":{"name":"Card Item"},"className":"is-card is-card\u002d\u002dtestimonial","layout":{"type":"constrained"}} -->
-<article class="wp-block-group is-card is-card--testimonial"><!-- wp:paragraph -->
-<p>I was pleased to find that the processing time was quite short. The documents were all processed and returned quickly and correctly. As well, a representative replied to each of my questions in a reasonable time frame. I would use this service again. You get what you pay for here.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:group {"align":"full","className":"is-card__footer","layout":{"type":"flex","flexWrap":"nowrap"}} -->
-<div class="wp-block-group alignfull is-card__footer"><!-- wp:image {"id":11190,"aspectRatio":"1","scale":"cover","sizeSlug":"full","linkDestination":"none","className":"is-style-rounded","style":{"layout":{"selfStretch":"fixed","flexSize":"60px"},"border":{"width":"1px"}},"borderColor":"grey-light"} -->
-<figure class="wp-block-image size-full has-custom-border is-style-rounded"><img src="https://idc.local/wp-content/uploads/venus-l.jpg" alt="Venus L." class="has-border-color has-grey-light-border-color wp-image-11190" style="border-width:1px;aspect-ratio:1;object-fit:cover"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:paragraph {"style":{"typography":{"fontStyle":"italic","fontWeight":"400"}}} -->
-<p style="font-style:italic;font-weight:400">Venus L.</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group --></article>
-<!-- /wp:group --></div>
-<!-- /wp:group --></section>
+<!-- wp:idc/testimonials /--></section>
 <!-- /wp:group -->
