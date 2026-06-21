@@ -71,8 +71,8 @@
 <!-- wp:group {"metadata":{"name":"Content Column"},"align":"wide","style":{"spacing":{"blockGap":"var:preset|spacing|40","margin":{"top":"var:preset|spacing|60"}}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignwide" style="margin-top:var(--wp--preset--spacing--60)"><!-- wp:group {"metadata":{"name":"Two Content Columns"},"align":"wide","className":"is-two-columns","layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignwide is-two-columns"><!-- wp:group {"metadata":{"name":"Content Column"},"style":{"spacing":{"blockGap":"var:preset|spacing|40"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:heading {"fontSize":"heading-medium"} -->
-<h2 class="wp-block-heading has-heading-medium-font-size">Comment nous pouvons vous aider</h2>
+<div class="wp-block-group"><!-- wp:heading {"level":3,"fontSize":"heading-medium"} -->
+<h3 class="wp-block-heading has-heading-medium-font-size">Comment nous pouvons vous aider</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"fontSize":"medium"} -->
@@ -85,8 +85,8 @@
 <!-- /wp:group -->
 
 <!-- wp:group {"metadata":{"name":"Content Column"},"style":{"spacing":{"blockGap":"var:preset|spacing|40"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:heading {"fontSize":"heading-medium"} -->
-<h2 class="wp-block-heading has-heading-medium-font-size">À propos de l’ambassade du Qatar</h2>
+<div class="wp-block-group"><!-- wp:heading {"level":3,"fontSize":"heading-medium"} -->
+<h3 class="wp-block-heading has-heading-medium-font-size">À propos de l’ambassade du Qatar</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"fontSize":"medium"} -->

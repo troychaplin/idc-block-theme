@@ -20,6 +20,7 @@ $idocs_modules = array(
 	new IDOCS\Gravityforms(),
 	new IDOCS\Language_Toggle_Block(),
 	new IDOCS\Register_Page_Type(),
+	new IDOCS\Register_Testimonials(),
 );
 
 foreach ( $idocs_modules as $idocs_module ) {

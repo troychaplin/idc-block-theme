@@ -28,8 +28,8 @@
 <!-- /wp:outermost/icon-block --></div>
 <!-- /wp:group -->
 
-<!-- wp:heading -->
-<h2 class="wp-block-heading">Document Preparation</h2>
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Document Preparation</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -48,8 +48,8 @@
 <!-- /wp:outermost/icon-block --></div>
 <!-- /wp:group -->
 
-<!-- wp:heading -->
-<h2 class="wp-block-heading">Document Apostille</h2>
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Document Apostille</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->

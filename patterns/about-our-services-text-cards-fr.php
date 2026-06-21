@@ -29,8 +29,8 @@
 
 <!-- wp:group {"metadata":{"name":"Card Column"},"className":"is-card-grid is-card-grid\u002d\u002dvertical","layout":{"type":"constrained"}} -->
 <div class="wp-block-group is-card-grid is-card-grid--vertical"><!-- wp:group {"metadata":{"name":"Card Item"},"className":"is-card is-card\u002d\u002dbeige-fade-in","layout":{"type":"constrained"}} -->
-<div class="wp-block-group is-card is-card--beige-fade-in"><!-- wp:heading {"fontSize":"x-large"} -->
-<h2 class="wp-block-heading has-x-large-font-size">Authentification de documents</h2>
+<div class="wp-block-group is-card is-card--beige-fade-in"><!-- wp:heading {"level":3,"fontSize":"x-large"} -->
+<h3 class="wp-block-heading has-x-large-font-size">Authentification de documents</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"fontSize":"small"} -->
@@ -39,8 +39,8 @@
 <!-- /wp:group -->
 
 <!-- wp:group {"metadata":{"name":"Card Item"},"className":"is-card is-card\u002d\u002dbeige-fade-in","layout":{"type":"constrained"}} -->
-<div class="wp-block-group is-card is-card--beige-fade-in"><!-- wp:heading {"fontSize":"x-large"} -->
-<h2 class="wp-block-heading has-x-large-font-size">Légalisation de documents</h2>
+<div class="wp-block-group is-card is-card--beige-fade-in"><!-- wp:heading {"level":3,"fontSize":"x-large"} -->
+<h3 class="wp-block-heading has-x-large-font-size">Légalisation de documents</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"fontSize":"small"} -->

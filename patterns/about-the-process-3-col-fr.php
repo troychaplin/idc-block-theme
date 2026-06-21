@@ -28,8 +28,8 @@
 <!-- /wp:outermost/icon-block --></div>
 <!-- /wp:group -->
 
-<!-- wp:heading -->
-<h2 class="wp-block-heading">Préparation du document</h2>
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Préparation du document</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -48,8 +48,8 @@
 <!-- /wp:outermost/icon-block --></div>
 <!-- /wp:group -->
 
-<!-- wp:heading -->
-<h2 class="wp-block-heading">Authentification du document</h2>
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Authentification du document</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -68,8 +68,8 @@
 <!-- /wp:outermost/icon-block --></div>
 <!-- /wp:group -->
 
-<!-- wp:heading -->
-<h2 class="wp-block-heading">Légalisation du document</h2>
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Légalisation du document</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
