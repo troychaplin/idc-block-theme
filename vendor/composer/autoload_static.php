@@ -28,6 +28,7 @@ class ComposerStaticInit54421d75c2c79028332951ea18376abd
         'IDOCS\\Language_Toggle_Block' => __DIR__ . '/../..' . '/classes/class-language-toggle-block.php',
         'IDOCS\\Register_Page_Type' => __DIR__ . '/../..' . '/classes/class-register-page-type.php',
         'IDOCS\\Register_Testimonials' => __DIR__ . '/../..' . '/classes/class-register-testimonials.php',
+        'IDOCS\\Testimonials_Block' => __DIR__ . '/../..' . '/classes/class-testimonials-block.php',
         'PHPCSUtils\\AbstractSniffs\\AbstractArrayDeclarationSniff' => __DIR__ . '/..' . '/phpcsstandards/phpcsutils/PHPCSUtils/AbstractSniffs/AbstractArrayDeclarationSniff.php',
         'PHPCSUtils\\BackCompat\\BCFile' => __DIR__ . '/..' . '/phpcsstandards/phpcsutils/PHPCSUtils/BackCompat/BCFile.php',
         'PHPCSUtils\\BackCompat\\BCTokens' => __DIR__ . '/..' . '/phpcsstandards/phpcsutils/PHPCSUtils/BackCompat/BCTokens.php',
