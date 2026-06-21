@@ -19,6 +19,7 @@ $idocs_modules = array(
 	new IDOCS\Block_Functions(),
 	new IDOCS\Gravityforms(),
 	new IDOCS\Language_Toggle_Block(),
+	new IDOCS\Testimonials_Block(),
 	new IDOCS\Register_Page_Type(),
 	new IDOCS\Register_Testimonials(),
 );
